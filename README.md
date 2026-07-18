@@ -4,7 +4,7 @@
 
 ## Установка
 
-Скопировать папки `languages` и `Data`, `Textures` в `Modules\Heirs of Dust\`. Согласится на замену.
+Скопировать папки `languages` и `Data`, `Textures` в `Modules\Kenshi\`. Согласится на замену.
 
 
 ## Состав
