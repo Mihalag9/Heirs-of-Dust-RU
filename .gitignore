@@ -1,0 +1,7 @@
+*
+!*/
+!.gitignore
+!README.md
+!languages/ru/**
+!Data/FONT_DATA.XML
+!Textures/FONT.DDS
