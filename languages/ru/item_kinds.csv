@@ -1004,806 +1004,806 @@ itm_shield_heater_c|Каплевидный щит
 itm_shield_heater_c_pl|Каплевидные щиты
 itm_norman_shield_1|Ромбовидный щит
 itm_norman_shield_1_pl|Ромбовидные щиты
-itm_norman_shield_2|Kite Shield
-itm_norman_shield_2_pl|Kite Shield
-itm_norman_shield_3|Kite Shield
-itm_norman_shield_3_pl|Kite Shield
-itm_norman_shield_4|Kite Shield
-itm_norman_shield_4_pl|Kite Shield
-itm_norman_shield_5|Kite Shield
-itm_norman_shield_5_pl|Kite Shield
-itm_norman_shield_6|Kite Shield
-itm_norman_shield_6_pl|Kite Shield
-itm_norman_shield_7|Left Handed Ninjato
-itm_norman_shield_7_pl|Left Handed Ninjato
-itm_norman_shield_8|Meat Lord Shield
-itm_norman_shield_8_pl|Meat Lord Shield
-itm_tab_shield_round_a|Old Round Shield
-itm_tab_shield_round_a_pl|Old Round Shield
-itm_tab_shield_round_b|Plain Round Shield
-itm_tab_shield_round_b_pl|Plain Round Shield
-itm_tab_shield_round_c|Round Shield
-itm_tab_shield_round_c_pl|Round Shield
-itm_tab_shield_round_d|Wicker Round Shield
-itm_tab_shield_round_d_pl|Wicker Round Shields
-itm_tab_shield_round_e|Huscarl's Round Shield
-itm_tab_shield_round_e_pl|Huscarl's Round Shield
-itm_tab_shield_kite_a|Old Kite Shield
-itm_tab_shield_kite_a_pl|Old Kite Shield
-itm_tab_shield_kite_b|Plain Kite Shield
-itm_tab_shield_kite_b_pl|Plain Kite Shield
-itm_tab_shield_kite_c|Kite Shield
-itm_tab_shield_kite_c_pl|Kite Shield
-itm_tab_shield_kite_d|Heavy Kite Shield
-itm_tab_shield_kite_d_pl|Heavy Kite Shield
-itm_tab_shield_kite_cav_a|Horseman's Kite Shield
-itm_tab_shield_kite_cav_a_pl|Horseman's Kite Shield
-itm_tab_shield_kite_cav_b|Knightly Kite Shield
-itm_tab_shield_kite_cav_b_pl|Knightly Kite Shield
-itm_tab_shield_heater_a|Old Heater Shield
-itm_tab_shield_heater_a_pl|Old Heater Shield
-itm_tab_shield_heater_b|Plain Heater Shield
-itm_tab_shield_heater_b_pl|Plain Heater Shield
-itm_tab_shield_heater_c|Heater Shield
-itm_tab_shield_heater_c_pl|Heater Shield
-itm_tab_shield_heater_d|Heavy Heater Shield
-itm_tab_shield_heater_d_pl|Heavy Heater Shield
-itm_tab_shield_heater_cav_a|Horseman's Heater Shield
-itm_tab_shield_heater_cav_a_pl|Horseman's Heater Shield
-itm_tab_shield_heater_cav_b|Knightly Heater Shield
-itm_tab_shield_heater_cav_b_pl|Knightly Heater Shield
-itm_tab_shield_pavise_a|Old Board Shield
-itm_tab_shield_pavise_a_pl|Old Board Shield
-itm_tab_shield_pavise_b|Plain Board Shield
-itm_tab_shield_pavise_b_pl|Plain Board Shield
-itm_tab_shield_pavise_c|Leather Square Shield
-itm_tab_shield_pavise_c_pl|Leather Square Shields
-itm_tab_shield_pavise_d|Spiked Board Shield
-itm_tab_shield_pavise_d_pl|Spiked Board Shield
-itm_tab_shield_small_round_a|Plain Cavalry Shield
-itm_tab_shield_small_round_a_pl|Plain Cavalry Shield
-itm_tab_shield_small_round_b|Round Cavalry Shield
-itm_tab_shield_small_round_b_pl|Round Cavalry Shield
-itm_tab_shield_small_round_c|Elite Cavalry Shield
-itm_tab_shield_small_round_c_pl|Elite Cavalry Shield
-itm_darts|Darts
-itm_darts_pl|Darts
-itm_war_darts|War Darts
-itm_war_darts_pl|War Darts
-itm_javelin|Javelins
-itm_javelin_pl|Javelins
-itm_javelin_melee|Javelin
-itm_javelin_melee_pl|Javelin
-itm_throwing_spears|Throwing Spears
-itm_throwing_spears_pl|Throwing Spears
-itm_throwing_spear_melee|Throwing Spear
-itm_throwing_spear_melee_pl|Throwing Spear
-itm_jarid|Jarids
-itm_jarid_pl|Jarids
-itm_jarid_melee|Jarid
-itm_jarid_melee_pl|Jarid
-itm_stones|Stones
-itm_stones_pl|Stones
-itm_throwing_knives|Throwing Knives
-itm_throwing_knives_pl|Throwing Knives
-itm_throwing_daggers|Throwing Daggers
-itm_throwing_daggers_pl|Throwing Daggers
-itm_light_throwing_axes|Light Throwing Axes
-itm_light_throwing_axes_pl|Light Throwing Axes
-itm_light_throwing_axes_melee|Light Throwing Axe
-itm_light_throwing_axes_melee_pl|Light Throwing Axe
-itm_throwing_axes|Throwing Axes
-itm_throwing_axes_pl|Throwing Axes
-itm_throwing_axes_melee|Throwing Axe
-itm_throwing_axes_melee_pl|Throwing Axe
-itm_heavy_throwing_axes|Heavy Throwing Axes
-itm_heavy_throwing_axes_pl|Heavy Throwing Axes
-itm_heavy_throwing_axes_melee|Heavy Throwing Axe
-itm_heavy_throwing_axes_melee_pl|Heavy Throwing Axe
-itm_hunting_bow|Hunting Bow
-itm_hunting_bow_pl|Hunting Bow
-itm_short_bow|Desert Hunter Bow
-itm_short_bow_pl|Desert Hunter Bows
-itm_nomad_bow|Nomad Bow
-itm_nomad_bow_pl|Nomad Bow
-itm_long_bow|Long Bow
-itm_long_bow_pl|Long Bow
-itm_khergit_bow|Makeshift Bow
-itm_khergit_bow_pl|Makeshift Bows
-itm_strong_bow|Strong Bow
-itm_strong_bow_pl|Strong Bow
-itm_war_bow|Savage Bow
-itm_war_bow_pl|Savage Bows
-itm_hunting_crossbow|Hunting Crossbow
-itm_hunting_crossbow_pl|Hunting Crossbow
-itm_light_crossbow|Swamper Hand Crossbow
-itm_light_crossbow_pl|Swamper Hand Crossbows
-itm_crossbow|Makeshift Hand Crossbow
-itm_crossbow_pl|Makeshift Hand Crossbows
-itm_heavy_crossbow|Heavy Crossbow
-itm_heavy_crossbow_pl|Heavy Crossbow
-itm_sniper_crossbow|Siege Crossbow
-itm_sniper_crossbow_pl|Siege Crossbow
-itm_flintlock_pistol|Flintlock Pistol
-itm_flintlock_pistol_pl|Flintlock Pistol
-itm_torch|Torch
-itm_torch_pl|Torch
-itm_lyre|Lyre
-itm_lyre_pl|Lyre
-itm_lute|Lute
-itm_lute_pl|Lute
-itm_strange_armor|Strange Yoroi
-itm_strange_armor_pl|Strange Yoroi
-itm_strange_boots|Strange Suneate
-itm_strange_boots_pl|Strange Suneate
-itm_strange_helmet|Cursed Jingasa
-itm_strange_helmet_pl|Cursed Jingasa
-itm_strange_sword|Strange Sword
-itm_strange_sword_pl|Strange Sword
-itm_strange_great_sword|Strange Great Sword
-itm_strange_great_sword_pl|Strange Great Sword
-itm_strange_short_sword|Strange Short Sword
-itm_strange_short_sword_pl|Strange Short Sword
-itm_court_dress|Court Dress
-itm_court_dress_pl|Court Dress
-itm_rich_outfit|Rich Outfit
-itm_rich_outfit_pl|Rich Outfit
-itm_khergit_guard_armor|Serpent Lord Haori
-itm_khergit_guard_armor_pl|Serpent Lord Haori
-itm_felt_steppe_cap|Felt Steppe Cap
-itm_felt_steppe_cap_pl|Felt Steppe Cap
-itm_khergit_war_helmet|Khergit War Helmet
-itm_khergit_war_helmet_pl|Khergit War Helmet
-itm_khergit_helmet|Khergit Helmet
-itm_khergit_helmet_pl|Khergit Helmet
-itm_khergit_guard_boots|Rebel Tabi and Sugu
-itm_khergit_guard_boots_pl|Rebel Tabi and Sugu
-itm_khergit_guard_helmet|Bone Kabuto
-itm_khergit_guard_helmet_pl|Bone Kabuto
-itm_khergit_cavalry_helmet|Khergit Cavalry Helmet
-itm_khergit_cavalry_helmet_pl|Khergit Cavalry Helmet
-itm_black_hood|Hooded Gas Mask
-itm_black_hood_pl|Hooded Gas Mask
-itm_light_leather|Light Leather
-itm_light_leather_pl|Light Leather
-itm_light_leather_boots|Light Leather Boots
-itm_light_leather_boots_pl|Light Leather Boots
-itm_mail_and_plate|Okranite Surcoat
-itm_mail_and_plate_pl|Okranite Surcoats
-itm_light_mail_and_plate|Light Mail and Plate
-itm_light_mail_and_plate_pl|Light Mail and Plate
-itm_byzantion_helmet_a|Reinforced Eboshi Hat
-itm_byzantion_helmet_a_pl|Reinforced Eboshi Hats
-itm_magyar_helmet_a|Penitent Hood
-itm_magyar_helmet_a_pl|Penitent Hoods
-itm_rus_helmet_a|Rus Helmet
-itm_rus_helmet_a_pl|Rus Helmet
-itm_sipahi_helmet_a|Oni Jingasa
-itm_sipahi_helmet_a_pl|Oni Jingasa
-itm_shahi|Shahi
-itm_shahi_pl|Shahi
-itm_rabati|Okranite Capirote
-itm_rabati_pl|Okranite Capirotes
-itm_tunic_with_green_cape|Tunic with Green Cape
-itm_tunic_with_green_cape_pl|Tunic with Green Cape
-itm_keys|Ring of Keys
-itm_keys_pl|Ring of Keys
-itm_bride_dress|Bride Dress
-itm_bride_dress_pl|Bride Dress
-itm_bride_crown|Crown of Flowers
-itm_bride_crown_pl|Crown of Flowers
-itm_bride_shoes|Bride Shoes
-itm_bride_shoes_pl|Bride Shoes
-itm_practice_bow_2|Practice Bow
-itm_practice_bow_2_pl|Practice Bow
-itm_practice_arrows_2|Practice Arrows
-itm_practice_arrows_2_pl|Practice Arrows
-itm_plate_boots|Tsubo Suneate
-itm_plate_boots_pl|Tsubo Suneate
-itm_mail_boots_for_tableau|Mail Boots
-itm_mail_boots_for_tableau_pl|Mail Boots
-itm_warhorse_sarranid|Sarranian War Horse
-itm_warhorse_sarranid_pl|Sarranian War Horse
-itm_warhorse_steppe|Steppe Charger
-itm_warhorse_steppe_pl|Steppe Charger
-itm_woa_items_start|Steppe Charger
-itm_woa_items_start_pl|Steppe Charger
-itm_jagron_green|Green Jagron
-itm_jagron_green_pl|Green Jagron
-itm_jagron_brown|Brown Jagron
-itm_jagron_brown_pl|Brown Jagron
-itm_jagron_red|Red Jagron
-itm_jagron_red_pl|Red Jagron
-itm_jagron_bronze|Bronze Jagron
-itm_jagron_bronze_pl|Bronze Jagron
-itm_jagron_black|Black Jagron
-itm_jagron_black_pl|Black Jagron
-itm_robe_brown_green|Short Robe
-itm_robe_brown_green_pl|Short Robe
-itm_robe_brown_red|Short Robe
-itm_robe_brown_red_pl|Short Robe
-itm_robe_greenstripe|Short Robe
-itm_robe_greenstripe_pl|Short Robe
-itm_robe_mustard_brown|Short Robe
-itm_robe_mustard_brown_pl|Short Robe
-itm_robe_mustard_orange|Short Robe
-itm_robe_mustard_orange_pl|Short Robe
-itm_robe_mustard_red|Short Robe
-itm_robe_mustard_red_pl|Short Robe
-itm_robe_orange_green|Short Robe
-itm_robe_orange_green_pl|Short Robe
-itm_robe_red_orange|Short Robe
-itm_robe_red_orange_pl|Short Robe
-itm_robe_tan_brown|Short Robe
-itm_robe_tan_brown_pl|Short Robe
-itm_robe_tan_orange|Short Robe
-itm_robe_tan_orange_pl|Short Robe
-itm_robe_tan_red|Short Robe
-itm_robe_tan_red_pl|Short Robe
-itm_robe_white_bands|Short Robe
-itm_robe_white_bands_pl|Short Robe
-itm_robe_white_brown|Short Robe
-itm_robe_white_brown_pl|Short Robe
-itm_robe_white_orange|Short Robe
-itm_robe_white_orange_pl|Short Robe
-itm_robe_white_red|Short Robe
-itm_robe_white_red_pl|Short Robe
-itm_coat_brn|Tunic with Vest
-itm_coat_brn_pl|Tunic with Vest
-itm_coat_olive|Tunic with Vest
-itm_coat_olive_pl|Tunic with Vest
-itm_coat_olive_b|Tunic with Vest
-itm_coat_olive_b_pl|Tunic with Vest
-itm_coat_russet|Tunic with Vest
-itm_coat_russet_pl|Tunic with Vest
-itm_coat_russet_b|Tunic with Vest
-itm_coat_russet_b_pl|Tunic with Vest
-itm_coarse_tunic_b|Tunic with Vest
-itm_coarse_tunic_b_pl|Tunic with Vest
-itm_coarse_tunic_c|Tunic with Vest
-itm_coarse_tunic_c_pl|Tunic with Vest
-itm_coarse_tunic_d|Tunic with Vest
-itm_coarse_tunic_d_pl|Tunic with Vest
-itm_tunic_waistcoat_wb|Tunic and Waistcoat
-itm_tunic_waistcoat_wb_pl|Tunic and Waistcoat
-itm_tunic_waistcoat_wbb|Tunic and Waistcoat
-itm_tunic_waistcoat_wbb_pl|Tunic and Waistcoat
-itm_cloak_red|Cloak
-itm_cloak_red_pl|Cloak
-itm_cloak_green|Cloak
-itm_cloak_green_pl|Cloak
-itm_cloak_blue|Cloak
-itm_cloak_blue_pl|Cloak
-itm_cloak_black|Cloak
-itm_cloak_black_pl|Cloak
-itm_cloak_orange|Cloak
-itm_cloak_orange_pl|Cloak
-itm_earrings_a|Earrings
-itm_earrings_a_pl|Earrings
-itm_earrings_b|Earrings
-itm_earrings_b_pl|Earrings
-itm_earrings_c|Earrings
-itm_earrings_c_pl|Earrings
-itm_earrings_d|Earrings
-itm_earrings_d_pl|Earrings
-itm_eardrops_a|Earrings
-itm_eardrops_a_pl|Earrings
-itm_eardrops_b|Earrings
-itm_eardrops_b_pl|Earrings
-itm_eardrops_c|Earrings
-itm_eardrops_c_pl|Earrings
-itm_eardrops_d|Earrings
-itm_eardrops_d_pl|Earrings
-itm_eardrops_e|Earrings
-itm_eardrops_e_pl|Earrings
-itm_mar_hat_b|Wanderer's Hat
-itm_mar_hat_b_pl|Wanderer's Hat
-itm_mar_headcloth_brown|Headcloth
-itm_mar_headcloth_brown_pl|Headcloth
-itm_mar_headcloth_mustard|Headcloth
-itm_mar_headcloth_mustard_pl|Headcloth
-itm_mar_headcloth_red|Headcloth
-itm_mar_headcloth_red_pl|Headcloth
-itm_mar_headcloth_russet|Headcloth
-itm_mar_headcloth_russet_pl|Headcloth
-itm_mar_headcloth_tan|Headcloth
-itm_mar_headcloth_tan_pl|Headcloth
-itm_mar_hat_aa|Masked Sandogasa
-itm_mar_hat_aa_pl|Masked Sandogasas
-itm_mar_hat_bb|Sandogasa
-itm_mar_hat_bb_pl|Sandogasas
-itm_mar_hat_c|Brown Sandogasa
-itm_mar_hat_c_pl|Brown Sandogasa
-itm_mar_hat_bx|Field Hat
-itm_mar_hat_bx_pl|Field Hat
-itm_warmask_a|Ancient Warmask
-itm_warmask_a_pl|Ancient Warmask
-itm_warmask_b|Ancient Hood
-itm_warmask_b_pl|Ancient Hoods
-itm_warmask_c|Ancient Warmask
-itm_warmask_c_pl|Ancient Warmask
-itm_fulgurator_power_pack|Bag of Bullets
-itm_fulgurator_power_pack_pl|Bag of Bullets
-itm_fulgurator_power_pack_b|Black Iron Bullets
-itm_fulgurator_power_pack_b_pl|Black Iron Bullets
-itm_raygun_a|Hunter Flintlock Pistol
-itm_raygun_a_pl|Hunter Flintlock Pistols
-itm_raygun_b|Flintlock Kubur
-itm_raygun_b_pl|Flintlock Kuburs
-itm_raygun_c|Catun Flinter Pistol
-itm_raygun_c_pl|Catun Flinter Pistols
-itm_raygun_d|Heng Flinter Pistol
-itm_raygun_d_pl|Heng Flinter Pistols
-itm_galvanic_bow|Plasma Bow
-itm_galvanic_bow_pl|Plasma Bow
-itm_energy_bolts|Galvanic Arrows
-itm_energy_bolts_pl|Galvanic Arrows
-itm_energy_bolts_b|Plasma Arrows
-itm_energy_bolts_b_pl|Plasma Arrows
-itm_energy_bolts_c|Plasma Arrows
-itm_energy_bolts_c_pl|Plasma Arrows
-itm_fulgurator_rifle|Fulgurator Musket
-itm_fulgurator_rifle_pl|Fulgurator Muskets
-itm_force_shield_sm_a|Warlord Shield
-itm_force_shield_sm_a_pl|Warlord Shield
-itm_force_shield_sm_b|Spiked Warshield
-itm_force_shield_sm_b_pl|Spiked Warshield
-itm_force_shield_sm_c|Left Handed Scimitar
-itm_force_shield_sm_c_pl|Left Handed Scimitars
-itm_force_shield_sm_d|Rattan Skirmisher Shield
-itm_force_shield_sm_d_pl|Rattan Skirmisher Shields
-itm_force_shield_sm_e|Spiked Wooden Shield
-itm_force_shield_sm_e_pl|Spiked Wooden Shields
-itm_diadem_a|Tiara
-itm_diadem_a_pl|Tiara
-itm_diadem_b|Tiara
-itm_diadem_b_pl|Tiara
-itm_diadem_c|Tiara
-itm_diadem_c_pl|Tiara
-itm_diadem_d|Tiara
-itm_diadem_d_pl|Tiara
-itm_diadem_e|Tiara
-itm_diadem_e_pl|Tiara
-itm_diadem_f|Tiara
-itm_diadem_f_pl|Tiara
-itm_tiara_a|Tiara
-itm_tiara_a_pl|Tiara
-itm_tiara_b|Tiara
-itm_tiara_b_pl|Tiara
-itm_tiara_c|Tiara
-itm_tiara_c_pl|Tiara
-itm_tiara_d|Tiara
-itm_tiara_d_pl|Tiara
-itm_diadem_g|War Tiara
-itm_diadem_g_pl|War Tiara
-itm_fulgurator_power_pack_c|Bullet Pouch
-itm_fulgurator_power_pack_c_pl|Bullet Pouch
-itm_fulgurator_power_pack_d|Bullet Bag
-itm_fulgurator_power_pack_d_pl|Bullet Bag
-itm_zaplance_a|Zaplance
-itm_zaplance_a_pl|Zaplance
-itm_zaplance_a_m|Zaplance
-itm_zaplance_a_m_pl|Zaplance
-itm_artifact_a|Ancient Artifacts
-itm_artifact_a_pl|Ancient Artifacts
-itm_artifact_b|Ancient Artifacts
-itm_artifact_b_pl|Ancient Artifacts
-itm_artifact_c|Ancient Artifacts
-itm_artifact_c_pl|Ancient Artifacts
-itm_artifact_d|Ancient Artifacts
-itm_artifact_d_pl|Ancient Artifacts
-itm_artifact_e|Ancient Artifacts
-itm_artifact_e_pl|Ancient Artifacts
-itm_artifact_f|Ancient Artifacts
-itm_artifact_f_pl|Ancient Artifacts
-itm_artifact_g|Ancient Artifacts
-itm_artifact_g_pl|Ancient Artifacts
-itm_artifact_h|Ancient Artifacts
-itm_artifact_h_pl|Ancient Artifacts
-itm_energy_spear|Ancient Energy Spear
-itm_energy_spear_pl|Ancient Energy Spear
-itm_energy_spear_m|Trident
-itm_energy_spear_m_pl|Trident
-itm_fulgurator_power_pack_e|Fulgurator Power Pack
-itm_fulgurator_power_pack_e_pl|Fulgurator Power Pack
-itm_black_varanid_head|Heavy Lifter Unit Head
-itm_black_varanid_head_pl|Heavy Lifter Unit Head
-itm_black_varanid_hands|Heavy Lifter Unit Hands
-itm_black_varanid_hands_pl|Heavy Lifter Unit Hands
-itm_black_varanid_feet|Heavy Lifter Unit Feet
-itm_black_varanid_feet_pl|Heavy Lifter Unit Feet
-itm_black_varanid_breastplate|Heavy Lifter Frame MK#3
-itm_black_varanid_breastplate_pl|Heavy Lifter Frame MK#3
-itm_halberd_g|Halberd
-itm_halberd_g_pl|Halberd
-itm_warmonk_armor|War Monk Lamellar
-itm_warmonk_armor_pl|War Monk Lamellar
-itm_great_dbaxe|Great Double Axe
-itm_great_dbaxe_pl|Great Double Axe
-itm_pugling_body|Pugling Body
-itm_pugling_body_pl|Pugling Body
-itm_pugling_head|Pugling Head
-itm_pugling_head_pl|Pugling Head
-itm_pugling_hands|Pugling Hands
-itm_pugling_hands_pl|Pugling Hands
-itm_varanid_body|Fishman Body
-itm_varanid_body_pl|Fishmen Bodies
-itm_varanid_head|Fishman Head
-itm_varanid_head_pl|Fishman Head
-itm_varanid_hands|Fishman Hands
-itm_varanid_hands_pl|Fishman Hands
-itm_varanid_feet|Fishman Feet
-itm_varanid_feet_pl|Fishman Feet
-itm_varanid_breastplate|Varanid Breastplate
-itm_varanid_breastplate_pl|Varanid Breastplate
-itm_varanid_bone_warclub|Varanid Toothed Warclub
-itm_varanid_bone_warclub_pl|Varanid Toothed Warclub
-itm_varanid_bone_warclub_2h|Varanid Great Toothed Warclub
-itm_varanid_bone_warclub_2h_pl|Varanid Great Toothed Warclub
-itm_varanid_jaw_club|Varanid Toothed Warclub
-itm_varanid_jaw_club_pl|Varanid Toothed Warclub
-itm_varanid_tooth_sword|Tribal Toothed Sword
-itm_varanid_tooth_sword_pl|Tribal Toothed Swords
-itm_varanid_hunting_spear|Tribal Hunting Spear
-itm_varanid_hunting_spear_pl|Tribal Hunting Spears
-itm_varanid_hunting_spear_mel|Javelin
-itm_varanid_hunting_spear_mel_pl|Javelin
-itm_wicker_shield|Leather Shield
-itm_wicker_shield_pl|Leather Shield
-itm_varanid_gaff_sword|Tribal Sickle Sword
-itm_varanid_gaff_sword_pl|Tribal Sickle Swords
-itm_varanid_sickle_sword|Rusted Varanid Khopesh
-itm_varanid_sickle_sword_pl|Rusted Varanid Khopesh
-itm_varanid_sickle_sword_b|Rusted Varanid Khopesh
-itm_varanid_sickle_sword_b_pl|Rusted Varanid Khopesh
-itm_varanid_sickle_sword_c|Rusted Varanid Khopesh
-itm_varanid_sickle_sword_c_pl|Rusted Varanid Khopesh
-itm_red_varanid_breastplate|Varanid Breastplate
-itm_red_varanid_breastplate_pl|Varanid Breastplate
-itm_red_varanid_chief_head|Red Varanid Chief Head
-itm_red_varanid_chief_head_pl|Red Varanid Chief Head
-itm_red_varanid_head2|Red Varanid Head
-itm_red_varanid_head2_pl|Red Varanid Head
-itm_red_varanid_head|Red Varanid Head
-itm_red_varanid_head_pl|Red Varanid Head
-itm_red_varanid_body|Varanid Body
-itm_red_varanid_body_pl|Varanid Body
-itm_red_varanid_hands|Varanid Hands
-itm_red_varanid_hands_pl|Varanid Hands
-itm_red_varanid_feet|Varanid Feet
-itm_red_varanid_feet_pl|Varanid Feet
-itm_trex|War Lizard
-itm_trex_pl|War Lizard
-itm_varanid_longsword|Tribal Longsword
-itm_varanid_longsword_pl|Tribal Longsword
-itm_longsword_h|Longsword
-itm_longsword_h_pl|Longsword
-itm_varanid_ancient_sword|Tribal Sword
-itm_varanid_ancient_sword_pl|Tribal Swords
-itm_varanid_ancient_sword_b|Varanid Sword
-itm_varanid_ancient_sword_b_pl|Varanid Sword
-itm_varanid_ancient_sword_c|Varanid Sword
-itm_varanid_ancient_sword_c_pl|Varanid Sword
-itm_varanid_ancient_sword_d|Ancient Empire Sword
-itm_varanid_ancient_sword_d_pl|Ancient Empire Swords
-itm_gangorr_body|Gangorr Body
-itm_gangorr_body_pl|Gangorr Body
-itm_gangorr_head|Gangorr Head
-itm_gangorr_head_pl|Gangorr Head
-itm_gangorr_hands|Gangorr Hands
-itm_gangorr_hands_pl|Gangorr Hands
-itm_gangorr_feet|Gangorr Feet
-itm_gangorr_feet_pl|Gangorr Feet
-itm_gangorr_warclub_a|Barb Wire Bat
-itm_gangorr_warclub_a_pl|Barb Wire Bats
-itm_gangorr_warclub_b|Heavy Kanabo
-itm_gangorr_warclub_b_pl|Heavy Kanabo
-itm_mezonn_body|Mezonn Body
-itm_mezonn_body_pl|Mezonn Body
-itm_mezonn_head|Mezonn Head
-itm_mezonn_head_pl|Mezonn Head
-itm_mezonn_hands|Mezonn Hands
-itm_mezonn_hands_pl|Mezonn Hands
-itm_mezonn_feet|Mezonn Feet
-itm_mezonn_feet_pl|Mezonn Feet
-itm_vaspid_body|Vaspid Body
-itm_vaspid_body_pl|Vaspid Body
-itm_vaspid_head|Skimmer Head
-itm_vaspid_head_pl|Skimmer Heads
-itm_vaspid_hands|Vaspid Hands
-itm_vaspid_hands_pl|Vaspid Hands
-itm_vaspid_feet|Vaspid Feet
-itm_vaspid_feet_pl|Vaspid Feet
-itm_invisible_spike|Invisible Weapon
-itm_invisible_spike_pl|Invisible Weapon
-itm_gozonn_body|Gozonn Body
-itm_gozonn_body_pl|Gozonn Body
-itm_gozonn_head|Gozonn Head
-itm_gozonn_head_pl|Gozonn Head
-itm_gozonn_hands|Gozonn Hands
-itm_gozonn_hands_pl|Gozonn Hands
-itm_gozonn_feet|Gozonn Feet
-itm_gozonn_feet_pl|Gozonn Feet
-itm_chanak_body|Chanak Body
-itm_chanak_body_pl|Chanak Body
-itm_chanak_head|Chanak Head
-itm_chanak_head_pl|Chanak Head
-itm_chanak_hands|Chanak Hands
-itm_chanak_hands_pl|Chanak Hands
-itm_chanak_feet|Chanak Feet
-itm_chanak_feet_pl|Chanak Feet
-itm_spaceclan_boots|Space Boots
-itm_spaceclan_boots_pl|Space Boots
-itm_spaceclan_outfit|Spaceclan Shellsuit
-itm_spaceclan_outfit_pl|Spaceclan Shellsuit
-itm_spaceclan_pistol|Flintlock Dracgun
-itm_spaceclan_pistol_pl|Flintlock Dracgun
-itm_spaceclan_pistol_b|Desert Jezzail
-itm_spaceclan_pistol_b_pl|Desert Jezzails
-itm_spaceclan_pistol_c|Lasgun
-itm_spaceclan_pistol_c_pl|Lasgun
-itm_spaceclan_pistol_d|Lasgun
-itm_spaceclan_pistol_d_pl|Lasgun
-itm_lasgun_power_pack_b|Lasgun Power Pack
-itm_lasgun_power_pack_b_pl|Lasgun Power Pack
-itm_lasgun_power_pack_c|Lasgun Power Pack
-itm_lasgun_power_pack_c_pl|Lasgun Power Pack
-itm_bounty_hunter_head|Manhunter Sandogasa
-itm_bounty_hunter_head_pl|Manhunter Sandogasas
-itm_bounty_hunter_head_b|Bounty Hunter Helmet
-itm_bounty_hunter_head_b_pl|Bounty Hunter Helmets
-itm_bounty_hunter_head_c|Manhunter Iron Helmet
-itm_bounty_hunter_head_c_pl|Manhunter Iron Helmets
-itm_bounty_hunter_armor|Studded Leather Armor
-itm_bounty_hunter_armor_pl|Studded Leather Armors
-itm_bounty_hunter_armor_b|Bounty Hunter Armor
-itm_bounty_hunter_armor_b_pl|Bounty Hunter Armors
-itm_bounty_hunter_hands|Bounty Hunter Hands
-itm_bounty_hunter_hands_pl|Bounty Hunter Hands
-itm_spaceclan_security_outfit|Spaceclan Shellsuit
-itm_spaceclan_security_outfit_pl|Spaceclan Shellsuit
-itm_lasgun_power_pack|Handful of Bullets
-itm_lasgun_power_pack_pl|Handful of Bullets
-itm_terran_lasgun|Fuselock Gun
-itm_terran_lasgun_pl|Fuselock Guns
-itm_terran_helmet|Deep Diving Helmet
-itm_terran_helmet_pl|Deep Diving Helmet
-itm_terran_spacesuit|Deep Diving Suit
-itm_terran_spacesuit_pl|Deep Diving Suits
-itm_terran_boots|Deep Diving Boots
-itm_terran_boots_pl|Deep Diving Boots
-itm_terran_spacesuit_f|Deep Diving Suit
-itm_terran_spacesuit_f_pl|Deep Diving Suits
-itm_terran_gloves|Space Gloves
-itm_terran_gloves_pl|Space Gloves
-itm_laser_rifle|Matchlock Rifle
-itm_laser_rifle_pl|Matchlock Rifle
-itm_machete|Survival Slicer
-itm_machete_pl|Survival Slicer
-itm_double_sword|Double Sword
-itm_double_sword_pl|Double Sword
-itm_cav_sword_common_a|Saber
-itm_cav_sword_common_a_pl|Saber
-itm_cav_sword_common_b|Saber
-itm_cav_sword_common_b_pl|Saber
-itm_inf_sword_a|Infantry Sword
-itm_inf_sword_a_pl|Infantry Sword
-itm_inf_sword_b|Infantry Sword
-itm_inf_sword_b_pl|Infantry Sword
-itm_inf_sword_c|Infantry Sword
-itm_inf_sword_c_pl|Infantry Sword
-itm_inf_sword_d|Infantry Sword
-itm_inf_sword_d_pl|Infantry Sword
-itm_inf_sword_e|Infantry Sword
-itm_inf_sword_e_pl|Infantry Sword
-itm_saber_a|Hunting Saber
-itm_saber_a_pl|Hunting Sabers
-itm_saber_d|Saber
-itm_saber_d_pl|Saber
-itm_saber_db|Engraved Saber
-itm_saber_db_pl|Engraved Sabers
-itm_saber_e|Saber
-itm_saber_e_pl|Saber
-itm_saber_g|Saber
-itm_saber_g_pl|Saber
-itm_broadsword_a|Broadsword
-itm_broadsword_a_pl|Broadsword
-itm_broadsword_b|Broadsword
-itm_broadsword_b_pl|Broadsword
-itm_broadsword_d|Broadsword
-itm_broadsword_d_pl|Broadsword
-itm_saber_b|Loan Tanto
-itm_saber_b_pl|Loan Tanto
-itm_saber_c|Saber
-itm_saber_c_pl|Saber
-itm_saber_f|Saber
-itm_saber_f_pl|Saber
-itm_saber_h|Saber
-itm_saber_h_pl|Saber
-itm_broadsword_c|Broadsword
-itm_broadsword_c_pl|Broadsword
-itm_rapier_a|Drifter Saber
-itm_rapier_a_pl|Drifter Sabers
-itm_cav_sword_noble_a|Saber
-itm_cav_sword_noble_a_pl|Saber
-itm_cav_sword_noble_b|Saber
-itm_cav_sword_noble_b_pl|Saber
-itm_cav_sword_noble_c|Saber
-itm_cav_sword_noble_c_pl|Saber
-itm_cav_sword_noble_d|Saber
-itm_cav_sword_noble_d_pl|Saber
-itm_cav_sword_noble_e|Saber
-itm_cav_sword_noble_e_pl|Saber
-itm_cav_sword_noble_f|Saber
-itm_cav_sword_noble_f_pl|Saber
-itm_court_sword_a|Clan Heirloom Saber
-itm_court_sword_a_pl|Clan Heirloom Sabers
-itm_court_sword_b|Court Sword
-itm_court_sword_b_pl|Court Sword
-itm_court_sword_c|Court Sword
-itm_court_sword_c_pl|Court Sword
-itm_court_sword_d|Court Sword
-itm_court_sword_d_pl|Court Sword
-itm_longsword_a|Longsword
-itm_longsword_a_pl|Longsword
-itm_longsword_b|Holed Saber
-itm_longsword_b_pl|Holed Saber
-itm_longsword_c|Longsword
-itm_longsword_c_pl|Longsword
-itm_longsword_d|Longsword
-itm_longsword_d_pl|Longsword
-itm_longsword_e|Chained Dadao
-itm_longsword_e_pl|Chained Dadao
-itm_longsword_f|Longsword
-itm_longsword_f_pl|Longsword
-itm_longsword_g|Longsword
-itm_longsword_g_pl|Longsword
-itm_halberd_a|Halberd
-itm_halberd_a_pl|Halberd
-itm_halberd_b|Halberd
-itm_halberd_b_pl|Halberd
-itm_halberd_c|Halberd
-itm_halberd_c_pl|Halberd
-itm_halberd_d|Halberd
-itm_halberd_d_pl|Halberd
-itm_halberd_e|Halberd
-itm_halberd_e_pl|Halberd
-itm_halberd_f|Halberd
-itm_halberd_f_pl|Halberd
-itm_double_scythe|Battle Scythe
-itm_double_scythe_pl|Battle Scythe
-itm_battle_scythe|Battle Scythe
-itm_battle_scythe_pl|Battle Scythe
-itm_battle_scythe_l|Left-Hand Battle Scythe
-itm_battle_scythe_l_pl|Left-Hand Battle Scythe
-itm_cav_spear_a|Lance
-itm_cav_spear_a_pl|Lance
-itm_cav_spear_b|Lance
-itm_cav_spear_b_pl|Lance
-itm_forked_lance|Forked Lance
-itm_forked_lance_pl|Forked Lance
-itm_inf_spear_a|Spear
-itm_inf_spear_a_pl|Spear
-itm_inf_spear_c|Yari
-itm_inf_spear_c_pl|Yari
-itm_trident_a|Trident
-itm_trident_a_pl|Trident
-itm_trident_b|Trident
-itm_trident_b_pl|Trident
-itm_zakra|Zakra
-itm_zakra_pl|Zakra
-itm_hand_crossbow_a|Hand Crossbow
-itm_hand_crossbow_a_pl|Hand Crossbow
-itm_hand_crossbow_b|Hand Crossbow
-itm_hand_crossbow_b_pl|Hand Crossbow
-itm_flechettes|Flechettes
-itm_flechettes_pl|Flechettes
-itm_poisoned_flechettes|Poisoned Flechettes
-itm_poisoned_flechettes_pl|Poisoned Flechettes
-itm_rhadjan_leather_buckler_a|Steel Buckler
-itm_rhadjan_leather_buckler_a_pl|Steel Bucklers
-itm_rhadjan_leather_buckler_b|Spiked Leather Buckler
-itm_rhadjan_leather_buckler_b_pl|Spiked Leather Bucklers
-itm_rhadjan_leather_buckler_c|Iron Buckler
-itm_rhadjan_leather_buckler_c_pl|Iron Buckler
-itm_rhadjan_leather_shield_a|Bandit Leather Shield
-itm_rhadjan_leather_shield_a_pl|Bandit Leather Shields
-itm_rhadjan_leather_shield_b|Flintlock Shield
-itm_rhadjan_leather_shield_b_pl|Flintlock Shields
-itm_rhadjan_leather_shield_c|Brass Shield
-itm_rhadjan_leather_shield_c_pl|Brass Shields
-itm_rhadjan_leather_shield_d|Tribal Leather Shield
-itm_rhadjan_leather_shield_d_pl|Tribal Leather Shields
-itm_rhadjan_leather_shield_e|Spiked Rattan Shield
-itm_rhadjan_leather_shield_e_pl|Spiked Rattan Shields
-itm_rhadjan_leather_shield_f|Spiked Wicker Shield
-itm_rhadjan_leather_shield_f_pl|Spiked Wicker Shields
-itm_heraldic_round_shield|Heraldic Round Shield
-itm_heraldic_round_shield_pl|Heraldic Round Shield
-itm_mercenary_cavalry_lamellar|Mercenary Lamellar Armor
-itm_mercenary_cavalry_lamellar_pl|Mercenary Lamellar Armor
-itm_scale_tabard_a|Desert Tracker Armor
-itm_scale_tabard_a_pl|Desert Tracker Armor
-itm_scale_tabard_b|Rebel Farmer Sugu
-itm_scale_tabard_b_pl|Rebel Farmer Sugu
-itm_scale_tabard_c|Nomad Lamellar Armor
-itm_scale_tabard_c_pl|Nomad Lamellar Armors
-itm_banded_leather_a|Slave Cage Armor
-itm_banded_leather_a_pl|Slave Cage Armors
-itm_banded_leather_b|Drifter Leather Armor
-itm_banded_leather_b_pl|Drifter Leather Armors
-itm_banded_leather_c|Rebel Gunner Gear
-itm_banded_leather_c_pl|Rebel Gunner Gear
-itm_banded_leather_d|Serpent Ao Giap
-itm_banded_leather_d_pl|Serpent Ao Giap
-itm_banded_leather_e|Banded Leather Armor
-itm_banded_leather_e_pl|Banded Leather Armor
-itm_banded_leather_spiked|Fur and Chain Hauberk
-itm_banded_leather_spiked_pl|Fur and Chain Hauberk
-itm_broigne_shirt|Samurai Plate and Rags
-itm_broigne_shirt_pl|Samurai Plates and Rags
-itm_rough_leather_metal_plates|Rough Furs
-itm_rough_leather_metal_plates_pl|Rough Furs
-itm_rough_leather_plates_ring|Tribal Lamellar Armor
-itm_rough_leather_plates_ring_pl|Tribal Lamellar Armors
-itm_rough_leatherplate_leather|Outcast Mail and Plate
-itm_rough_leatherplate_leather_pl|Outcast Mail and Plates
-itm_rough_paddedleather_leather|Studded Iron Armor
-itm_rough_paddedleather_leather_pl|Studded Iron Armor
-itm_mercenary_comb_helm|Mercenary Helmet
-itm_mercenary_comb_helm_pl|Mercenary Helmet
-itm_helm_sallet_common_a|Mercenary Helmet
-itm_helm_sallet_common_a_pl|Mercenary Helmet
-itm_helm_sailfin_common_a|Mercenary Helmet
-itm_helm_sailfin_common_a_pl|Mercenary Helmet
-itm_doublet_black|Black Silk Robes
-itm_doublet_black_pl|Black Silk Robes
-itm_doublet_brown|Grimy Coat
-itm_doublet_brown_pl|Grimy Coats
-itm_doublet_plain|Noble Yabusame
-itm_doublet_plain_pl|Noble Yabusame
-itm_doublet_rich|Daimyo Hakama
-itm_doublet_rich_pl|Daimyo Hakama
-itm_orogon_harness_a|Harness
-itm_orogon_harness_a_pl|Harness
-itm_orogon_harness_b|Harness
-itm_orogon_harness_b_pl|Harness
-itm_orogon_harness_c|Harness
-itm_orogon_harness_c_pl|Harness
-itm_orogon_vest_a|Orogon Vest
-itm_orogon_vest_a_pl|Orogon Vest
-itm_orogon_vest_b|Leather Vestment
-itm_orogon_vest_b_pl|Leather Vestment
-itm_orogon_vest_c|Orogon Vest
-itm_orogon_vest_c_pl|Orogon Vest
-itm_pirate_saber_a|Ripper Sabre
-itm_pirate_saber_a_pl|Ripper Sabres
-itm_orogon_sword_xa|Barbaric Cleaver
-itm_orogon_sword_xa_pl|Barbaric Cleaver
-itm_pirate_saber_b|Outlaw Cutlass
-itm_pirate_saber_b_pl|Outlaw Cutlasses
-itm_pirate_saber_c|Ripper Cutlass
-itm_pirate_saber_c_pl|Ripper Cutlass
-itm_pirate_saber_d|Fighter's Tangdao
-itm_pirate_saber_d_pl|Fighter's Tangdao
-itm_orogon_sword_xb|Tongued Saber
-itm_orogon_sword_xb_pl|Tongued Saber
-itm_pirate_saber_b_l|Left-Hand Sabre
-itm_pirate_saber_b_l_pl|Left-Hand Sabre
-itm_orogon_shield_a|Tengpai
-itm_orogon_shield_a_pl|Tengpai
-itm_orogon_shield_b|Tengpai
-itm_orogon_shield_b_pl|Tengpai
-itm_orogon_shield_c|Steel Shield
-itm_orogon_shield_c_pl|Steel Shield
-itm_orogon_shield_d|Tengpai
-itm_orogon_shield_d_pl|Tengpai
-itm_orogon_shield_e|Studded Steel Shield
-itm_orogon_shield_e_pl|Studded Steel Shield
-itm_orogon_shield_f|Watchful Peh
-itm_orogon_shield_f_pl|Watchful Peh
-itm_marakuur_shield_a|Wicker Shield
-itm_marakuur_shield_a_pl|Wicker Shields
+itm_norman_shield_2|Ромбовидный щит
+itm_norman_shield_2_pl|Ромбовидные щиты
+itm_norman_shield_3|Ромбовидный щит
+itm_norman_shield_3_pl|Ромбовидные щиты
+itm_norman_shield_4|Ромбовидный щит
+itm_norman_shield_4_pl|Ромбовидные щиты
+itm_norman_shield_5|Ромбовидный щит
+itm_norman_shield_5_pl|Ромбовидные щиты
+itm_norman_shield_6|Ромбовидный щит
+itm_norman_shield_6_pl|Ромбовидные щиты
+itm_norman_shield_7|Ниндзято левой руки
+itm_norman_shield_7_pl|Ниндзято левой руки
+itm_norman_shield_8|Щит мясного лорда
+itm_norman_shield_8_pl|Щиты мясного лорда
+itm_tab_shield_round_a|Старый круглый щит
+itm_tab_shield_round_a_pl|Старые круглые щиты
+itm_tab_shield_round_b|Простой круглый щит
+itm_tab_shield_round_b_pl|Простые круглые щиты
+itm_tab_shield_round_c|Круглый щит
+itm_tab_shield_round_c_pl|Круглые щиты
+itm_tab_shield_round_d|Плетёный круглый щит
+itm_tab_shield_round_d_pl|Плетёные круглые щиты
+itm_tab_shield_round_e|Круглый щит хускарла
+itm_tab_shield_round_e_pl|Круглые щиты хускарла
+itm_tab_shield_kite_a|Старый ромбовидный щит
+itm_tab_shield_kite_a_pl|Старые ромбовидные щиты
+itm_tab_shield_kite_b|Простой ромбовидный щит
+itm_tab_shield_kite_b_pl|Простые ромбовидные щиты
+itm_tab_shield_kite_c|Ромбовидный щит
+itm_tab_shield_kite_c_pl|Ромбовидные щиты
+itm_tab_shield_kite_d|Тяжёлый ромбовидный щит
+itm_tab_shield_kite_d_pl|Тяжёлые ромбовидные щиты
+itm_tab_shield_kite_cav_a|Ромбовидный щит всадника
+itm_tab_shield_kite_cav_a_pl|Ромбовидные щиты всадника
+itm_tab_shield_kite_cav_b|Рыцарский ромбовидный щит
+itm_tab_shield_kite_cav_b_pl|Рыцарские ромбовидные щиты
+itm_tab_shield_heater_a|Старый каплевидный щит
+itm_tab_shield_heater_a_pl|Старые каплевидные щиты
+itm_tab_shield_heater_b|Простой каплевидный щит
+itm_tab_shield_heater_b_pl|Простые каплевидные щиты
+itm_tab_shield_heater_c|Каплевидный щит
+itm_tab_shield_heater_c_pl|Каплевидные щиты
+itm_tab_shield_heater_d|Тяжёлый каплевидный щит
+itm_tab_shield_heater_d_pl|Тяжёлые каплевидные щиты
+itm_tab_shield_heater_cav_a|Каплевидный щит всадника
+itm_tab_shield_heater_cav_a_pl|Каплевидные щиты всадника
+itm_tab_shield_heater_cav_b|Рыцарский каплевидный щит
+itm_tab_shield_heater_cav_b_pl|Рыцарские каплевидные щиты
+itm_tab_shield_pavise_a|Старый дощатый щит
+itm_tab_shield_pavise_a_pl|Старые дощатые щиты
+itm_tab_shield_pavise_b|Простой дощатый щит
+itm_tab_shield_pavise_b_pl|Простые дощатые щиты
+itm_tab_shield_pavise_c|Кожаный квадратный щит
+itm_tab_shield_pavise_c_pl|Кожаные квадратные щиты
+itm_tab_shield_pavise_d|Шипастый дощатый щит
+itm_tab_shield_pavise_d_pl|Шипастые дощатые щиты
+itm_tab_shield_small_round_a|Простой кавалерийский щит
+itm_tab_shield_small_round_a_pl|Простые кавалерийские щиты
+itm_tab_shield_small_round_b|Круглый кавалерийский щит
+itm_tab_shield_small_round_b_pl|Круглые кавалерийские щиты
+itm_tab_shield_small_round_c|Элитный кавалерийский щит
+itm_tab_shield_small_round_c_pl|Элитные кавалерийские щиты
+itm_darts|Дротики
+itm_darts_pl|Дротики
+itm_war_darts|Боевые дротики
+itm_war_darts_pl|Боевые дротики
+itm_javelin|Дротики
+itm_javelin_pl|Дротики
+itm_javelin_melee|Дротик
+itm_javelin_melee_pl|Дротик
+itm_throwing_spears|Метательные копья
+itm_throwing_spears_pl|Метательные копья
+itm_throwing_spear_melee|Метательное копьё
+itm_throwing_spear_melee_pl|Метательное копьё
+itm_jarid|Джариды
+itm_jarid_pl|Джариды
+itm_jarid_melee|Джарид
+itm_jarid_melee_pl|Джарид
+itm_stones|Камни
+itm_stones_pl|Камни
+itm_throwing_knives|Метательные ножи
+itm_throwing_knives_pl|Метательные ножи
+itm_throwing_daggers|Метательные кинжалы
+itm_throwing_daggers_pl|Метательные кинжалы
+itm_light_throwing_axes|Лёгкие метательные топоры
+itm_light_throwing_axes_pl|Лёгкие метательные топоры
+itm_light_throwing_axes_melee|Лёгкий метательный топор
+itm_light_throwing_axes_melee_pl|Лёгкий метательный топор
+itm_throwing_axes|Метательные топоры
+itm_throwing_axes_pl|Метательные топоры
+itm_throwing_axes_melee|Метательный топор
+itm_throwing_axes_melee_pl|Метательный топор
+itm_heavy_throwing_axes|Тяжёлые метательные топоры
+itm_heavy_throwing_axes_pl|Тяжёлые метательные топоры
+itm_heavy_throwing_axes_melee|Тяжёлый метательный топор
+itm_heavy_throwing_axes_melee_pl|Тяжёлый метательный топор
+itm_hunting_bow|Охотничий лук
+itm_hunting_bow_pl|Охотничьи луки
+itm_short_bow|Лук пустынного охотника
+itm_short_bow_pl|Луки пустынного охотника
+itm_nomad_bow|Лук номада
+itm_nomad_bow_pl|Луки номада
+itm_long_bow|Длинный лук
+itm_long_bow_pl|Длинные луки
+itm_khergit_bow|Самодельный лук
+itm_khergit_bow_pl|Самодельные луки
+itm_strong_bow|Крепкий лук
+itm_strong_bow_pl|Крепкие луки
+itm_war_bow|Дикарский лук
+itm_war_bow_pl|Дикарские луки
+itm_hunting_crossbow|Охотничий арбалет
+itm_hunting_crossbow_pl|Охотничьи арбалеты
+itm_light_crossbow|Ручной арбалет болотника
+itm_light_crossbow_pl|Ручные арбалеты болотника
+itm_crossbow|Самодельный ручной арбалет
+itm_crossbow_pl|Самодельные ручные арбалеты
+itm_heavy_crossbow|Тяжёлый арбалет
+itm_heavy_crossbow_pl|Тяжёлые арбалеты
+itm_sniper_crossbow|Осадный арбалет
+itm_sniper_crossbow_pl|Осадные арбалеты
+itm_flintlock_pistol|Кремнёвый пистолет
+itm_flintlock_pistol_pl|Кремнёвые пистолеты
+itm_torch|Факел
+itm_torch_pl|Факелы
+itm_lyre|Лира
+itm_lyre_pl|Лиры
+itm_lute|Лютня
+itm_lute_pl|Лютни
+itm_strange_armor|Чудной ёрой
+itm_strange_armor_pl|Чудные ёрой
+itm_strange_boots|Чудные сунэатэ
+itm_strange_boots_pl|Чудные сунэатэ
+itm_strange_helmet|Проклятая дзингаса
+itm_strange_helmet_pl|Проклятые дзингаса
+itm_strange_sword|Чудной меч
+itm_strange_sword_pl|Чудные мечи
+itm_strange_great_sword|Чудной великий меч
+itm_strange_great_sword_pl|Чудные великие мечи
+itm_strange_short_sword|Чудной короткий меч
+itm_strange_short_sword_pl|Чудные короткие мечи
+itm_court_dress|Придворное платье
+itm_court_dress_pl|Придворные платья
+itm_rich_outfit|Богатый наряд
+itm_rich_outfit_pl|Богатые наряды
+itm_khergit_guard_armor|Хаори змеиного лорда
+itm_khergit_guard_armor_pl|Хаори змеиного лорда
+itm_felt_steppe_cap|Войлочная степная шапка
+itm_felt_steppe_cap_pl|Войлочные степные шапки
+itm_khergit_war_helmet|Хергитский боевой шлем
+itm_khergit_war_helmet_pl|Хергитские боевые шлемы
+itm_khergit_helmet|Хергитский шлем
+itm_khergit_helmet_pl|Хергитские шлемы
+itm_khergit_guard_boots|Таби и сугу бунтаря
+itm_khergit_guard_boots_pl|Таби и сугу бунтаря
+itm_khergit_guard_helmet|Костяной кабуто
+itm_khergit_guard_helmet_pl|Костяные кабуто
+itm_khergit_cavalry_helmet|Хергитский кавалерийский шлем
+itm_khergit_cavalry_helmet_pl|Хергитские кавалерийские шлемы
+itm_black_hood|Капюшон с противогазом
+itm_black_hood_pl|Капюшоны с противогазом
+itm_light_leather|Лёгкая кожа
+itm_light_leather_pl|Лёгкая кожа
+itm_light_leather_boots|Лёгкие кожаные сапоги
+itm_light_leather_boots_pl|Лёгкие кожаные сапоги
+itm_mail_and_plate|Огранитский сюрко
+itm_mail_and_plate_pl|Огранитские сюрко
+itm_light_mail_and_plate|Лёгкая кольчуга с пластинами
+itm_light_mail_and_plate_pl|Лёгкая кольчуга с пластинами
+itm_byzantion_helmet_a|Усиленная шляпа эбоси
+itm_byzantion_helmet_a_pl|Усиленные шляпы эбоси
+itm_magyar_helmet_a|Капюшон кающегося
+itm_magyar_helmet_a_pl|Капюшоны кающегося
+itm_rus_helmet_a|Русский шлем
+itm_rus_helmet_a_pl|Русские шлемы
+itm_sipahi_helmet_a|Они-дзингаса
+itm_sipahi_helmet_a_pl|Они-дзингаса
+itm_shahi|Шахи
+itm_shahi_pl|Шахи
+itm_rabati|Огранитский капироте
+itm_rabati_pl|Огранитские капироте
+itm_tunic_with_green_cape|Туника с зелёным плащом
+itm_tunic_with_green_cape_pl|Туники с зелёным плащом
+itm_keys|Связка ключей
+itm_keys_pl|Связки ключей
+itm_bride_dress|Свадебное платье
+itm_bride_dress_pl|Свадебные платья
+itm_bride_crown|Венок
+itm_bride_crown_pl|Венки
+itm_bride_shoes|Свадебные туфли
+itm_bride_shoes_pl|Свадебные туфли
+itm_practice_bow_2|Тренировочный лук
+itm_practice_bow_2_pl|Тренировочные луки
+itm_practice_arrows_2|Тренировочные стрелы
+itm_practice_arrows_2_pl|Тренировочные стрелы
+itm_plate_boots|Цубо-сунэатэ
+itm_plate_boots_pl|Цубо-сунэатэ
+itm_mail_boots_for_tableau|Кольчужные сапоги
+itm_mail_boots_for_tableau_pl|Кольчужные сапоги
+itm_warhorse_sarranid|Сарранидский боевой конь
+itm_warhorse_sarranid_pl|Сарранидские боевые кони
+itm_warhorse_steppe|Степной скакун
+itm_warhorse_steppe_pl|Степные скакуны
+itm_woa_items_start|Степной скакун
+itm_woa_items_start_pl|Степные скакуны
+itm_jagron_green|Зелёный джагрон
+itm_jagron_green_pl|Зелёные джагроны
+itm_jagron_brown|Коричневый джагрон
+itm_jagron_brown_pl|Коричневые джагроны
+itm_jagron_red|Красный джагрон
+itm_jagron_red_pl|Красные джагроны
+itm_jagron_bronze|Бронзовый джагрон
+itm_jagron_bronze_pl|Бронзовые джагроны
+itm_jagron_black|Чёрный джагрон
+itm_jagron_black_pl|Чёрные джагроны
+itm_robe_brown_green|Короткая роба
+itm_robe_brown_green_pl|Короткие робы
+itm_robe_brown_red|Короткая роба
+itm_robe_brown_red_pl|Короткие робы
+itm_robe_greenstripe|Короткая роба
+itm_robe_greenstripe_pl|Короткие робы
+itm_robe_mustard_brown|Короткая роба
+itm_robe_mustard_brown_pl|Короткие робы
+itm_robe_mustard_orange|Короткая роба
+itm_robe_mustard_orange_pl|Короткие робы
+itm_robe_mustard_red|Короткая роба
+itm_robe_mustard_red_pl|Короткие робы
+itm_robe_orange_green|Короткая роба
+itm_robe_orange_green_pl|Короткие робы
+itm_robe_red_orange|Короткая роба
+itm_robe_red_orange_pl|Короткие робы
+itm_robe_tan_brown|Короткая роба
+itm_robe_tan_brown_pl|Короткие робы
+itm_robe_tan_orange|Короткая роба
+itm_robe_tan_orange_pl|Короткие робы
+itm_robe_tan_red|Короткая роба
+itm_robe_tan_red_pl|Короткие робы
+itm_robe_white_bands|Короткая роба
+itm_robe_white_bands_pl|Короткие робы
+itm_robe_white_brown|Короткая роба
+itm_robe_white_brown_pl|Короткие робы
+itm_robe_white_orange|Короткая роба
+itm_robe_white_orange_pl|Короткие робы
+itm_robe_white_red|Короткая роба
+itm_robe_white_red_pl|Короткие робы
+itm_coat_brn|Туника с жилетом
+itm_coat_brn_pl|Туники с жилетом
+itm_coat_olive|Туника с жилетом
+itm_coat_olive_pl|Туники с жилетом
+itm_coat_olive_b|Туника с жилетом
+itm_coat_olive_b_pl|Туники с жилетом
+itm_coat_russet|Туника с жилетом
+itm_coat_russet_pl|Туники с жилетом
+itm_coat_russet_b|Туника с жилетом
+itm_coat_russet_b_pl|Туники с жилетом
+itm_coarse_tunic_b|Туника с жилетом
+itm_coarse_tunic_b_pl|Туники с жилетом
+itm_coarse_tunic_c|Туника с жилетом
+itm_coarse_tunic_c_pl|Туники с жилетом
+itm_coarse_tunic_d|Туника с жилетом
+itm_coarse_tunic_d_pl|Туники с жилетом
+itm_tunic_waistcoat_wb|Туника и жилет
+itm_tunic_waistcoat_wb_pl|Туники и жилет
+itm_tunic_waistcoat_wbb|Туника и жилет
+itm_tunic_waistcoat_wbb_pl|Туники и жилет
+itm_cloak_red|Плащ
+itm_cloak_red_pl|Плащи
+itm_cloak_green|Плащ
+itm_cloak_green_pl|Плащи
+itm_cloak_blue|Плащ
+itm_cloak_blue_pl|Плащи
+itm_cloak_black|Плащ
+itm_cloak_black_pl|Плащи
+itm_cloak_orange|Плащ
+itm_cloak_orange_pl|Плащи
+itm_earrings_a|Серьги
+itm_earrings_a_pl|Серьги
+itm_earrings_b|Серьги
+itm_earrings_b_pl|Серьги
+itm_earrings_c|Серьги
+itm_earrings_c_pl|Серьги
+itm_earrings_d|Серьги
+itm_earrings_d_pl|Серьги
+itm_eardrops_a|Серьги
+itm_eardrops_a_pl|Серьги
+itm_eardrops_b|Серьги
+itm_eardrops_b_pl|Серьги
+itm_eardrops_c|Серьги
+itm_eardrops_c_pl|Серьги
+itm_eardrops_d|Серьги
+itm_eardrops_d_pl|Серьги
+itm_eardrops_e|Серьги
+itm_eardrops_e_pl|Серьги
+itm_mar_hat_b|Шляпа скитальца
+itm_mar_hat_b_pl|Шляпы скитальца
+itm_mar_headcloth_brown|Головная повязка
+itm_mar_headcloth_brown_pl|Головные повязки
+itm_mar_headcloth_mustard|Головная повязка
+itm_mar_headcloth_mustard_pl|Головные повязки
+itm_mar_headcloth_red|Головная повязка
+itm_mar_headcloth_red_pl|Головные повязки
+itm_mar_headcloth_russet|Головная повязка
+itm_mar_headcloth_russet_pl|Головные повязки
+itm_mar_headcloth_tan|Головная повязка
+itm_mar_headcloth_tan_pl|Головные повязки
+itm_mar_hat_aa|Сандагаса с маской
+itm_mar_hat_aa_pl|Сандагаса с маской
+itm_mar_hat_bb|Сандагаса
+itm_mar_hat_bb_pl|Сандагаса
+itm_mar_hat_c|Коричневая сандагаса
+itm_mar_hat_c_pl|Коричневая сандагаса
+itm_mar_hat_bx|Полевая шляпа
+itm_mar_hat_bx_pl|Полевые шляпы
+itm_warmask_a|Древняя боевая маска
+itm_warmask_a_pl|Древние боевые маски
+itm_warmask_b|Древний капюшон
+itm_warmask_b_pl|Древние капюшоны
+itm_warmask_c|Древняя боевая маска
+itm_warmask_c_pl|Древние боевые маски
+itm_fulgurator_power_pack|Мешок пуль
+itm_fulgurator_power_pack_pl|Мешки пуль
+itm_fulgurator_power_pack_b|Пули из чёрного железа
+itm_fulgurator_power_pack_b_pl|Пули из чёрного железа
+itm_raygun_a|Охотничий кремнёвый пистолет
+itm_raygun_a_pl|Охотничьи кремнёвые пистолеты
+itm_raygun_b|Кремнёвый кобур
+itm_raygun_b_pl|Кремнёвые кобуры
+itm_raygun_c|Катунский кремнёвый пистолет
+itm_raygun_c_pl|Катунские кремнёвые пистолеты
+itm_raygun_d|Хэнский кремнёвый пистолет
+itm_raygun_d_pl|Хэнские кремнёвые пистолеты
+itm_galvanic_bow|Плазменный лук
+itm_galvanic_bow_pl|Плазменные луки
+itm_energy_bolts|Гальванические стрелы
+itm_energy_bolts_pl|Гальванические стрелы
+itm_energy_bolts_b|Плазменные стрелы
+itm_energy_bolts_b_pl|Плазменные стрелы
+itm_energy_bolts_c|Плазменные стрелы
+itm_energy_bolts_c_pl|Плазменные стрелы
+itm_fulgurator_rifle|Фульгураторный мушкет
+itm_fulgurator_rifle_pl|Фульгураторные мушкеты
+itm_force_shield_sm_a|Щит военачальника
+itm_force_shield_sm_a_pl|Щиты военачальника
+itm_force_shield_sm_b|Шипастый боевой щит
+itm_force_shield_sm_b_pl|Шипастые боевые щиты
+itm_force_shield_sm_c|Скимитар левой руки
+itm_force_shield_sm_c_pl|Скимитары левой руки
+itm_force_shield_sm_d|Ротанговая партизанская щита
+itm_force_shield_sm_d_pl|Ротанговые партизанские щиты
+itm_force_shield_sm_e|Шипастый деревянный щит
+itm_force_shield_sm_e_pl|Шипастые деревянные щиты
+itm_diadem_a|Тиара
+itm_diadem_a_pl|Тиары
+itm_diadem_b|Тиара
+itm_diadem_b_pl|Тиары
+itm_diadem_c|Тиара
+itm_diadem_c_pl|Тиары
+itm_diadem_d|Тиара
+itm_diadem_d_pl|Тиары
+itm_diadem_e|Тиара
+itm_diadem_e_pl|Тиары
+itm_diadem_f|Тиара
+itm_diadem_f_pl|Тиары
+itm_tiara_a|Тиара
+itm_tiara_a_pl|Тиары
+itm_tiara_b|Тиара
+itm_tiara_b_pl|Тиары
+itm_tiara_c|Тиара
+itm_tiara_c_pl|Тиары
+itm_tiara_d|Тиара
+itm_tiara_d_pl|Тиары
+itm_diadem_g|Боевая тиара
+itm_diadem_g_pl|Боевые тиары
+itm_fulgurator_power_pack_c|Подсумок
+itm_fulgurator_power_pack_c_pl|Подсумки
+itm_fulgurator_power_pack_d|Пулемётная сумка
+itm_fulgurator_power_pack_d_pl|Пулемётные сумки
+itm_zaplance_a|Запланс
+itm_zaplance_a_pl|Запланс
+itm_zaplance_a_m|Запланс
+itm_zaplance_a_m_pl|Запланс
+itm_artifact_a|Древние артефакты
+itm_artifact_a_pl|Древние артефакты
+itm_artifact_b|Древние артефакты
+itm_artifact_b_pl|Древние артефакты
+itm_artifact_c|Древние артефакты
+itm_artifact_c_pl|Древние артефакты
+itm_artifact_d|Древние артефакты
+itm_artifact_d_pl|Древние артефакты
+itm_artifact_e|Древние артефакты
+itm_artifact_e_pl|Древние артефакты
+itm_artifact_f|Древние артефакты
+itm_artifact_f_pl|Древние артефакты
+itm_artifact_g|Древние артефакты
+itm_artifact_g_pl|Древние артефакты
+itm_artifact_h|Древние артефакты
+itm_artifact_h_pl|Древние артефакты
+itm_energy_spear|Древнее энергетическое копьё
+itm_energy_spear_pl|Древние энергетические копья
+itm_energy_spear_m|Трезубец
+itm_energy_spear_m_pl|Трезубцы
+itm_fulgurator_power_pack_e|Фульгураторный силовой блок
+itm_fulgurator_power_pack_e_pl|Фульгураторные силовые блоки
+itm_black_varanid_head|Голова тяжёлого грузчика
+itm_black_varanid_head_pl|Головы тяжёлого грузчика
+itm_black_varanid_hands|Руки тяжёлого грузчика
+itm_black_varanid_hands_pl|Руки тяжёлого грузчика
+itm_black_varanid_feet|Ноги тяжёлого грузчика
+itm_black_varanid_feet_pl|Ноги тяжёлого грузчика
+itm_black_varanid_breastplate|Рама тяжёлого грузчика МК#3
+itm_black_varanid_breastplate_pl|Рамы тяжёлого грузчика МК#3
+itm_halberd_g|Алебарда
+itm_halberd_g_pl|Алебарды
+itm_warmonk_armor|Ламелляр военного монаха
+itm_warmonk_armor_pl|Ламелляры военного монаха
+itm_great_dbaxe|Великий двусторонний топор
+itm_great_dbaxe_pl|Великие двусторонние топоры
+itm_pugling_body|Тело пуглина
+itm_pugling_body_pl|Тела пуглинов
+itm_pugling_head|Голова пуглина
+itm_pugling_head_pl|Головы пуглинов
+itm_pugling_hands|Руки пуглина
+itm_pugling_hands_pl|Руки пуглинов
+itm_varanid_body|Тело рыболюда
+itm_varanid_body_pl|Тела рыболюдов
+itm_varanid_head|Голова рыболюда
+itm_varanid_head_pl|Головы рыболюдов
+itm_varanid_hands|Руки рыболюда
+itm_varanid_hands_pl|Руки рыболюдов
+itm_varanid_feet|Ноги рыболюда
+itm_varanid_feet_pl|Ноги рыболюдов
+itm_varanid_breastplate|Нагрудник варанида
+itm_varanid_breastplate_pl|Нагрудники варанида
+itm_varanid_bone_warclub|Зубастая боевая дубина варанида
+itm_varanid_bone_warclub_pl|Зубастые боевые дубины варанида
+itm_varanid_bone_warclub_2h|Великая зубастая боевая дубина варанида
+itm_varanid_bone_warclub_2h_pl|Великие зубастые боевые дубины варанида
+itm_varanid_jaw_club|Зубастая боевая дубина варанида
+itm_varanid_jaw_club_pl|Зубастые боевые дубины варанида
+itm_varanid_tooth_sword|Племенной зубатый меч
+itm_varanid_tooth_sword_pl|Племенные зубатые мечи
+itm_varanid_hunting_spear|Племенное охотничье копьё
+itm_varanid_hunting_spear_pl|Племенные охотничьи копья
+itm_varanid_hunting_spear_mel|Дротик
+itm_varanid_hunting_spear_mel_pl|Дротик
+itm_wicker_shield|Кожаный щит
+itm_wicker_shield_pl|Кожаные щиты
+itm_varanid_gaff_sword|Племенной серповидный меч
+itm_varanid_gaff_sword_pl|Племенные серповидные мечи
+itm_varanid_sickle_sword|Ржавый варанидский хопеш
+itm_varanid_sickle_sword_pl|Ржавые варанидские хопеши
+itm_varanid_sickle_sword_b|Ржавый варанидский хопеш
+itm_varanid_sickle_sword_b_pl|Ржавые варанидские хопеши
+itm_varanid_sickle_sword_c|Ржавый варанидский хопеш
+itm_varanid_sickle_sword_c_pl|Ржавые варанидские хопеши
+itm_red_varanid_breastplate|Нагрудник варанида
+itm_red_varanid_breastplate_pl|Нагрудники варанида
+itm_red_varanid_chief_head|Голова красного вождя варанидов
+itm_red_varanid_chief_head_pl|Головы красных вождей варанидов
+itm_red_varanid_head2|Голова красного варанида
+itm_red_varanid_head2_pl|Головы красных варанидов
+itm_red_varanid_head|Голова красного варанида
+itm_red_varanid_head_pl|Головы красных варанидов
+itm_red_varanid_body|Тело варанида
+itm_red_varanid_body_pl|Тела варанидов
+itm_red_varanid_hands|Руки варанида
+itm_red_varanid_hands_pl|Руки варанидов
+itm_red_varanid_feet|Ноги варанида
+itm_red_varanid_feet_pl|Ноги варанидов
+itm_trex|Боевой ящер
+itm_trex_pl|Боевые ящеры
+itm_varanid_longsword|Племенной длинный меч
+itm_varanid_longsword_pl|Племенные длинные мечи
+itm_longsword_h|Длинный меч
+itm_longsword_h_pl|Длинные мечи
+itm_varanid_ancient_sword|Племенной меч
+itm_varanid_ancient_sword_pl|Племенные мечи
+itm_varanid_ancient_sword_b|Варанидский меч
+itm_varanid_ancient_sword_b_pl|Варанидские мечи
+itm_varanid_ancient_sword_c|Варанидский меч
+itm_varanid_ancient_sword_c_pl|Варанидские мечи
+itm_varanid_ancient_sword_d|Меч Древней империи
+itm_varanid_ancient_sword_d_pl|Мечи Древней империи
+itm_gangorr_body|Тело гангорра
+itm_gangorr_body_pl|Тела гангорров
+itm_gangorr_head|Голова гангорра
+itm_gangorr_head_pl|Головы гангорров
+itm_gangorr_hands|Руки гангорра
+itm_gangorr_hands_pl|Руки гангорров
+itm_gangorr_feet|Ноги гангорра
+itm_gangorr_feet_pl|Ноги гангорров
+itm_gangorr_warclub_a|Колючая бита
+itm_gangorr_warclub_a_pl|Колючие биты
+itm_gangorr_warclub_b|Тяжёлый канабо
+itm_gangorr_warclub_b_pl|Тяжёлые канабо
+itm_mezonn_body|Тело мезонна
+itm_mezonn_body_pl|Тела мезоннов
+itm_mezonn_head|Голова мезонна
+itm_mezonn_head_pl|Головы мезоннов
+itm_mezonn_hands|Руки мезонна
+itm_mezonn_hands_pl|Руки мезоннов
+itm_mezonn_feet|Ноги мезонна
+itm_mezonn_feet_pl|Ноги мезоннов
+itm_vaspid_body|Тело васпида
+itm_vaspid_body_pl|Тела васпидов
+itm_vaspid_head|Голова скиммера
+itm_vaspid_head_pl|Головы скиммеров
+itm_vaspid_hands|Руки васпида
+itm_vaspid_hands_pl|Руки васпидов
+itm_vaspid_feet|Ноги васпида
+itm_vaspid_feet_pl|Ноги васпидов
+itm_invisible_spike|Невидимое оружие
+itm_invisible_spike_pl|Невидимое оружие
+itm_gozonn_body|Тело гозонна
+itm_gozonn_body_pl|Тела гозоннов
+itm_gozonn_head|Голова гозонна
+itm_gozonn_head_pl|Головы гозоннов
+itm_gozonn_hands|Руки гозонна
+itm_gozonn_hands_pl|Руки гозоннов
+itm_gozonn_feet|Ноги гозонна
+itm_gozonn_feet_pl|Ноги гозоннов
+itm_chanak_body|Тело чанака
+itm_chanak_body_pl|Тела чанаков
+itm_chanak_head|Голова чанака
+itm_chanak_head_pl|Головы чанаков
+itm_chanak_hands|Руки чанака
+itm_chanak_hands_pl|Руки чанаков
+itm_chanak_feet|Ноги чанака
+itm_chanak_feet_pl|Ноги чанаков
+itm_spaceclan_boots|Космические сапоги
+itm_spaceclan_boots_pl|Космические сапоги
+itm_spaceclan_outfit|Скафандр космоклана
+itm_spaceclan_outfit_pl|Скафандры космоклана
+itm_spaceclan_pistol|Кремнёвый дракган
+itm_spaceclan_pistol_pl|Кремнёвые дракганы
+itm_spaceclan_pistol_b|Пустынный джеззайл
+itm_spaceclan_pistol_b_pl|Пустынные джеззайлы
+itm_spaceclan_pistol_c|Лазган
+itm_spaceclan_pistol_c_pl|Лазган
+itm_spaceclan_pistol_d|Лазган
+itm_spaceclan_pistol_d_pl|Лазган
+itm_lasgun_power_pack_b|Силовой блок лазгана
+itm_lasgun_power_pack_b_pl|Силовые блоки лазгана
+itm_lasgun_power_pack_c|Силовой блок лазгана
+itm_lasgun_power_pack_c_pl|Силовые блоки лазгана
+itm_bounty_hunter_head|Сандагаса охотника за головами
+itm_bounty_hunter_head_pl|Сандагаса охотников за головами
+itm_bounty_hunter_head_b|Шлем охотника за головами
+itm_bounty_hunter_head_b_pl|Шлемы охотников за головами
+itm_bounty_hunter_head_c|Железный шлем охотника за головами
+itm_bounty_hunter_head_c_pl|Железные шлемы охотников за головами
+itm_bounty_hunter_armor|Клёпаная кожаная броня
+itm_bounty_hunter_armor_pl|Клёпаные кожаные брони
+itm_bounty_hunter_armor_b|Броня охотника за головами
+itm_bounty_hunter_armor_b_pl|Брони охотников за головами
+itm_bounty_hunter_hands|Руки охотника за головами
+itm_bounty_hunter_hands_pl|Руки охотников за головами
+itm_spaceclan_security_outfit|Скафандр космоклана
+itm_spaceclan_security_outfit_pl|Скафандры космоклана
+itm_lasgun_power_pack|Горсть пуль
+itm_lasgun_power_pack_pl|Горсти пуль
+itm_terran_lasgun|Фитильное ружьё
+itm_terran_lasgun_pl|Фитильные ружья
+itm_terran_helmet|Глубоководный шлем
+itm_terran_helmet_pl|Глубоководные шлемы
+itm_terran_spacesuit|Глубоководный скафандр
+itm_terran_spacesuit_pl|Глубоководные скафандры
+itm_terran_boots|Глубоководные сапоги
+itm_terran_boots_pl|Глубоководные сапоги
+itm_terran_spacesuit_f|Глубоководный скафандр
+itm_terran_spacesuit_f_pl|Глубоководные скафандры
+itm_terran_gloves|Космические перчатки
+itm_terran_gloves_pl|Космические перчатки
+itm_laser_rifle|Фитильная винтовка
+itm_laser_rifle_pl|Фитильные винтовки
+itm_machete|Выживальный резак
+itm_machete_pl|Выживальные резаки
+itm_double_sword|Двойной меч
+itm_double_sword_pl|Двойные мечи
+itm_cav_sword_common_a|Сабля
+itm_cav_sword_common_a_pl|Сабля
+itm_cav_sword_common_b|Сабля
+itm_cav_sword_common_b_pl|Сабля
+itm_inf_sword_a|Пехотный меч
+itm_inf_sword_a_pl|Пехотные мечи
+itm_inf_sword_b|Пехотный меч
+itm_inf_sword_b_pl|Пехотные мечи
+itm_inf_sword_c|Пехотный меч
+itm_inf_sword_c_pl|Пехотные мечи
+itm_inf_sword_d|Пехотный меч
+itm_inf_sword_d_pl|Пехотные мечи
+itm_inf_sword_e|Пехотный меч
+itm_inf_sword_e_pl|Пехотные мечи
+itm_saber_a|Охотничья сабля
+itm_saber_a_pl|Охотничьи сабли
+itm_saber_d|Сабля
+itm_saber_d_pl|Сабля
+itm_saber_db|Гравированная сабля
+itm_saber_db_pl|Гравированные сабли
+itm_saber_e|Сабля
+itm_saber_e_pl|Сабля
+itm_saber_g|Сабля
+itm_saber_g_pl|Сабля
+itm_broadsword_a|Палаш
+itm_broadsword_a_pl|Палаши
+itm_broadsword_b|Палаш
+itm_broadsword_b_pl|Палаши
+itm_broadsword_d|Палаш
+itm_broadsword_d_pl|Палаши
+itm_saber_b|Лоан-танто
+itm_saber_b_pl|Лоан-танто
+itm_saber_c|Сабля
+itm_saber_c_pl|Сабля
+itm_saber_f|Сабля
+itm_saber_f_pl|Сабля
+itm_saber_h|Сабля
+itm_saber_h_pl|Сабля
+itm_broadsword_c|Палаш
+itm_broadsword_c_pl|Палаши
+itm_rapier_a|Сабля скитальца
+itm_rapier_a_pl|Сабля скитальца
+itm_cav_sword_noble_a|Сабля
+itm_cav_sword_noble_a_pl|Сабля
+itm_cav_sword_noble_b|Сабля
+itm_cav_sword_noble_b_pl|Сабля
+itm_cav_sword_noble_c|Сабля
+itm_cav_sword_noble_c_pl|Сабля
+itm_cav_sword_noble_d|Сабля
+itm_cav_sword_noble_d_pl|Сабля
+itm_cav_sword_noble_e|Сабля
+itm_cav_sword_noble_e_pl|Сабля
+itm_cav_sword_noble_f|Сабля
+itm_cav_sword_noble_f_pl|Сабля
+itm_court_sword_a|Клановая фамильная сабля
+itm_court_sword_a_pl|Клановые фамильные сабли
+itm_court_sword_b|Придворный меч
+itm_court_sword_b_pl|Придворные мечи
+itm_court_sword_c|Придворный меч
+itm_court_sword_c_pl|Придворные мечи
+itm_court_sword_d|Придворный меч
+itm_court_sword_d_pl|Придворные мечи
+itm_longsword_a|Длинный меч
+itm_longsword_a_pl|Длинные мечи
+itm_longsword_b|Дырявая сабля
+itm_longsword_b_pl|Дырявые сабли
+itm_longsword_c|Длинный меч
+itm_longsword_c_pl|Длинные мечи
+itm_longsword_d|Длинный меч
+itm_longsword_d_pl|Длинные мечи
+itm_longsword_e|Цепной дадао
+itm_longsword_e_pl|Цепные дадао
+itm_longsword_f|Длинный меч
+itm_longsword_f_pl|Длинные мечи
+itm_longsword_g|Длинный меч
+itm_longsword_g_pl|Длинные мечи
+itm_halberd_a|Алебарда
+itm_halberd_a_pl|Алебарды
+itm_halberd_b|Алебарда
+itm_halberd_b_pl|Алебарды
+itm_halberd_c|Алебарда
+itm_halberd_c_pl|Алебарды
+itm_halberd_d|Алебарда
+itm_halberd_d_pl|Алебарды
+itm_halberd_e|Алебарда
+itm_halberd_e_pl|Алебарды
+itm_halberd_f|Алебарда
+itm_halberd_f_pl|Алебарды
+itm_double_scythe|Боевая коса
+itm_double_scythe_pl|Боевые косы
+itm_battle_scythe|Боевая коса
+itm_battle_scythe_pl|Боевые косы
+itm_battle_scythe_l|Боевая коса левой руки
+itm_battle_scythe_l_pl|Боевые косы левой руки
+itm_cav_spear_a|Копьё
+itm_cav_spear_a_pl|Копья
+itm_cav_spear_b|Копьё
+itm_cav_spear_b_pl|Копья
+itm_forked_lance|Раздвоенное копьё
+itm_forked_lance_pl|Раздвоенные копья
+itm_inf_spear_a|Копьё
+itm_inf_spear_a_pl|Копья
+itm_inf_spear_c|Яри
+itm_inf_spear_c_pl|Яри
+itm_trident_a|Трезубец
+itm_trident_a_pl|Трезубцы
+itm_trident_b|Трезубец
+itm_trident_b_pl|Трезубцы
+itm_zakra|Закра
+itm_zakra_pl|Закра
+itm_hand_crossbow_a|Ручной арбалет
+itm_hand_crossbow_a_pl|Ручные арбалеты
+itm_hand_crossbow_b|Ручной арбалет
+itm_hand_crossbow_b_pl|Ручные арбалеты
+itm_flechettes|Флешетты
+itm_flechettes_pl|Флешетты
+itm_poisoned_flechettes|Отравленные флешетты
+itm_poisoned_flechettes_pl|Отравленные флешетты
+itm_rhadjan_leather_buckler_a|Стальной кулачный щит
+itm_rhadjan_leather_buckler_a_pl|Стальные кулачные щиты
+itm_rhadjan_leather_buckler_b|Шипастый кожаный кулачный щит
+itm_rhadjan_leather_buckler_b_pl|Шипастые кожаные кулачные щиты
+itm_rhadjan_leather_buckler_c|Железный кулачный щит
+itm_rhadjan_leather_buckler_c_pl|Железные кулачные щиты
+itm_rhadjan_leather_shield_a|Бандитский кожаный щит
+itm_rhadjan_leather_shield_a_pl|Бандитские кожаные щиты
+itm_rhadjan_leather_shield_b|Кремнёвый щит
+itm_rhadjan_leather_shield_b_pl|Кремнёвые щиты
+itm_rhadjan_leather_shield_c|Латунный щит
+itm_rhadjan_leather_shield_c_pl|Латунные щиты
+itm_rhadjan_leather_shield_d|Племенной кожаный щит
+itm_rhadjan_leather_shield_d_pl|Племенные кожаные щиты
+itm_rhadjan_leather_shield_e|Шипастый ротанговый щит
+itm_rhadjan_leather_shield_e_pl|Шипастые ротанговые щиты
+itm_rhadjan_leather_shield_f|Шипастый плетёный щит
+itm_rhadjan_leather_shield_f_pl|Шипастые плетёные щиты
+itm_heraldic_round_shield|Геральдический круглый щит
+itm_heraldic_round_shield_pl|Геральдические круглые щиты
+itm_mercenary_cavalry_lamellar|Наёмничий ламеллярный доспех
+itm_mercenary_cavalry_lamellar_pl|Наёмничьи ламеллярные доспехи
+itm_scale_tabard_a|Доспех пустынного следопыта
+itm_scale_tabard_a_pl|Доспехи пустынного следопыта
+itm_scale_tabard_b|Сугу повстанца-фермера
+itm_scale_tabard_b_pl|Сугу повстанца-фермера
+itm_scale_tabard_c|Номадский ламеллярный доспех
+itm_scale_tabard_c_pl|Номадские ламеллярные доспехи
+itm_banded_leather_a|Тюремная клеточная броня
+itm_banded_leather_a_pl|Тюремные клеточные брони
+itm_banded_leather_b|Кожаная броня скитальца
+itm_banded_leather_b_pl|Кожаные брони скитальца
+itm_banded_leather_c|Снаряжение бунтаря-артиллериста
+itm_banded_leather_c_pl|Снаряжение бунтаря-артиллериста
+itm_banded_leather_d|Змеиный ао зяп
+itm_banded_leather_d_pl|Змеиные ао зяп
+itm_banded_leather_e|Полосатая кожаная броня
+itm_banded_leather_e_pl|Полосатые кожаные брони
+itm_banded_leather_spiked|Меховой кольчужный хауберк
+itm_banded_leather_spiked_pl|Меховые кольчужные хауберки
+itm_broigne_shirt|Самурайская броня с тряпьём
+itm_broigne_shirt_pl|Самурайские брони с тряпьём
+itm_rough_leather_metal_plates|Грубые меха
+itm_rough_leather_metal_plates_pl|Грубые меха
+itm_rough_leather_plates_ring|Племенной ламеллярный доспех
+itm_rough_leather_plates_ring_pl|Племенные ламеллярные доспехи
+itm_rough_leatherplate_leather|Изгнанническая кольчуга с пластинами
+itm_rough_leatherplate_leather_pl|Изгнаннические кольчуги с пластинами
+itm_rough_paddedleather_leather|Клёпаная железная броня
+itm_rough_paddedleather_leather_pl|Клёпаные железные брони
+itm_mercenary_comb_helm|Наёмничий шлем
+itm_mercenary_comb_helm_pl|Наёмничьи шлемы
+itm_helm_sallet_common_a|Наёмничий шлем
+itm_helm_sallet_common_a_pl|Наёмничьи шлемы
+itm_helm_sailfin_common_a|Наёмничий шлем
+itm_helm_sailfin_common_a_pl|Наёмничьи шлемы
+itm_doublet_black|Чёрные шёлковые робы
+itm_doublet_black_pl|Чёрные шёлковые робы
+itm_doublet_brown|Грязное пальто
+itm_doublet_brown_pl|Грязные пальто
+itm_doublet_plain|Благородный ябусамэ
+itm_doublet_plain_pl|Благородные ябусамэ
+itm_doublet_rich|Даймё-хакама
+itm_doublet_rich_pl|Даймё-хакама
+itm_orogon_harness_a|Упряжь
+itm_orogon_harness_a_pl|Упряжи
+itm_orogon_harness_b|Упряжь
+itm_orogon_harness_b_pl|Упряжи
+itm_orogon_harness_c|Упряжь
+itm_orogon_harness_c_pl|Упряжи
+itm_orogon_vest_a|Жилет орогона
+itm_orogon_vest_a_pl|Жилеты орогона
+itm_orogon_vest_b|Кожаное облачение
+itm_orogon_vest_b_pl|Кожаные облачения
+itm_orogon_vest_c|Жилет орогона
+itm_orogon_vest_c_pl|Жилеты орогона
+itm_pirate_saber_a|Потрошительная сабля
+itm_pirate_saber_a_pl|Потрошительные сабли
+itm_orogon_sword_xa|Варварский тесак
+itm_orogon_sword_xa_pl|Варварские тесаки
+itm_pirate_saber_b|Абордажная сабля изгоя
+itm_pirate_saber_b_pl|Абордажные сабли изгоев
+itm_pirate_saber_c|Потрошительная абордажная сабля
+itm_pirate_saber_c_pl|Потрошительные абордажные сабли
+itm_pirate_saber_d|Тандао бойца
+itm_pirate_saber_d_pl|Тандао бойца
+itm_orogon_sword_xb|Языкастая сабля
+itm_orogon_sword_xb_pl|Языкастые сабли
+itm_pirate_saber_b_l|Сабля левой руки
+itm_pirate_saber_b_l_pl|Сабля левой руки
+itm_orogon_shield_a|Тэнпай
+itm_orogon_shield_a_pl|Тэнпай
+itm_orogon_shield_b|Тэнпай
+itm_orogon_shield_b_pl|Тэнпай
+itm_orogon_shield_c|Стальной щит
+itm_orogon_shield_c_pl|Стальные щиты
+itm_orogon_shield_d|Тэнпай
+itm_orogon_shield_d_pl|Тэнпай
+itm_orogon_shield_e|Клёпаный стальной щит
+itm_orogon_shield_e_pl|Клёпаные стальные щиты
+itm_orogon_shield_f|Пех-стражи
+itm_orogon_shield_f_pl|Пех-стражи
+itm_marakuur_shield_a|Плетёный щит
+itm_marakuur_shield_a_pl|Плетёные щиты
 itm_marakuur_shield_b|Wicker Shield
 itm_marakuur_shield_b_pl|Wicker Shields
 itm_marakuur_shield_c|Leather Square Shield
