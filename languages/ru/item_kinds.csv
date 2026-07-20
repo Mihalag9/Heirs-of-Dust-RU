@@ -1720,8 +1720,8 @@ itm_rhadjan_leather_shield_f|Шипастый плетёный щит
 itm_rhadjan_leather_shield_f_pl|Шипастые плетёные щиты
 itm_heraldic_round_shield|Геральдический круглый щит
 itm_heraldic_round_shield_pl|Геральдические круглые щиты
-itm_mercenary_cavalry_lamellar|Наёмничий ламеллярный доспех
-itm_mercenary_cavalry_lamellar_pl|Наёмничьи ламеллярные доспехи
+itm_mercenary_cavalry_lamellar|Ламеллярный доспех наёмника
+itm_mercenary_cavalry_lamellar_pl|Ламеллярные доспехи наёмника
 itm_scale_tabard_a|Доспех пустынного следопыта
 itm_scale_tabard_a_pl|Доспехи пустынного следопыта
 itm_scale_tabard_b|Сугу повстанца-фермера
@@ -1746,16 +1746,16 @@ itm_rough_leather_metal_plates|Грубые меха
 itm_rough_leather_metal_plates_pl|Грубые меха
 itm_rough_leather_plates_ring|Племенной ламеллярный доспех
 itm_rough_leather_plates_ring_pl|Племенные ламеллярные доспехи
-itm_rough_leatherplate_leather|Изгнанническая кольчуга с пластинами
-itm_rough_leatherplate_leather_pl|Изгнаннические кольчуги с пластинами
+itm_rough_leatherplate_leather|Кольчуга изгнанника с пластинами
+itm_rough_leatherplate_leather_pl|Кольчуги изгнанника с пластинами
 itm_rough_paddedleather_leather|Клёпаная железная броня
 itm_rough_paddedleather_leather_pl|Клёпаные железные брони
-itm_mercenary_comb_helm|Наёмничий шлем
-itm_mercenary_comb_helm_pl|Наёмничьи шлемы
-itm_helm_sallet_common_a|Наёмничий шлем
-itm_helm_sallet_common_a_pl|Наёмничьи шлемы
-itm_helm_sailfin_common_a|Наёмничий шлем
-itm_helm_sailfin_common_a_pl|Наёмничьи шлемы
+itm_mercenary_comb_helm|Шлем наёмника
+itm_mercenary_comb_helm_pl|Шлемы наёмника
+itm_helm_sallet_common_a|Шлем наёмника
+itm_helm_sallet_common_a_pl|Шлемы наёмника
+itm_helm_sailfin_common_a|Шлем наёмника
+itm_helm_sailfin_common_a_pl|Шлемы наёмника
 itm_doublet_black|Чёрные шёлковые робы
 itm_doublet_black_pl|Чёрные шёлковые робы
 itm_doublet_brown|Грязное пальто
