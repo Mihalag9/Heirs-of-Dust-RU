@@ -362,8 +362,8 @@ itm_iron_greaves|Варадзи вождя
 itm_iron_greaves_pl|Варадзи вождя
 itm_black_greaves|Гнилые сунэатэ
 itm_black_greaves_pl|Гнилые сунэатэ
-itm_khergit_leather_boots|Кхергитские кожаные сапоги
-itm_khergit_leather_boots_pl|Кхергитские кожаные сапоги
+itm_khergit_leather_boots|Хергитские кожаные сапоги
+itm_khergit_leather_boots_pl|Хергитские кожаные сапоги
 itm_sarranid_boots_a|Обмотанные фанси
 itm_sarranid_boots_a_pl|Обмотанные фанси
 itm_sarranid_boots_b|Остроносые кожаные сапоги
@@ -392,10 +392,10 @@ itm_brown_dress|Дворянское платье
 itm_brown_dress_pl|Дворянское платье
 itm_green_dress|Бронированное платье
 itm_green_dress_pl|Бронированное платье
-itm_khergit_lady_dress|Кхергитское дамское платье
-itm_khergit_lady_dress_pl|Кхергитское дамское платье
-itm_khergit_lady_dress_b|Кхергитское кожаное дамское платье
-itm_khergit_lady_dress_b_pl|Кхергитское кожаное дамское платье
+itm_khergit_lady_dress|Хергитское дамское платье
+itm_khergit_lady_dress_pl|Хергитское дамское платье
+itm_khergit_lady_dress_b|Хергитское кожаное дамское платье
+itm_khergit_lady_dress_b_pl|Хергитское кожаное дамское платье
 itm_sarranid_lady_dress|Сарранидское дамское платье
 itm_sarranid_lady_dress_pl|Сарранидское дамское платье
 itm_sarranid_lady_dress_b|Сарранидское дамское платье
@@ -410,8 +410,8 @@ itm_nobleman_outfit|Дворянские одеяния
 itm_nobleman_outfit_pl|Дворянские одеяния
 itm_nomad_armor|Доспех номада
 itm_nomad_armor_pl|Доспех номада
-itm_khergit_armor|Кхергитский доспех
-itm_khergit_armor_pl|Кхергитский доспех
+itm_khergit_armor|Хергитский доспех
+itm_khergit_armor_pl|Хергитский доспех
 itm_leather_jacket|Кожаная куртка
 itm_leather_jacket_pl|Кожаная куртка
 itm_rawhide_coat|Сыромятный плащ
@@ -508,24 +508,24 @@ itm_leather_jerkin|Кожаная безрукавка
 itm_leather_jerkin_pl|Кожаная безрукавка
 itm_nomad_vest|Жилет номада
 itm_nomad_vest_pl|Жилет номада
-itm_ragged_outfit|Ульевые рваные меха
-itm_ragged_outfit_pl|Ульевые рваные меха
+itm_ragged_outfit|Рваные меха Улья
+itm_ragged_outfit_pl|Рваные меха Улья
 itm_padded_leather|Стёганая кожа
 itm_padded_leather_pl|Стёганая кожа
 itm_tribal_warrior_outfit|Клетчатый доспех мусорщика
 itm_tribal_warrior_outfit_pl|Клетчатые доспехи мусорщика
 itm_nomad_robe|Роба номада
 itm_nomad_robe_pl|Роба номада
-itm_studded_leather_coat|Ульевой ламеллярный плащ
-itm_studded_leather_coat_pl|Ульевые ламеллярные плащи
+itm_studded_leather_coat|Ламеллярный плащ Улья
+itm_studded_leather_coat_pl|Ламеллярные плащи Улья
 itm_byrnie|Бирни
 itm_byrnie_pl|Бирни
 itm_haubergeon|Хаубержон
 itm_haubergeon_pl|Хаубержон
 itm_lamellar_vest|Ламеллярный жилет
 itm_lamellar_vest_pl|Ламеллярный жилет
-itm_lamellar_vest_khergit|Кхергитский ламеллярный жилет
-itm_lamellar_vest_khergit_pl|Кхергитский ламеллярный жилет
+itm_lamellar_vest_khergit|Хергитский ламеллярный жилет
+itm_lamellar_vest_khergit_pl|Хергитский ламеллярный жилет
 itm_mail_shirt|Кольчужная рубаха
 itm_mail_shirt_pl|Кольчужная рубаха
 itm_mail_hauberk|Драконий доспех лучницы
@@ -576,8 +576,8 @@ itm_sarranid_leather_armor|Сарранидский кожаный доспех
 itm_sarranid_leather_armor_pl|Сарранидский кожаный доспех
 itm_sarranid_cavalry_robe|Кавалерийская роба
 itm_sarranid_cavalry_robe_pl|Кавалерийская роба
-itm_arabian_armor_b|Сарранидский стражный доспех
-itm_arabian_armor_b_pl|Сарранидский стражный доспех
+itm_arabian_armor_b|Сарранидский доспех стражника
+itm_arabian_armor_b_pl|Сарранидский доспех стражника
 itm_sarranid_mail_shirt|Драконий даймё-ламелляр
 itm_sarranid_mail_shirt_pl|Драконий даймё-ламелляр
 itm_mamluke_mail|Одеяния великого волшебника
@@ -672,10 +672,10 @@ itm_spiked_helmet|Прозрачный шлем
 itm_spiked_helmet_pl|Прозрачный шлем
 itm_nordic_helmet|Усиленная дзингаса ниндзя
 itm_nordic_helmet_pl|Усиленная дзингаса ниндзя
-itm_khergit_lady_hat|Кхергитская дамская шляпа
-itm_khergit_lady_hat_pl|Кхергитская дамская шляпа
-itm_khergit_lady_hat_b|Кхергитская кожаная дамская шляпа
-itm_khergit_lady_hat_b_pl|Кхергитская кожаная дамская шляпа
+itm_khergit_lady_hat|Хергитская дамская шляпа
+itm_khergit_lady_hat_pl|Хергитская дамская шляпа
+itm_khergit_lady_hat_b|Хергитская кожаная дамская шляпа
+itm_khergit_lady_hat_b_pl|Хергитская кожаная дамская шляпа
 itm_sarranid_felt_hat|Сарранидская фетровая шляпа
 itm_sarranid_felt_hat_pl|Сарранидская фетровая шляпа
 itm_turban|Чалма
@@ -724,8 +724,8 @@ itm_bascinet_2|Бацинет с бармицей
 itm_bascinet_2_pl|Бацинет с бармицей
 itm_bascinet_3|Бацинет с наносником
 itm_bascinet_3_pl|Бацинет с наносником
-itm_guard_helmet|Стражный шлем
-itm_guard_helmet_pl|Стражный шлем
+itm_guard_helmet|Шлем стражника
+itm_guard_helmet_pl|Шлем стражника
 itm_black_helmet|Капюшон мясного лорда
 itm_black_helmet_pl|Капюшоны мясного лорда
 itm_full_helm|Шлем глубоководного ныряльщика
