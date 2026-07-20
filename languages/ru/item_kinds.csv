@@ -3296,8 +3296,8 @@ itm_shielded_katar|Усиленный катар
 itm_shielded_katar_pl|Усиленные катары
 itm_white_katana|Белая катана
 itm_white_katana_pl|Белые катаны
-itm_rogue_wakizashi|Вакидзаси силовика
-itm_rogue_wakizashi_pl|Вакидзаси силовиков
+itm_rogue_wakizashi|Вакидзаси блюстителя
+itm_rogue_wakizashi_pl|Вакидзаси блюстителей
 itm_goudao|Гоудао
 itm_goudao_pl|Гоудао
 itm_akaviri_katana|Дай-катана
@@ -3358,8 +3358,8 @@ itm_renzhual|Костяные когти
 itm_renzhual_pl|Костяные когти
 itm_danyan_huochong|Палилка
 itm_danyan_huochong_pl|Палилки
-itm_enforcer_blade|Клинок силовика
-itm_enforcer_blade_pl|Клинки силовиков
+itm_enforcer_blade|Клинок блюстителя
+itm_enforcer_blade_pl|Клинки блюстителей
 itm_UC_gusoku_ashigaru|Гусоку новобранца
 itm_UC_gusoku_ashigaru_pl|Гусоку новобранцев
 itm_shadow_kasa|Теневая каса
@@ -3514,8 +3514,8 @@ itm_makeshift_blade|Самодельный клинок
 itm_makeshift_blade_pl|Самодельные клинки
 itm_drifter_hood|Капюшон песчаного ходока
 itm_drifter_hood_pl|Капюшоны песчаного ходока
-itm_enforcer_suneate|Сунэатэ силовика
-itm_enforcer_suneate_pl|Сунэатэ силовиков
+itm_enforcer_suneate|Сунэатэ блюстителя
+itm_enforcer_suneate_pl|Сунэатэ блюстителей
 itm_noble_boots|Дворянские сапоги
 itm_noble_boots_pl|Дворянские сапоги
 itm_noble_shoes|Дворянские замшевые туфли
@@ -3936,8 +3936,8 @@ itm_captain_suneate|Пластинчатые сунэатэ
 itm_captain_suneate_pl|Пластинчатые сунэатэ
 itm_shugenja_headwrapping|Головная повязка сюгэндзя
 itm_shugenja_headwrapping_pl|Головные повязки сюгэндзя
-itm_enforcer_hwando|Хвандо силовика
-itm_enforcer_hwando_pl|Хвандо силовиков
+itm_enforcer_hwando|Хвандо блюстителя
+itm_enforcer_hwando_pl|Хвандо блюстителей
 itm_iron_choppa|Железный тесак
 itm_iron_choppa_pl|Железные тесаки
 itm_gut_pick_arrow|Стрелы-потрошители
