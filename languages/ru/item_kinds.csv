@@ -2300,10 +2300,10 @@ itm_UC_sugegasa|Шляпа сугэгаса
 itm_UC_sugegasa_pl|Шляпы сугэгаса
 itm_farmer_sandals|Фермерские сандалии
 itm_farmer_sandals_pl|Фермерские сандалии
-itm_arudakebiki_kenshi|UC Half Armor
-itm_arudakebiki_kenshi_pl|UC Half Armors
-itm_UC_samurai_Kabuto|UC Samurai Kabuto
-itm_UC_samurai_Kabuto_pl|UC Samurai Kabutos
+itm_arudakebiki_kenshi|Доспех артиллериста СГ
+itm_arudakebiki_kenshi_pl|Доспехи артиллеристов СГ
+itm_UC_samurai_Kabuto|Самурайский кабуто СГ
+itm_UC_samurai_Kabuto_pl|Самурайские кабуто СГ
 itm_samurai_kote|Самурайские котэ
 itm_samurai_kote_pl|Самурайские котэ
 itm_geta_sandals|Сандалии гэта
@@ -3004,1007 +3004,1007 @@ itm_white_eyebrow_nongming|Нунмин белой брови
 itm_white_eyebrow_nongming_pl|Нунмин белой брови
 itm_yumi_bow|Юми
 itm_yumi_bow_pl|Юми
-itm_yumi2|Old Yumi
-itm_yumi2_pl|Old Yumi
-itm_shuangtouren|Twinblade
-itm_shuangtouren_pl|Twinblades
-itm_woman_hunfu|Handcrafted Hunfu
-itm_woman_hunfu_pl|Handcrafted Hunfu
-itm_whiteyebrowladywraps|White Eyebrow Wrappings
-itm_whiteyebrowladywraps_pl|White Eyebrow Wrappings
-itm_scorchladyturban|Scorchlander Desert Turban
-itm_scorchladyturban_pl|Scorchlander Desert Turbans
-itm_crab_bandit_armor|Crab Raider Armor
-itm_crab_bandit_armor_pl|Crab Raider Armors
-itm_blood_monk_veil|Blood Monk Veil
-itm_blood_monk_veil_pl|Blood Monk Veils
-itm_blood_monk_robes|Blood Monk Robes
-itm_blood_monk_robes_pl|Blood Monk Robes
-itm_akai_katana|Crimson Katana
-itm_akai_katana_pl|Crimson Katanas
-itm_spear_staff|Daku Spear
-itm_spear_staff_pl|Daku Spears
-itm_crab_armor_boots|Crab Armor Boots
-itm_crab_armor_boots_pl|Crab Armor Boots
-itm_crab_armor_heavy_boots|Heavy Crab Boots
-itm_crab_armor_heavy_boots_pl|Heavy Crab Boots
-itm_reaver_whelprags|Reaver Whelp Rags
-itm_reaver_whelprags_pl|Reaver Whelp Rags
-itm_slavae_rags|Slave Rags
-itm_slavae_rags_pl|Slave Rags
-itm_cannibal_armor|Cannibal Armor
-itm_cannibal_armor_pl|Cannibal Armors
-itm_chainad_rags|Chained Rags
-itm_chainad_rags_pl|Chained Rags
-itm_whelp_robe|Reaver Robe
-itm_whelp_robe_pl|Reaver Robes
-itm_reaver_cage_armor|Cage Vest
-itm_reaver_cage_armor_pl|Cage Vests
-itm_platedwaraji|Plated Waraji
-itm_platedwaraji_pl|Plated Waraji
-itm_reaverheavy|Reaver Heavy Armor
-itm_reaverheavy_pl|Reaver Heavy Armors
-itm_cage_helmeto|Rusty Cage Helmet
-itm_cage_helmeto_pl|Rusty Cage Helmets
-itm_dacoitiarmor|Dacoit Leathers
-itm_dacoitiarmor_pl|Dacoit Leathers
-itm_ebony_meitou|Midnight Meitou
-itm_ebony_meitou_pl|Midnight Meitou
-itm_black_trench_coat|Black Trench Coat
-itm_black_trench_coat_pl|Black Trench Coat
-itm_bigass_knoife|Stabber
-itm_bigass_knoife_pl|Stabbers
-itm_Spiked_Bat|Spiked Swatta
-itm_Spiked_Bat_pl|Spiked Swattas
-itm_swrags|Dirty Rags
-itm_swrags_pl|Dirty Rags
-itm_nailed_batmack|Swatta with Nails
-itm_nailed_batmack_pl|Swattas with Nails
-itm_rustassrespiratoor|Dust Respirator
-itm_rustassrespiratoor_pl|Dust Respirators
-itm_eyepicker|Eyepicker
-itm_eyepicker_pl|Eyepicker
-itm_cannibal_glaive|Cannibal Glaive
-itm_cannibal_glaive_pl|Cannibal Glaives
-itm_cotton_bud|Cotton Bud
-itm_cotton_bud_pl|Cotton Buds
-itm_painted_hand|Painted Hand
-itm_painted_hand_pl|Painted Hands
-itm_cannibalhood|Cannibal Hood
-itm_cannibalhood_pl|Cannibal Hoods
-itm_dacoit_turban1|Dacoit Turban
-itm_dacoit_turban1_pl|Dacoit Turbans
-itm_medium_leatharmor1|Light Leather Armor
-itm_medium_leatharmor1_pl|Light Leather Armors
-itm_medium_leatharmor2|Medium Leather Armor
-itm_medium_leatharmor2_pl|Medium Leather Armors
-itm_blood_raider_leathers|Blood Raider Leathers
-itm_blood_raider_leathers_pl|Blood Raider Leathers
-itm_meat_hook|Meat Hook
-itm_meat_hook_pl|Meat Hooks
-itm_scrap_choppa|Scrap Choppa
-itm_scrap_choppa_pl|Scrap Choppas
-itm_crossbow_asia|Crude Crossbow
-itm_crossbow_asia_pl|Crude Crossbows
-itm_bloodyassspear|Slasher
-itm_bloodyassspear_pl|Slashers
-itm_scorchlady_headcloth|Scorchlander Headcloth
-itm_scorchlady_headcloth_pl|Scorchlander Headcloths
-itm_dacoity_iron_mask|Dacoit Iron Mask
-itm_dacoity_iron_mask_pl|Dacoit Iron Masks
-itm_old_empire_blade|Ancient Blade
-itm_old_empire_blade_pl|Ancient Blades
-itm_heavy_rusty_shield|Rusty Iron Shield
-itm_heavy_rusty_shield_pl|Rusty Iron Shields
-itm_metal_hachigane|Metal Hachigane
-itm_metal_hachigane_pl|Metal Hachiganes
-itm_cannibal_spiked_helm|Cannibal Spiked Helmet
-itm_cannibal_spiked_helm_pl|Cannibal Spiked Helmet
-itm_ninja_mask|Leather Mask
-itm_ninja_mask_pl|Leather Masks
-itm_scorchturban2|Scorchlander Nomad Turban
-itm_scorchturban2_pl|Scorchlander Nomad Turbans
-itm_cannibal_scythe|Old Scythe
-itm_cannibal_scythe_pl|Old Scythes
-itm_civil_rifle_a|Makeshift Rifle
-itm_civil_rifle_a_pl|Makeshift Rifles
-itm_okranite_metal_gaunt|Okranite Armored Gauntlets
-itm_okranite_metal_gaunt_pl|Okranite Armored Gauntlets
-itm_scrap_metal_gauntlets|Scrap Metal Gauntlets
-itm_scrap_metal_gauntlets_pl|Scrap Metal Gauntlets
-itm_cannibal_pointyhelm|Cannibal Pinhead Helmet
-itm_cannibal_pointyhelm_pl|Cannibal Pinhead Helmets
-itm_knoifer|Bloody Dagger
-itm_knoifer_pl|Bloody Daggers
-itm_scrap_metal_plate_gaunt|Heavy Scrap Gauntlets
-itm_scrap_metal_plate_gaunt_pl|Heavy Scrap Gauntlets
-itm_meat_lord_helmet|Meat Lord Helmet
-itm_meat_lord_helmet_pl|Meat Lord Helmets
-itm_vagabond_sabrekat|Vagabond Blade
-itm_vagabond_sabrekat_pl|Vagabond Blades
-itm_choppa_axe|Choppa Axe
-itm_choppa_axe_pl|Choppa Axes
-itm_serrated_falc|Serrated Choppa
-itm_serrated_falc_pl|Serrated Choppas
-itm_thicklegwraps|Thick Leg Wrappings
-itm_thicklegwraps_pl|Thick Leg Wrappings
-itm_blackdragonblade|Dragon Shinobigatana
-itm_blackdragonblade_pl|Dragon Shinobigatana
-itm_kasa_with_towel|Kasa Hat with Rags
-itm_kasa_with_towel_pl|Kasa Hat with Rags
-itm_dakusecondarmor|Dacoit Chainmail
-itm_dakusecondarmor_pl|Dacoit Chainmail
-itm_dacoitirobe|Dacoit Robes
-itm_dacoitirobe_pl|Dacoit Robes
-itm_turbanroninasa|Turban and Straw Gasa
-itm_turbanroninasa_pl|Turban and Straw Gasa
-itm_ironjan_gasa|Spiked Scrap Kasa Hat
-itm_ironjan_gasa_pl|Spiked Scrap Kasa Hat
-itm_scrap_jingasa|Scrap Jingasa
-itm_scrap_jingasa_pl|Scrap Jingasa
-itm_ninja_merchant_outfit|Trade Ninja Outfit
-itm_ninja_merchant_outfit_pl|Trade Ninja Outfit
-itm_straw_hiyokeboshi|Straw Hiyokeboshi
-itm_straw_hiyokeboshi_pl|Straw Hiyokeboshis
-itm_dusty_hakama|Dusty Hakama
-itm_dusty_hakama_pl|Dusty Hakamas
-itm_noble_hakama|Noble Hakama
-itm_noble_hakama_pl|Noble Hakamas
-itm_moon_cleaver|Moon Cleaver
-itm_moon_cleaver_pl|Moon Cleavers
-itm_bandit_bogu|Bandit Bogu
-itm_bandit_bogu_pl|Bandit Bogu
-itm_bandit_bogu_scorchland|Scorchlander Bandit Bogu
-itm_bandit_bogu_scorchland_pl|chlander Bandit Bogus
-itm_rusty_momonari_kabuto|Rusty Momonari Kabuto
-itm_rusty_momonari_kabuto_pl|ItemPl
-itm_postap_men|Rustic Men Helmet
-itm_postap_men_pl|Rustic Men Helmets
-itm_banditboguhakama|Bandit Bogu and Hakama
-itm_banditboguhakama_pl|Bandit Bogu and Hakama
-itm_onnabushi_bogu|Bandit Bogu and Hakama (F)
-itm_onnabushi_bogu_pl|Bandit Bogu and Hakama (F)
-itm_chain_kote_suit|Kusari Katabira and Cloak
-itm_chain_kote_suit_pl|Kusari Katabira and Cloaks
-itm_mail_kusari_hachigane|Kusari Hachigane
-itm_mail_kusari_hachigane_pl|Kusari Hachiganes
-itm_female_leather_armor|Female Leather Outfit
-itm_female_leather_armor_pl|Female Leather Outfits
-itm_mugenjawrap|Shugenja Headwrap
-itm_mugenjawrap_pl|Shugenja Headwraps
-itm_blademaster_chainmail|Blademaster Chainmail
-itm_blademaster_chainmail_pl|Blademaster Chainmail
-itm_caomaogooglesphilie|Caomao Hat and Goggles
-itm_caomaogooglesphilie_pl|Caomao Hat and Goggles
-itm_cannibal_meatlord_armor|Meat Lord Armor
-itm_cannibal_meatlord_armor_pl|Meat Lord Armors
-itm_guanyu|Guan
-itm_guanyu_pl|Guan
-itm_bamboo_pamashield|Bamboo Pama
-itm_bamboo_pamashield_pl|Bamboo Pama
-itm_scrap_jingasa_and_chain_coif|Jingasa and Chainmail Coif
-itm_scrap_jingasa_and_chain_coif_pl|Jingasas and Chainmail Coifs
-itm_blunderhandgun|Blunderbuss
-itm_blunderhandgun_pl|Blunderbuss
-itm_rusted_kama|Rusted Kama
-itm_rusted_kama_pl|Rusted Kamas
-itm_silver_zhangdao|Silver Zhangdao
-itm_silver_zhangdao_pl|Silver Zhangdaos
-itm_chu_ko_nu|Chu Ko Nu
-itm_chu_ko_nu_pl|Chu Ko Nu
-itm_nagamaki|Rusted Nagamaki
-itm_nagamaki_pl|Rusted Nagamakis
-itm_scrap_kabuto|Kabuto Gas Mask
-itm_scrap_kabuto_pl|Kabuto Gas Mask
-itm_cult_cage_hood|Cage Hood
-itm_cult_cage_hood_pl|Cage Hood
-itm_raggedy_robes|Sack Robes
-itm_raggedy_robes_pl|Sack Robes
-itm_raggedy_hood|Ragged Hood
-itm_raggedy_hood_pl|Ragged Hoods
-itm_bastardgasa|Roningasa
-itm_bastardgasa_pl|Roningasa
-itm_assasin_sica|Assassin Sica
-itm_assasin_sica_pl|Assassin Sicas
-itm_mugenja_lamellar|Shugenja Lamellar Armor
-itm_mugenja_lamellar_pl|Shugenja Lamellar Armors
-itm_warajiumbrella|Waraji and Parasol
-itm_warajiumbrella_pl|Waraji and Parasols
-itm_zhanmabardiche|Heavy Horse Chopper
-itm_zhanmabardiche_pl|Heavy Horse Choppers
-itm_veiled_gasa|Veiled Sugegasa
-itm_veiled_gasa_pl|Veiled Sugegasa
-itm_tetsu_toppaijingasa|Tetsu Toppai Jingasa
-itm_tetsu_toppaijingasa_pl|Tetsu Toppai Jingasa
-itm_changpao|Changpao
-itm_changpao_pl|Changpao
-itm_guild_haori|Guild Master Haori
-itm_guild_haori_pl|Guild Master Haoris
-itm_getaumbrella|Geta and Parasol
-itm_getaumbrella_pl|Geta and Parasol
-itm_brown_geta_sandals|Geta Sandals
-itm_brown_geta_sandals_pl|Geta Sandals
-itm_afrosamurai_haori|Afro Samurai Haori
-itm_afrosamurai_haori_pl|Afro Samurai Haoris
-itm_paisanooutfit|Peon Outfit
-itm_paisanooutfit_pl|Peon Outfits
-itm_wickercaomao|Wicker Caomao
-itm_wickercaomao_pl|Wicker Caomaos
-itm_straw_qigai|Saruk Hat
-itm_straw_qigai_pl|Saruk Hats
-itm_xiake|Veiled Xiake
-itm_xiake_pl|Veiled Xiake
-itm_wrappedgetabrella|Wrapped Geta and Parasol
-itm_wrappedgetabrella_pl|Wrapped Geta and Parasol
-itm_footwraps_and_geta|Footwraps and Geta
-itm_footwraps_and_geta_pl|Footwraps and Geta
-itm_hidden_spear|Rebel Spear
-itm_hidden_spear_pl|Rebel Spears
-itm_traders_guild_banner|Traders Guild Banner
-itm_traders_guild_banner_pl|Traders Guild Banners
-itm_heavy_steel_jingasa|Heavy Steel Jingasa
-itm_heavy_steel_jingasa_pl|Heavy Steel Jingasas
-itm_holyseal|Holy Seal
-itm_holyseal_pl|Holy Seals
-itm_leather_jerkin(F)|Leather Jerkin(F)
-itm_leather_jerkin(F)_pl|Leather Jerkins(F)
-itm_visored_spikehelm|Visored Iron Helmet
-itm_visored_spikehelm_pl|Visored Iron Helmets
-itm_leather_tabard|Leather Tabard
-itm_leather_tabard_pl|Leather Tabards
-itm_kendoka_lord|Warlord Bogu
-itm_kendoka_lord_pl|Warlord Bogu
-itm_tribal_shirt|Nomad Shirt
-itm_tribal_shirt_pl|Nomad Shirts
-itm_kunomediumarmor|Leather and Chainmail Armor(F)
-itm_kunomediumarmor_pl|Leather and Chainmail Armors(F)
-itm_outlaw_helmet|Outlaw Helmet
-itm_outlaw_helmet_pl|Outlaw Helmets
-itm_hiverhead|Hiver Head
-itm_hiverhead_pl|Hiver Heads
-itm_okranite_dusta|Okranite Duster
-itm_okranite_dusta_pl|Okranite Dusters
-itm_manco_hand|One Hand
-itm_manco_hand_pl|One Hand
-itm_hunter_armor|Hunter Leather Armor
-itm_hunter_armor_pl|Hunter Leather Armors
-itm_desert_villagedress|Nomad Dress
-itm_desert_villagedress_pl|Nomad Dresses
-itm_sack_hood|Sack Hood
-itm_sack_hood_pl|Sack Hoods
-itm_roadyoroi|Makeshift Yoroi
-itm_roadyoroi_pl|Makeshift Yorois
-itm_armoredmouthpiece|Armored Mouth Plate
-itm_armoredmouthpiece_pl|Armored Mouth Plates
-itm_gladiator_bindings|Rusty Armor and Bindings
-itm_gladiator_bindings_pl|Rusty Armors and Bindings
-itm_egungunrobe|Egungun Robes
-itm_egungunrobe_pl|Egungun Robes
-itm_scrap_yoroi|Scrap Yoroi
-itm_scrap_yoroi_pl|Scrap Yoroi
-itm_dunewalk_goggles|Sandstorm Goggles
-itm_dunewalk_goggles_pl|Sandstorm Goggles
-itm_slaver_helm|Slaver Helmet
-itm_slaver_helm_pl|Slaver Helmet
-itm_holyman_hat|Sugegasa and Ofuda
-itm_holyman_hat_pl|Sugegasas and Ofudas
-itm_slaver_caged_helmet|Slaver Caged Helmet
-itm_slaver_caged_helmet_pl|Slaver Caged Helmet
-itm_makeshift_suneate|Makeshift Suneate
-itm_makeshift_suneate_pl|Makeshift Suneate
-itm_shielded_katar|Reinforced Katar
-itm_shielded_katar_pl|Reinforced Katars
-itm_white_katana|White Katana
-itm_white_katana_pl|White Katanas
-itm_rogue_wakizashi|Enforcer Wakizashi
-itm_rogue_wakizashi_pl|Enforcer Wakizashis
-itm_goudao|Goudao
-itm_goudao_pl|Goudaos
-itm_akaviri_katana|Dai-Katana
-itm_akaviri_katana_pl|Dai-Katanas
-itm_toothpick_crossbow|Toothpick Crossbow
-itm_toothpick_crossbow_pl|Toothpick Crossbows
-itm_mongrel_blade|Mongrel Blade
-itm_mongrel_blade_pl|Mongrel Blades
-itm_fanyanling_gasmask|Fanyangling and Gas Mask
-itm_fanyanling_gasmask_pl|Fanyangling and Gas Masks
-itm_wooden_mudao|Mudao
-itm_wooden_mudao_pl|Mudaos
-itm_serrated_great_sword|Serrated Great Sword
-itm_serrated_great_sword_pl|Serrated Great Swords
-itm_raider_cleaver|Raider Cleaver
-itm_raider_cleaver_pl|Raider Cleavers
-itm_nomad_sabre|Nomad Sabre
-itm_nomad_sabre_pl|Nomad Sabres
-itm_bloodthirsty_arrow|Bloodthirsty Arrow
-itm_bloodthirsty_arrow_pl|Bloodthirsty Arrows
-itm_postap_kote|Scrap Kote
-itm_postap_kote_pl|Scrap Kote
-itm_long_naginata|Long Naginata
-itm_long_naginata_pl|Long Naginatas
-itm_long_sickle|Kama Spear
-itm_long_sickle_pl|Kama Spears
-itm_farmer_kama|Farmer Kama
-itm_farmer_kama_pl|Farmer Kamas
-itm_heavy_copper_pipe|Heavy Copper Pipe
-itm_heavy_copper_pipe_pl|Heavy Copper Pipes
-itm_slaver_pith|Plumed Pith Helmet
-itm_slaver_pith_pl|Plumed Pith Helmets
-itm_Ming_qiang|Niao Chong
-itm_Ming_qiang_pl|Niao Chong
-itm_waistcoatdress|Dress and Leather Vest
-itm_waistcoatdress_pl|Dresses and Leather Vests
-itm_cruel_blade|Cruel Blade
-itm_cruel_blade_pl|Cruel Blades
-itm_felt_dress|Felt Dress
-itm_felt_dress_pl|Felt Dresses
-itm_swamper_gas_mask|Swamper Gas Mask
-itm_swamper_gas_mask_pl|Swamper Gas Masks
-itm_swamper_gas_mask2|Swamper Gas Mask
-itm_swamper_gas_mask2_pl|Swamper Gas Masks
-itm_dusty_black_coat|Dusty Black Coat
-itm_dusty_black_coat_pl|Dusty Black Coats
-itm_slaverarmor|Slaver Iron Armor
-itm_slaverarmor_pl|Slaver Iron Armors
-itm_slaverplate|Slaver Plate
-itm_slaverplate_pl|Slaver Plates
-itm_tribal_arrows|Tribal Arrows
-itm_tribal_arrows_pl|Tribal Arrows
-itm_katana_twinblade|Katana Twinblade
-itm_katana_twinblade_pl|Katana Twinblades
-itm_axeman_sandal|Leather Slipper
-itm_axeman_sandal_pl|Leather Slippers
-itm_renzhual|Bone Claws
-itm_renzhual_pl|Bone Claws
-itm_danyan_huochong|Boomstick
-itm_danyan_huochong_pl|Boomsticks
-itm_enforcer_blade|Enforcer Blade
-itm_enforcer_blade_pl|Enforcer Blades
-itm_UC_gusoku_ashigaru|Conscript Gusoku
-itm_UC_gusoku_ashigaru_pl|Conscript Gusokus
-itm_shadow_kasa|Shadow Kasa
-itm_shadow_kasa_pl|Shadow Kasa
-itm_ashlander_kasa|Ashlander Kasa
-itm_ashlander_kasa_pl|Ashlander Kasa
-itm_okranite_coat|Okranite Coat
-itm_okranite_coat_pl|Okranite Coats
-itm_black_kasa|Black Kasa
-itm_black_kasa_pl|Black Kasa
-itm_brown_duster|Brown Duster
-itm_brown_duster_pl|Brown Duster
-itm_welder_mask|Iron Plate Mask
-itm_welder_mask_pl|Iron Plate Masks
-itm_siamese_glaive|Gut Ripper
-itm_siamese_glaive_pl|Gut Rippers
-itm_ultra_greatsword|Ultra Greatsword Meitou
-itm_ultra_greatsword_pl|Ultra Greatsword Meitou
-itm_armored_hakama|Reinforced Haori
-itm_armored_hakama_pl|Reinforced Haoris
-itm_shek_guardian|Hundred Guardian Panoply
-itm_shek_guardian_pl|Hundred Guardian Panoply
-itm_shek_guardian_boots|Hundred Guardian Boots
-itm_shek_guardian_boots_pl|Hundred Guardian Boots
-itm_shek_leather_armor|Shek Heavy Leather
-itm_shek_leather_armor_pl|Shek Heavy Leathers
-itm_machinst_budenovka_gas|Budenovka and Gas Mask
-itm_machinst_budenovka_gas_pl|Budenovka and Gas Mask
-itm_machinist_robe|Machinist Robe
-itm_machinist_robe_pl|Machinist Robes
-itm_cultist_hieropriest|Hieropriest Habit
-itm_cultist_hieropriest_pl|Hieropriest Habits
-itm_desert_bandana|Outlaw Bandana
-itm_desert_bandana_pl|Outlaw Bandanas
-itm_cultist_hood|Face of The Faithftul
-itm_cultist_hood_pl|Faces of The Faithftul
-itm_cultist_hood2|Face of The Penitent
-itm_cultist_hood2_pl|Face of The Penitents
-itm_demonistarmor|Moon Guardian Panoply
-itm_demonistarmor_pl|Moon Guardian Panoplies
-itm_shinobicitizenfem|Chain Yukata
-itm_shinobicitizenfem_pl|Chain Yukatas
-itm_bamboo_spearu|Makeshift Bamboo Spear
-itm_bamboo_spearu_pl|Makeshift Bamboo Spears
-itm_heavy_plank|Heavy Plank
-itm_heavy_plank_pl|Heavy Planks
-itm_arashiniohelm|Arashi Nio Helm
-itm_arashiniohelm_pl|Arashi Nio Helms
-itm_arashinio_soygent|Arashi Nio Yoroi
-itm_arashinio_soygent_pl|Arashi Nio Yoroi
-itm_arashi_nio_chain|Arashi Nio Gusoku
-itm_arashi_nio_chain_pl|Arashi Nio Gusoku
-itm_sturm_boots|Pale Leather Boots
-itm_sturm_boots_pl|Pale Leather Boots
-itm_lamellar_boots|Lamellar and Chain Boots
-itm_lamellar_boots_pl|Lamellar and Chain Boots
-itm_arashiniohelm2|Arashi Nio Helmet
-itm_arashiniohelm2_pl|Arashi Nio Helmet
-itm_arashi_arrows|Arashi Arrows
-itm_arashi_arrows_pl|Arashi Arrows
-itm_arashi_trooper|Arashi Trooper Kabuto
-itm_arashi_trooper_pl|Arashi Trooper Kabutos
-itm_arashi_noble_armor|Arashi Elite Muneate
-itm_arashi_noble_armor_pl|Arashi Elite Muneate
-itm_arashi_kote|Arashi Kote
-itm_arashi_kote_pl|Arashi Kote
-itm_suneate3|Arashi Suneate
-itm_suneate3_pl|Arashi Suneate
-itm_corsair_bow|Arashi Yumi
-itm_corsair_bow_pl|Arashi Yumis
-itm_gibson_hovercraft|Dust Hikoki
-itm_gibson_hovercraft_pl|Dust Hikokis
-itm_empiremusket|Type-E Jezail
-itm_empiremusket_pl|Type-E Jezails
-itm_arashi_trooperarmor|Arashi Nio Chain Yoroi
-itm_arashi_trooperarmor_pl|ItemPl
-itm_standard_saber|Standard-Issue Sabre
-itm_standard_saber_pl|Standard-Issue Sabres
-itm_iron_war_spear|Iron Yari
-itm_iron_war_spear_pl|Iron Yaris
-itm_hafted_naginata|Hafted Naginata
-itm_hafted_naginata_pl|Hafted Naginatas
-itm_veloblack|Noblewoman Veil
-itm_veloblack_pl|Noblewoman Veils
-itm_heavy_breastplate|Heavy Breastplate
-itm_heavy_breastplate_pl|Heavy Breastplate
-itm_shogunate_do|Shogunate Infantry Do
-itm_shogunate_do_pl|Shogunate Infantry Do
-itm_shogunate_kosane|Shogunate Kosane Do
-itm_shogunate_kosane_pl|Shogunate Kosane Do
-itm_shogunate_kozanegus|Shogunate Kozane Gusoku
-itm_shogunate_kozanegus_pl|Shogunate Kozane Gusoku
-itm_kote_handwrap|Bindings and Kote
-itm_kote_handwrap_pl|Bindings and Kote
-itm_ronin_suneate|Ronin Suneate
-itm_ronin_suneate_pl|Ronin Suneate
-itm_villager_outfito|Villager Outfit
-itm_villager_outfito_pl|Villager Outfit
-itm_skele_katana|Model # Mk II Katana
-itm_skele_katana_pl|Model # Mk II Katanas
-itm_veteran_katana|Model # Catun No.3 Katana
-itm_veteran_katana_pl|Model # Catun No.3 Katanas
-itm_catun01_katana|Model # Catun No.1 Katana
-itm_catun01_katana_pl|Model # Catun No.1 Katanas
-itm_black_katana|[Model # Mk III Katana
-itm_black_katana_pl|[Model # Mk III Katanas
-itm_lizardskin_katana|Lizardskin Katana
-itm_lizardskin_katana_pl|Lizardskin Katanas
-itm_ansatsu_waki|Ansatsujin Wakizashi
-itm_ansatsu_waki_pl|Ansatsujin Wakizashi
-itm_golden_meitou_katana|Model # AU Meitou Katana
-itm_golden_meitou_katana_pl|Model # AU Meitou Katanas
-itm_outlaw_sack_hood|Outlaw Hood
-itm_outlaw_sack_hood_pl|Outlaw Hoods
-itm_wrench_club|Wrench Club
-itm_wrench_club_pl|Wrench Clubs
-itm_mangutter|Mangutter
-itm_mangutter_pl|Mengutters
-itm_ringed_spear|Ringed Spear
-itm_ringed_spear_pl|Ringed Spears
-itm_savage_blade|Savage Blade
-itm_savage_blade_pl|Savage Blades
-itm_ashen_visor|Ashen Visor Helm
-itm_ashen_visor_pl|Ashen Visor Helms
-itm_sandstrider_leathers|Sandstrider Boots
-itm_sandstrider_leathers_pl|Sandstrider Boots
-itm_flotsamhakama|Flotsam Hakama
-itm_flotsamhakama_pl|Flotsam Hakama
-itm_shinobikabuto|Shinobi Kabuto
-itm_shinobikabuto_pl|Shinobi Kabuto
-itm_kunoichihakama|Kuroi Hakama
-itm_kunoichihakama_pl|Kuroi Hakama
-itm_leper_glove|Leper Hand Bindings
-itm_leper_glove_pl|Leper Hand Bindings
-itm_clan_robes|Clan Robes
-itm_clan_robes_pl|Clan Robes
-itm_prophet_hood|Okoso Zukin
-itm_prophet_hood_pl|Okoso Zukin
-itm_holytats|Holyman Robes
-itm_holytats_pl|Holyman Robes
-itm_leper_binding_armor|Leper Bindings
-itm_leper_binding_armor_pl|Leper Bindings
-itm_makeshift_leather_boots|Makeshift Leather Boots
-itm_makeshift_leather_boots_pl|Makeshift Leather Boots
-itm_cannibal_mask|Cannibal Mask
-itm_cannibal_mask_pl|Cannibal Mask
-itm_flotsam_mail_and_plate|Kusari and Do
-itm_flotsam_mail_and_plate_pl|Kusari and Do
-itm_woodenpipa|Wooden Pipe
-itm_woodenpipa_pl|Wooden Pipes
-itm_makeshift_blade|Makeshift Blade
-itm_makeshift_blade_pl|Makeshift Blade
-itm_drifter_hood|Sandwalker Hood
-itm_drifter_hood_pl|Sandwalker Hoods
-itm_enforcer_suneate|Enforcer Suneate
-itm_enforcer_suneate_pl|Enforcer Suneate
-itm_noble_boots|Noble Boots
-itm_noble_boots_pl|Noble Boots
-itm_noble_shoes|Noble Suede Shoes
-itm_noble_shoes_pl|Noble Suede Shoes
-itm_onna_bugeisha|Heavy Empire Yoroi(F)
-itm_onna_bugeisha_pl|Heavy Empire Yoroi(F)
-itm_onnabu|Onna Bugeisha Yoroi
-itm_onnabu_pl|Onna Bugeisha Yoroi
-itm_crude_spear|Crude Spear
-itm_crude_spear_pl|Crude Spears
-itm_shinobi_kote|Shinobi Kote
-itm_shinobi_kote_pl|Shinobi Kote
-itm_kralfang|Kral's Fang
-itm_kralfang_pl|Kral's Fangs
-itm_martial_bindin|Martial Artist Bindings
-itm_martial_bindin_pl|Martial Artist Bindings
-itm_shinobi_bind|Shinobi Bindings
-itm_shinobi_bind_pl|Shinobi Bindings
-itm_iron_kanabou_spik|Iron Spiked Kanabou
-itm_iron_kanabou_spik_pl|Iron Spiked Kanabou
-itm_makeshift_slasher|Makeshift Pipe Slasher
-itm_makeshift_slasher_pl|Makeshift Pipe Slashers
-itm_helmetoshek|Shek War Helmet
-itm_helmetoshek_pl|Shek War Helmets
-itm_pig_iron_gloves|Ironclad Gloves
-itm_pig_iron_gloves_pl|Ironclad Gloves
-itm_hornless_shek_helm|Band of Bones Helm
-itm_hornless_shek_helm_pl|Band of Bones Helms
-itm_orange_bandana|Orange Bandana
-itm_orange_bandana_pl|Orange Bandana
-itm_female_leather_jacket|Drifter Leather Jacket(F)
-itm_female_leather_jacket_pl|Drifter Leather Jackets(F)
-itm_cultist_sack|Cultist Sack Hood
-itm_cultist_sack_pl|Cultist Sack Hood
-itm_faith_robes|Faithful Robes
-itm_faith_robes_pl|Faithful Robes
-itm_rebel_vesto|Peasant Lamellar Armor
-itm_rebel_vesto_pl|Peasant Lamellar Armors
-itm_rebel_lamellar_gear|Provincial Lamellar Armor
-itm_rebel_lamellar_gear_pl|Provincial Lamellar Armors
-itm_shogun_momo|Shogun Momonari Kabuto
-itm_shogun_momo_pl|Shogun Momonari Kabuto
-itm_gambeson_postap|Patchwork Gambeson
-itm_gambeson_postap_pl|Patchwork Gambeson
-itm_turban_straw|Turban and Rattan Hat
-itm_turban_straw_pl|Turbans and Rattan Hats
-itm_skinbandit_head|Skin Bandit Head
-itm_skinbandit_head_pl|Skin Bandit Heads
-itm_binbou_katana|Model # Han No.1 Katana
-itm_binbou_katana_pl|Model # Han No.1 Katanas
-itm_oldassr_katana|Aged Katana
-itm_oldassr_katana_pl|Aged Katanas
-itm_empire_katana|Empire Katana
-itm_empire_katana_pl|Empire Katanas
-itm_kuroiryu_nodachi|Black Dragon Nodachi
-itm_kuroiryu_nodachi_pl|Black Dragon Nodachis
-itm_roninb_nodachi|Model # Catun No.4 Nodachi
-itm_roninb_nodachi_pl|Model # Catun No.4 Nodachi
-itm_empire_waki|Empire Wakizashi
-itm_empire_waki_pl|Empire Wakizashi
-itm_ronin_waki|Ronin Wakizashi
-itm_ronin_waki_pl|Ronin Wakizashis
-itm_MkII_Nodachi|Model # Mk II Nodachi
-itm_MkII_Nodachi_pl|Model # Mk II Nodachi
-itm_akazonae_yoroi|Akazonae Yoroi
-itm_akazonae_yoroi_pl|Akazonae Yoroi
-itm_hiver_rags|Hiver Rag Skirt
-itm_hiver_rags_pl|Hiver Rag Skirts
-itm_hiver_legs|Hiver Legs
-itm_hiver_legs_pl|Hiver Legs
-itm_hiver_hands|Hiver Hands
-itm_hiver_hands_pl|Hiver Hands
-itm_suneate_akai|Akazonae Suneate
-itm_suneate_akai_pl|Akazonae Suneate
-itm_akazonae_tekko|Akazonae Tekkou
-itm_akazonae_tekko_pl|Akazonae Tekkou
-itm_outlaw_pig_iron_helm|Outlaw Pig Iron Helm
-itm_outlaw_pig_iron_helm_pl|Outlaw Pig Iron Helms
-itm_pipe_helmet|Pipe Helmet
-itm_pipe_helmet_pl|Pipe Helmets
-itm_skeleton_legs|Skeleton Legs MKII
-itm_skeleton_legs_pl|Skeleton Legs MKII
-itm_pirate_rifle|Pirate Matchlock Rifle
-itm_pirate_rifle_pl|Pirate Matchlock Rifles
-itm_tusken_headwrap|Deep Desert Respirator
-itm_tusken_headwrap_pl|Deep Desert Respirators
-itm_impaler_gas_mask|Impaler Helmet
-itm_impaler_gas_mask_pl|Impaler Helmets
-itm_drifter_leather_jacket|Drifter Leather Jacket
-itm_drifter_leather_jacket_pl|Drifter Leather Jackets
-itm_trader_leather_jacket|Trader Leather Jacket
-itm_trader_leather_jacket_pl|Trader Leather Jackets
-itm_skeleton_bodee2|Skeleton Frame MKII
-itm_skeleton_bodee2_pl|Skeleton Frame MKII
-itm_longdao|Heavy Dao
-itm_longdao_pl|Heavy Dao
-itm_weedian_robes|Ganjauid Robe
-itm_weedian_robes_pl|Ganjauid Robes
-itm_scoped_jezail|Scoped Jezail
-itm_scoped_jezail_pl|Scoped Jezails
-itm_vodoo_needles|Throwing Nails
-itm_vodoo_needles_pl|Throwing Nails
-itm_mugenja_heavy_lamellar|Shugenja Heavy Lamellar
-itm_mugenja_heavy_lamellar_pl|Shugenja Heavy Lamellar
-itm_blind_hood|Blind Hood
-itm_blind_hood_pl|Blind Hoods
-itm_crescent_moon_knife|Crescent Harvester
-itm_crescent_moon_knife_pl|Crescent Harvesters
-itm_city_girl_outfit|Cloth Outfit(F)
-itm_city_girl_outfit_pl|Cloth Outfits(F)
-itm_samurai_waki|Model # Catun No.7 Wakizashi
-itm_samurai_waki_pl|Model # Catun No.7 Wakizashis
-itm_drifta_katana|Model # Catun No.2 Katana
-itm_drifta_katana_pl|Model # Catun No.2 Katanas
-itm_noble_mongol_coat|Noble Fur Coat
-itm_noble_mongol_coat_pl|Noble Fur Coats
-itm_monocle|Monocle
-itm_monocle_pl|Monocles
-itm_republic_gunto|Standard-Issue Republic Gunto
-itm_republic_gunto_pl|Standard-Issue Republic Gunto
-itm_advanced_gas_mask|Advanced Gas Mask
-itm_advanced_gas_mask_pl|Advanced Gas Masks
-itm_leather_umsim|Leather Umsim
-itm_leather_umsim_pl|Leather Umsim
-itm_female_shek_head2|Shek Female Head
-itm_female_shek_head2_pl|Shek Female Head
-itm_shek_femhead_blk|Shek Woman Head
-itm_shek_femhead_blk_pl|Shek Woman Heads
-itm_bandit_knife|Bandit Knife
-itm_bandit_knife_pl|Bandit Knives
-itm_shogunate_red_jingasa|Shogunate Red Jingasa
-itm_shogunate_red_jingasa_pl|Shogunate Red Jingasa
-itm_flaying_blade|Flayer
-itm_flaying_blade_pl|Flayers
-itm_norimitsu_nodachi|War-Torn Odachi
-itm_norimitsu_nodachi_pl|War-Torn Odachis
-itm_iron_stud_kanabou|Iron Studded Kanabou
-itm_iron_stud_kanabou_pl|ItemPl
-itm_ringed_blade|Ringed Weighted Blade
-itm_ringed_blade_pl|Ringed Weighted Blade
-itm_crowd_chopper|Crowd Chopper
-itm_crowd_chopper_pl|Crowd Choppers
-itm_hafted_glaive|Long Hafted Glaive
-itm_hafted_glaive_pl|Long Hafted Glaives
-itm_black_nagamaki|Drifter Nagamaki
-itm_black_nagamaki_pl|Drifter Nagamakis
-itm_ronin_naginata|Ronin Naginata
-itm_ronin_naginata_pl|Ronin Naginatas
-itm_weighted_naginata|Weighted Iron Naginata
-itm_weighted_naginata_pl|Weighted Iron Naginatas
-itm_jumonji_yari|Jumonji Yari
-itm_jumonji_yari_pl|Jumonji Yari
-itm_pig_iron_pike|Pig Iron Pike
-itm_pig_iron_pike_pl|Pig Iron Pikes
-itm_guts_plank|Gut-Smasher Plank
-itm_guts_plank_pl|Gut-Smasher Planks
-itm_horse_chopperusty|Rusty Horse Chopper
-itm_horse_chopperusty_pl|Rusty Horse Choppers
-itm_dragon_cannon|Dragon Cannon
-itm_dragon_cannon_pl|Dragon Cannons
-itm_iron_jitte|Iron Jitte
-itm_iron_jitte_pl|Iron Jitte
-itm_dusty_old_trenchcoat|Dusty Old Trenchcoat
-itm_dusty_old_trenchcoat_pl|Dusty Old Trenchcoats
-itm_kunoichi_chainrobe|Kunoichi Chainrobe
-itm_kunoichi_chainrobe_pl|Kunoichi Chainrobes
-itm_transparent_hand|Transparent Hand
-itm_transparent_hand_pl|Transparent Hands
-itm_shogun_katana|Kurokiri Meitou
-itm_shogun_katana_pl|Kurokiri Meitou
-itm_ground_cannabis|Ground Cannabis
-itm_ground_cannabis_pl|Ground Cannabis
-itm_ornate_hunfu|Artisanal Hunfu
-itm_ornate_hunfu_pl|Artisanal Hunfu
-itm_skeleton_jingasa|Skeleton Jingasa and Cloak
-itm_skeleton_jingasa_pl|Skeleton Jingasa and Cloaks
-itm_skeleton_heavy_frame|Ancient P4 Frame
-itm_skeleton_heavy_frame_pl|Ancient P4 Frames
-itm_skin_bandit_artificer|Skin Bandit Visor Head
-itm_skin_bandit_artificer_pl|Skin Bandit Visor Heads
-itm_ancient_glaive|Ancient Glaive
-itm_ancient_glaive_pl|Ancient Glaives
-itm_ancient_naginata|Ancient Naginata
-itm_ancient_naginata_pl|Ancient Naginatas
-itm_reinforced_leathaer_black|Reinforced Black Leather Boots
-itm_reinforced_leathaer_black_pl|Reinforced Black Leather Boots
-itm_hungry_slasher|Bloody Slasher
-itm_hungry_slasher_pl|Bloody Slashers
-itm_white_lamellar_armor|Medium Lamellar Armor
-itm_white_lamellar_armor_pl|Medium Lamellar Armors
-itm_xuejie|Peasant Dress and Long Vest
-itm_xuejie_pl|Peasant Dress and Long Vest
-itm_ronin_makeshift_gusoku|Makeshift Gusoku
-itm_ronin_makeshift_gusoku_pl|Makeshift Gusoku
-itm_ogjingasa|Stained Kasa
-itm_ogjingasa_pl|Stained Kasa
-itm_bandit_raggu|Old Rags
-itm_bandit_raggu_pl|Old Rags
-itm_drifter_ledervest|Leather Vest and Backpack
-itm_drifter_ledervest_pl|Leather Vests and Backpacks
-itm_ronin_lamellar|Ronin Lamellar Armor
-itm_ronin_lamellar_pl|Ronin Lamellar Armors
-itm_bandofbonesarmor|Kral Iron Plate
-itm_bandofbonesarmor_pl|Kral Iron Plates
-itm_peasant_humbregi|Humble Shuhe
-itm_peasant_humbregi_pl|Humble Shuhe
-itm_peasant_shuhe|Peasant Shuhe
-itm_peasant_shuhe_pl|Peasant Shuhe
-itm_bloody_turban|Bloodstained Turban
-itm_bloody_turban_pl|Bloodstained Turbans
-itm_iron_flat_top|Tower Helmet
-itm_iron_flat_top_pl|Tower Helmets
-itm_iron_flat_toprag|Tower Helmet
-itm_iron_flat_toprag_pl|Tower Helmets
-itm_ronin_trashplate|Bandit Yoroi
-itm_ronin_trashplate_pl|Bandit Yoroi
-itm_scrapyard_chainmail|Heavy Scrap Hauberk
-itm_scrapyard_chainmail_pl|Heavy Scrap Hauberk
-itm_homemade_bandana|Tied Bandana
-itm_homemade_bandana_pl|Tied Bandanas
-itm_mercantile_robes|Desert Merchant Robes
-itm_mercantile_robes_pl|Desert Merchant Robes
-itm_shogun_yoroi|Kuro Arashi
-itm_shogun_yoroi_pl|Kuro Arashi
-itm_martial_artist_robes|Martial Artist Robes
-itm_martial_artist_robes_pl|Martial Artist Robes
-itm_ancient_suneate|Ancient Suneate
-itm_ancient_suneate_pl|Ancient Suneate
-itm_terracotta_skeleton|Terracotta Skeleton Head
-itm_terracotta_skeleton_pl|Terracotta Skeleton Heads
-itm_ancient_samurai_yoroi|Ancient Samurai Yoroi
-itm_ancient_samurai_yoroi_pl|Ancient Samurai Yoroi
-itm_ancient_boots|Ancient Boots
-itm_ancient_boots_pl|Ancient Boots
-itm_ancient_terracotta_yoroi|Terracotta Yoroi
-itm_ancient_terracotta_yoroi_pl|Terracotta Yoroi
-itm_mingfu_dress|Green Mingfu
-itm_mingfu_dress_pl|Green Mingfu
-itm_yellow_mingfu_dress|Yellow Mingfu
-itm_yellow_mingfu_dress_pl|Yellow Mingfu
-itm_patchwork_robes|Patchwork Robes
-itm_patchwork_robes_pl|Patchwork Robes
-itm_scorch_rags|Scorchlander Rags
-itm_scorch_rags_pl|Scorchlander Rags
-itm_miner_helmet|Miner Helmet
-itm_miner_helmet_pl|Miner Helmets
-itm_hiver_kebiki|Hiver Kebiki
-itm_hiver_kebiki_pl|Hiver Kebikis
-itm_hide_outfit|Trapper Hides
-itm_hide_outfit_pl|Trapper Hides
-itm_bonedog1|Bone Dog
-itm_bonedog1_pl|Bone Dogs
-itm_traveller_robes|Traveller Robes
-itm_traveller_robes_pl|Traveller Robes
-itm_shek_cuirass|Shek Cuirass
-itm_shek_cuirass_pl|Shek Cuirass
-itm_makeshift_plankshield|Makeshift Shield
-itm_makeshift_plankshield_pl|Makeshift Shields
-itm_female_traveller_oufit|Hemp Robes(F)
-itm_female_traveller_oufit_pl|Hemp Robes(F)
-itm_female_pirate_shirt|Hemp Shirt(F)
-itm_female_pirate_shirt_pl|Hemp Shirts(F)
-itm_white_ronin_lamellar|White Ronin Lamellar
-itm_white_ronin_lamellar_pl|White Ronin Lamellar
-itm_burka|Shinobi Headdress
-itm_burka_pl|Shinobi Headdresses
-itm_hiver_stainedkasa|Hiver Stained Kasa
-itm_hiver_stainedkasa_pl|Hiver Stained Kasa
-itm_pepper_sack|Pepper
-itm_pepper_sack_pl|Pepper
-itm_ronindirty_hakama|Ronin Dirty Hakama
-itm_ronindirty_hakama_pl|Ronin Dirty Hakamas
-itm_holy_sandogasa|Blessed Sandogasa
-itm_holy_sandogasa_pl|Blessed Sandogasas
-itm_scorchlander_rogue_outfit|Scorchlander Rogue Shirt
-itm_scorchlander_rogue_outfit_pl|Scorchlander Rogue Shirts
-itm_shek_cowled_helm|Shek Helmet and Cowl
-itm_shek_cowled_helm_pl|Shek Helmets and Cowls
-itm_mechanical_spider|Mechanical Spider MKI
-itm_mechanical_spider_pl|Mechanical Spiders MKI
-itm_llantashield|Ancient Scrap Round Shield
-itm_llantashield_pl|Ancient Scrap Round Shield
-itm_noble_arrows|Noble Arrows
-itm_noble_arrows_pl|Noble Arrows
-itm_noble_bow|Noble Ebony Bow
-itm_noble_bow_pl|Noble Ebony Bows
-itm_warlord_saber|Warlord Sabre
-itm_warlord_saber_pl|Warlord Sabres
-itm_cruel_pike|Cruel Pike
-itm_cruel_pike_pl|Cruel Pikes
-itm_clanguard_battlescythe|Clan Battlescythe
-itm_clanguard_battlescythe_pl|Clan Battlescythes
-itm_nomad_blade|Nomad Blade
-itm_nomad_blade_pl|Nomad Blades
-itm_bloodstained_old_sword|Bloodstained Old Sword
-itm_bloodstained_old_sword_pl|Bloodstained Old Swords
-itm_rhun_infantry_sword|Clan Infantry Sword
-itm_rhun_infantry_sword_pl|Clan Infantry Swords
-itm_skinbandit_clawas|Skin Bandit Frame
-itm_skinbandit_clawas_pl|Skin Bandit Frames
-itm_simple_robe|Homemade Robe
-itm_simple_robe_pl|Homemade Robes
-itm_ancient_skeleton_legs|Ancient Skeleton Legs
-itm_ancient_skeleton_legs_pl|Ancient Skeleton Legs
-itm_ancient_skeleton_claw|Ancient Skeleton Claw
-itm_ancient_skeleton_claw_pl|Ancient Skeleton Claws
-itm_ancestral_skelebodee|Ancient Skeleton Frame
-itm_ancestral_skelebodee_pl|Ancient Skeleton Frames
-itm_nonla_and_turban|Non La
-itm_nonla_and_turban_pl|Non La
-itm_rebel_pike|Wooden Pike
-itm_rebel_pike_pl|Wooden Pikes
-itm_guom_truong|Guom Truong
-itm_guom_truong_pl|Guom Truong
-itm_alchemist_goggles|Work Goggles
-itm_alchemist_goggles_pl|Work Goggles
-itm_cannihunt_helmet|Cannibal Hunter Helmet
-itm_cannihunt_helmet_pl|Cannibal Hunter Helmets
-itm_cannibal_hunter_leatherstu|Studded Leather Armor
-itm_cannibal_hunter_leatherstu_pl|Studded Leather Armors
-itm_cannhunter_capt|Hunter Plate and Leathers
-itm_cannhunter_capt_pl|Hunter Plate and Leathers
-itm_flesh_shield|Flesh Covered Kite Shield
-itm_flesh_shield_pl|Flesh Covered Kite Shields
-itm_boxer_ushanka|Boxer Ushanka
-itm_boxer_ushanka_pl|Boxer Ushankas
-itm_boxer_ushanka2|Open Boxer Ushanka
-itm_boxer_ushanka2_pl|Open Boxer Ushanka
-itm_willow_leaf_sabre|Liuyedao
-itm_willow_leaf_sabre_pl|Liuyedao
-itm_dirty_gloves|Stained Gloves
-itm_dirty_gloves_pl|Stained Gloves
-itm_fur_hood|Masked Fur Hood
-itm_fur_hood_pl|Masked Fur Hoods
-itm_okranite_headwraps|Bindings of the Faithful
-itm_okranite_headwraps_pl|Bindings of the Faithful
-itm_scavenger_suneate|Scavenger's Suneate
-itm_scavenger_suneate_pl|Scavenger's Suneate
-itm_hiver_suneate|Hiver Suneate
-itm_hiver_suneate_pl|Hiver Suneate
-itm_hiver_yoroi|Hiver Yoroi
-itm_hiver_yoroi_pl|Hiver Yoroi
-itm_scavenger_yoroi|Scavenger Yoroi
-itm_scavenger_yoroi_pl|Scavenger Yoroi
-itm_bounty_hunter_jingasa|Bounty Hunter Jingasa
-itm_bounty_hunter_jingasa_pl|Bounty Hunter Jingasa
-itm_noble_jingasa|Noble Jingasa
-itm_noble_jingasa_pl|Noble Jingasa
-itm_chain_gusoku|Karuta Tatami Gusoku
-itm_chain_gusoku_pl|Karuta Tatami Gusoku
-itm_arashi_veiled_jingasa|Shogunate Kusari Jingasa
-itm_arashi_veiled_jingasa_pl|Shogunate Kusari Jingasa
-itm_cannibal_skull_armor|Skinweaver Tabard
-itm_cannibal_skull_armor_pl|Skinweaver Tabards
-itm_dragon_meitou|Last Fang Meitou
-itm_dragon_meitou_pl|Last Fang Meitou
-itm_tooth_meitou|Houndtooth Meitou
-itm_tooth_meitou_pl|Houndtooth Meitou
-itm_assassin_sakabato|Assassin Sakabato
-itm_assassin_sakabato_pl|Assassin Sakabato
-itm_black_dragon_katana|Black Dragon Katana
-itm_black_dragon_katana_pl|Black Dragon Katanas
-itm_dragon_tachi_meitou|Wyrmblood Meitou
-itm_dragon_tachi_meitou_pl|Wyrmblood Meitou
-itm_akazonae_katana|Akazonae Cavalry Katana
-itm_akazonae_katana_pl|Akazonae Cavalry Katanas
-itm_akazonae_odachi|Akazonae Odachi
-itm_akazonae_odachi_pl|Akazonae Odachi
-itm_heavy_ji_halberd|Heavy Ji
-itm_heavy_ji_halberd_pl|Heavy Ji
-itm_meat_cleaver|Meat Cleaver
-itm_meat_cleaver_pl|Meat Cleavers
-itm_ninja_fukumen|Fukumen Zukin
-itm_ninja_fukumen_pl|Fukumen Zukin
-itm_flotsam_jingasa|Flotsam Iron Jingasa
-itm_flotsam_jingasa_pl|Flotsam Iron Jingasa
-itm_leather_jacket_female|Boiled Leather Jacket(F)
-itm_leather_jacket_female_pl|Boiled Leather Jackets(F)
-itm_heavy_guandao|Heavy Guandao
-itm_heavy_guandao_pl|Heavy Guandao
-itm_chain_kote|Chainmail Kote
-itm_chain_kote_pl|Chainmail Kote
-itm_kenpei_commander_robe|Kenpei Commander Robes
-itm_kenpei_commander_robe_pl|Kenpei Commander Robes
-itm_arashi_chain_lam|Arashi Nio Lamellar
-itm_arashi_chain_lam_pl|Arashi Nio Lamellar
-itm_mugenja_hood|Shugenja Hood
-itm_mugenja_hood_pl|Shugenja Hoods
-itm_miaodao|Miaodao
-itm_miaodao_pl|Miaodao
-itm_okranite_lamellar|Okranite Lamellar Armor
-itm_okranite_lamellar_pl|Okranite Lamellar Armors
-itm_executioner_nagamaki|Executioner Nagamaki
-itm_executioner_nagamaki_pl|Executioner Nagamaki
-itm_chinese_kettle_hat|Iron Li Kui
-itm_chinese_kettle_hat_pl|Iron Li Kui
-itm_rough_greaves|Rough Plate Greaves
-itm_rough_greaves_pl|Rough Plate Greaves
-itm_rougho_greaves|Rough Greaves
-itm_rougho_greaves_pl|Rough Greaves
-itm_steel_plate_greaves|Steel Plate Greaves
-itm_steel_plate_greaves_pl|Steel Plate Greaves
-itm_makeshift_iron_greaves|Pig Iron Greaves
-itm_makeshift_iron_greaves_pl|Pig Iron Greaves
-itm_shinobi_maskhood|Ninja Cowl
-itm_shinobi_maskhood_pl|Ninja Cowls
-itm_wrapping_shoes|Wrapping Shoes
-itm_wrapping_shoes_pl|Wrapping Shoes
-itm_black_wrap_shoes|Black Wrapping Shoes
-itm_black_wrap_shoes_pl|Black Wrapping Shoes
-itm_mk1_horsechopper|Model# MKI Horse Chopper
-itm_mk1_horsechopper_pl|Model# MKI Horse Choppers
-itm_martial_artisto_hat|Martial Artist Hat
-itm_martial_artisto_hat_pl|Martial Artist Hats
-itm_executioner_zhandao|Executioner Zhandao
-itm_executioner_zhandao_pl|Executioner Zhandao
-itm_captain_suneate|Plated Suneate
-itm_captain_suneate_pl|Plated Suneate
-itm_shugenja_headwrapping|Shugenja Headwrap
-itm_shugenja_headwrapping_pl|Shugenja Headwrap
-itm_enforcer_hwando|Enforcer Hwando
-itm_enforcer_hwando_pl|Enforcer Hwando
-itm_iron_choppa|Iron Chopper
-itm_iron_choppa_pl|Iron Chopper
-itm_gut_pick_arrow|Gut Picker Arrows
-itm_gut_pick_arrow_pl|Gut Picker Arrows
-itm_serpent_jingasa|Serpent Clan Jingasa
-itm_serpent_jingasa_pl|Serpent Clan Jingasa
-itm_serpent_clan_hakama1|Serpent Armored Hakama
-itm_serpent_clan_hakama1_pl|Serpent Armored Hakama
-itm_serpent_clan_hakama2|Serpent Swordsman Hakama
-itm_serpent_clan_hakama2_pl|Serpent Swordsman Hakama
-itm_serpent_suneate|Serpent Clan Suneate
-itm_serpent_suneate_pl|Serpent Clan Suneate
-itm_serpent_suneate2|Yojimbo Suneate
-itm_serpent_suneate2_pl|Yojimbo Suneate
-itm_serpent_lamellar|Black Lamellar Armor
-itm_serpent_lamellar_pl|Black Lamellar Armor
-itm_marksman_lamellar|Marksman Lamellar Armor
-itm_marksman_lamellar_pl|Marksman Lamellar Armors
-itm_crested_jingasa|Crested Jingasa
-itm_crested_jingasa_pl|Crested Jingasas
-itm_marksman_helmet|Marksman Helmet
-itm_marksman_helmet_pl|Marksman Helmets
-itm_tied_balaclava|Tied Balaclava
-itm_tied_balaclava_pl|Tied Balaclava
-itm_black_lamellar_gunner|Gunner Lamellar Armor
-itm_black_lamellar_gunner_pl|Gunner Lamellar Armor
-itm_border_guard_armor|Border Guard Armor
-itm_border_guard_armor_pl|Border Guard Armors
-itm_outlaw_gusoku|Outlaw Gusoku
-itm_outlaw_gusoku_pl|Outlaw Gusoku
-itm_dragon_clan_lamellar|Dragon Clan Brigandine
-itm_dragon_clan_lamellar_pl|Dragon Clan Brigandine
-itm_dragon_clan_maskhelmet|Dragon Masked Helmet
-itm_dragon_clan_maskhelmet_pl|Dragon Masked Helmets
-itm_dragon_warrior_heavy|Dragon Warrior Armor
-itm_dragon_warrior_heavy_pl|Dragon Warrior Armors
-itm_dragon_warrior_mask|Dragon Warrior Mask
-itm_dragon_warrior_mask_pl|Dragon Warrior Masks
-itm_dragon_heavy_mask|Dragon Clan Mask
-itm_dragon_heavy_mask_pl|Dragon Clan Masks
-itm_dragon_visored_helm|Dragon Visored Helmet
-itm_dragon_visored_helm_pl|Dragon Visored Helmets
-itm_jingasa_goggles|Reinforced Jingasa and Goggles
-itm_jingasa_goggles_pl|Reinforced Jingasa and Goggles
-itm_geom|Geom
-itm_geom_pl|Geom
-itm_serpent_clan_hakamalong|Serpent Ronin Hakama
-itm_serpent_clan_hakamalong_pl|Serpent Ronin Hakama
-itm_dragon_warrior_chesto|Dragon Path
-itm_dragon_warrior_chesto_pl|Dragon Path
-itm_hooded_hanyamen|Hooded Hanyamen
-itm_hooded_hanyamen_pl|Hooded Hanyamen
-itm_kodachi_shield|Left-Hand Kodachi
-itm_kodachi_shield_pl|Left-Hand Kodachi
-itm_monohoshi|Heavy Monohoshi
-itm_monohoshi_pl|Heavy Monohoshi
-itm_brutal_dadao|Ronin's Dadao
-itm_brutal_dadao_pl|Ronin's Dadao
-itm_zhanmadao|Zhanmadao
-itm_zhanmadao_pl|Zhanmadao
-itm_peasant_magua|Commoner Magua
-itm_peasant_magua_pl|Commoner Magua
-itm_halat_robe|Halat Robes
-itm_halat_robe_pl|Halat Robes
-itm_hook_arrows|Hook Arrows
-itm_hook_arrows_pl|Hook Arrows
-itm_flaying_club|Flaying Club
-itm_flaying_club_pl|Flaying Clubs
-itm_items_end|Items End
-itm_items_end_pl|Items End
+itm_yumi2|Старый юми
+itm_yumi2_pl|Старые юми
+itm_shuangtouren|Двойной клинок
+itm_shuangtouren_pl|Двойные клинки
+itm_woman_hunfu|Хунфу ручной работы
+itm_woman_hunfu_pl|Хунфу ручной работы
+itm_whiteyebrowladywraps|Повязки белой брови
+itm_whiteyebrowladywraps_pl|Повязки белой брови
+itm_scorchladyturban|Пустынный тюрбан ожжёнца
+itm_scorchladyturban_pl|Пустынные тюрбаны ожжёнцев
+itm_crab_bandit_armor|Доспех крабового рейдера
+itm_crab_bandit_armor_pl|Доспехи крабовых рейдеров
+itm_blood_monk_veil|Вуаль кровавого монаха
+itm_blood_monk_veil_pl|Вуали кровавых монахов
+itm_blood_monk_robes|Робы кровавого монаха
+itm_blood_monk_robes_pl|Робы кровавых монахов
+itm_akai_katana|Багровая катана
+itm_akai_katana_pl|Багровые катаны
+itm_spear_staff|Копьё даку
+itm_spear_staff_pl|Копья даку
+itm_crab_armor_boots|Крабовые бронесапоги
+itm_crab_armor_boots_pl|Крабовые бронесапоги
+itm_crab_armor_heavy_boots|Тяжёлые крабовые сапоги
+itm_crab_armor_heavy_boots_pl|Тяжёлые крабовые сапоги
+itm_reaver_whelprags|Лохмотья рейверского щенка
+itm_reaver_whelprags_pl|Лохмотья рейверских щенков
+itm_slavae_rags|Невольничьи лохмотья
+itm_slavae_rags_pl|Невольничьи лохмотья
+itm_cannibal_armor|Доспех каннибала
+itm_cannibal_armor_pl|Доспехи каннибалов
+itm_chainad_rags|Лохмотья с цепями
+itm_chainad_rags_pl|Лохмотья с цепями
+itm_whelp_robe|Роба рейвера
+itm_whelp_robe_pl|Робы рейверов
+itm_reaver_cage_armor|Клетчатый жилет
+itm_reaver_cage_armor_pl|Клетчатые жилеты
+itm_platedwaraji|Пластинчатые варадзи
+itm_platedwaraji_pl|Пластинчатые варадзи
+itm_reaverheavy|Тяжёлый доспех рейвера
+itm_reaverheavy_pl|Тяжёлые доспехи рейверов
+itm_cage_helmeto|Ржавый клетчатый шлем
+itm_cage_helmeto_pl|Ржавые клетчатые шлемы
+itm_dacoitiarmor|Кожа дакоита
+itm_dacoitiarmor_pl|Кожи дакоитов
+itm_ebony_meitou|Полуночный мэйто
+itm_ebony_meitou_pl|Полуночный мэйто
+itm_black_trench_coat|Чёрный тренчкот
+itm_black_trench_coat_pl|Чёрные тренчкоты
+itm_bigass_knoife|Заточка
+itm_bigass_knoife_pl|Заточки
+itm_Spiked_Bat|Шипастая свата
+itm_Spiked_Bat_pl|Шипастые сваты
+itm_swrags|Грязные лохмотья
+itm_swrags_pl|Грязные лохмотья
+itm_nailed_batmack|Свата с гвоздями
+itm_nailed_batmack_pl|Сваты с гвоздями
+itm_rustassrespiratoor|Пылевой респиратор
+itm_rustassrespiratoor_pl|Пылевые респираторы
+itm_eyepicker|Глазодёр
+itm_eyepicker_pl|Глазодёры
+itm_cannibal_glaive|Глефа каннибала
+itm_cannibal_glaive_pl|Глефы каннибалов
+itm_cotton_bud|Ватная палочка
+itm_cotton_bud_pl|Ватные палочки
+itm_painted_hand|Расписная рука
+itm_painted_hand_pl|Расписные руки
+itm_cannibalhood|Капюшон каннибала
+itm_cannibalhood_pl|Капюшоны каннибалов
+itm_dacoit_turban1|Тюрбан дакоита
+itm_dacoit_turban1_pl|Тюрбаны дакоитов
+itm_medium_leatharmor1|Лёгкий кожаный доспех
+itm_medium_leatharmor1_pl|Лёгкие кожаные доспехи
+itm_medium_leatharmor2|Средний кожаный доспех
+itm_medium_leatharmor2_pl|Средние кожаные доспехи
+itm_blood_raider_leathers|Кожи кровавого рейдера
+itm_blood_raider_leathers_pl|Кожи кровавых рейдеров
+itm_meat_hook|Мясницкий крюк
+itm_meat_hook_pl|Мясницкие крюки
+itm_scrap_choppa|Ломовый тесак
+itm_scrap_choppa_pl|Ломовые тесаки
+itm_crossbow_asia|Грубый арбалет
+itm_crossbow_asia_pl|Грубые арбалеты
+itm_bloodyassspear|Полосатик
+itm_bloodyassspear_pl|Полосатики
+itm_scorchlady_headcloth|Головной платок ожжёнца
+itm_scorchlady_headcloth_pl|Головные платки ожжёнцев
+itm_dacoity_iron_mask|Железная маска дакоита
+itm_dacoity_iron_mask_pl|Железные маски дакоитов
+itm_old_empire_blade|Древний клинок
+itm_old_empire_blade_pl|Древние клинки
+itm_heavy_rusty_shield|Ржавый железный щит
+itm_heavy_rusty_shield_pl|Ржавые железные щиты
+itm_metal_hachigane|Металлический хачиганэ
+itm_metal_hachigane_pl|Металлические хачиганэ
+itm_cannibal_spiked_helm|Шипастый шлем каннибала
+itm_cannibal_spiked_helm_pl|Шипастые шлемы каннибалов
+itm_ninja_mask|Кожаная маска
+itm_ninja_mask_pl|Кожаные маски
+itm_scorchturban2|Тюрбан номада-ожжёнца
+itm_scorchturban2_pl|Тюрбаны номадов-ожжёнцев
+itm_cannibal_scythe|Старая коса
+itm_cannibal_scythe_pl|Старые косы
+itm_civil_rifle_a|Самодельная винтовка
+itm_civil_rifle_a_pl|Самодельные винтовки
+itm_okranite_metal_gaunt|Огранитские бронированные рукавицы
+itm_okranite_metal_gaunt_pl|Огранитские бронированные рукавицы
+itm_scrap_metal_gauntlets|Ломовые металлические рукавицы
+itm_scrap_metal_gauntlets_pl|Ломовые металлические рукавицы
+itm_cannibal_pointyhelm|Остроконечный шлем каннибала
+itm_cannibal_pointyhelm_pl|Остроконечные шлемы каннибалов
+itm_knoifer|Кровавый кинжал
+itm_knoifer_pl|Кровавые кинжалы
+itm_scrap_metal_plate_gaunt|Тяжёлые ломовые рукавицы
+itm_scrap_metal_plate_gaunt_pl|Тяжёлые ломовые рукавицы
+itm_meat_lord_helmet|Шлем мясного лорда
+itm_meat_lord_helmet_pl|Шлемы мясного лорда
+itm_vagabond_sabrekat|Клинок бродяги
+itm_vagabond_sabrekat_pl|Клинки бродяг
+itm_choppa_axe|Тесачный топор
+itm_choppa_axe_pl|Тесачные топоры
+itm_serrated_falc|Зазубренный тесак
+itm_serrated_falc_pl|Зазубренные тесаки
+itm_thicklegwraps|Толстые обмотки для ног
+itm_thicklegwraps_pl|Толстые обмотки для ног
+itm_blackdragonblade|Драконья синобигатана
+itm_blackdragonblade_pl|Драконьи синобигатаны
+itm_kasa_with_towel|Шляпа каса с тряпками
+itm_kasa_with_towel_pl|Шляпы каса с тряпками
+itm_dakusecondarmor|Кольчуга дакоита
+itm_dakusecondarmor_pl|Кольчуги дакоитов
+itm_dacoitirobe|Робы дакоита
+itm_dacoitirobe_pl|Робы дакоитов
+itm_turbanroninasa|Тюрбан и соломенная каса
+itm_turbanroninasa_pl|Тюрбаны и соломенные каса
+itm_ironjan_gasa|Шипастая шляпа каса из лома
+itm_ironjan_gasa_pl|Шипастые шляпы каса из лома
+itm_scrap_jingasa|Дзингаса из лома
+itm_scrap_jingasa_pl|Дзингаса из лома
+itm_ninja_merchant_outfit|На торгаша-ниндзя
+itm_ninja_merchant_outfit_pl|Наряды торгаша-ниндзя
+itm_straw_hiyokeboshi|Соломенный хиёкэбоси
+itm_straw_hiyokeboshi_pl|Соломенные хиёкэбоси
+itm_dusty_hakama|Пыльная хакама
+itm_dusty_hakama_pl|Пыльные хакама
+itm_noble_hakama|Дворянская хакама
+itm_noble_hakama_pl|Дворянские хакама
+itm_moon_cleaver|Лунный тесак
+itm_moon_cleaver_pl|Лунные тесаки
+itm_bandit_bogu|Бандитский богу
+itm_bandit_bogu_pl|Бандитские богу
+itm_bandit_bogu_scorchland|Бандитский богу ожжёнца
+itm_bandit_bogu_scorchland_pl|Бандитские богу ожжёнцев
+itm_rusty_momonari_kabuto|Ржавый момонари кабуто
+itm_rusty_momonari_kabuto_pl|Ржавые момонари кабуто
+itm_postap_men|Деревенский шлем
+itm_postap_men_pl|Деревенские шлемы
+itm_banditboguhakama|Бандитский богу и хакама
+itm_banditboguhakama_pl|Бандитские богу и хакама
+itm_onnabushi_bogu|Бандитский богу и хакама(Ж)
+itm_onnabushi_bogu_pl|Бандитские богу и хакама(Ж)
+itm_chain_kote_suit|Кусари катабира и накидка
+itm_chain_kote_suit_pl|Кусари катабира и накидки
+itm_mail_kusari_hachigane|Кусари хачиганэ
+itm_mail_kusari_hachigane_pl|Кусари хачиганэ
+itm_female_leather_armor|Женский кожаный наряд
+itm_female_leather_armor_pl|Женские кожаные наряды
+itm_mugenjawrap|Головная повязка сюгэндзя
+itm_mugenjawrap_pl|Головные повязки сюгэндзя
+itm_blademaster_chainmail|Кольчуга мастера клинка
+itm_blademaster_chainmail_pl|Кольчуги мастера клинка
+itm_caomaogooglesphilie|Шляпа цаомао с очками
+itm_caomaogooglesphilie_pl|Шляпы цаомао с очками
+itm_cannibal_meatlord_armor|Доспех мясного лорда
+itm_cannibal_meatlord_armor_pl|Доспехи мясного лорда
+itm_guanyu|Гуань
+itm_guanyu_pl|Гуань
+itm_bamboo_pamashield|Бамбуковая пама
+itm_bamboo_pamashield_pl|Бамбуковые памы
+itm_scrap_jingasa_and_chain_coif|Дзингаса с кольчужным капюшоном
+itm_scrap_jingasa_and_chain_coif_pl|Дзингаса с кольчужными капюшонами
+itm_blunderhandgun|Бландербасс
+itm_blunderhandgun_pl|Бландербассы
+itm_rusted_kama|Ржавая кама
+itm_rusted_kama_pl|Ржавые камы
+itm_silver_zhangdao|Серебряный чжандао
+itm_silver_zhangdao_pl|Серебряные чжандао
+itm_chu_ko_nu|Чу ко ну
+itm_chu_ko_nu_pl|Чу ко ну
+itm_nagamaki|Ржавый нагамаки
+itm_nagamaki_pl|Ржавые нагамаки
+itm_scrap_kabuto|Кабуто-противогаз
+itm_scrap_kabuto_pl|Кабуто-противогазы
+itm_cult_cage_hood|Клетчатый капюшон
+itm_cult_cage_hood_pl|Клетчатые капюшоны
+itm_raggedy_robes|Мешковатые робы
+itm_raggedy_robes_pl|Мешковатые робы
+itm_raggedy_hood|Рваный капюшон
+itm_raggedy_hood_pl|Рваные капюшоны
+itm_bastardgasa|Ронингаса
+itm_bastardgasa_pl|Ронингаса
+itm_assasin_sica|Сика убийцы
+itm_assasin_sica_pl|Сики убийц
+itm_mugenja_lamellar|Ламеллярный доспех сюгэндзя
+itm_mugenja_lamellar_pl|Ламеллярные доспехи сюгэндзя
+itm_warajiumbrella|Варадзи и парасол
+itm_warajiumbrella_pl|Варадзи и парасолы
+itm_zhanmabardiche|Тяжёлый конский топор
+itm_zhanmabardiche_pl|Тяжёлые конские топоры
+itm_veiled_gasa|Вуалированная сугэгаса
+itm_veiled_gasa_pl|Вуалированные сугэгаса
+itm_tetsu_toppaijingasa|Тэцу топпай дзингаса
+itm_tetsu_toppaijingasa_pl|Тэцу топпай дзингаса
+itm_changpao|Чанпао
+itm_changpao_pl|Чанпао
+itm_guild_haori|Хаори мастера гильдии
+itm_guild_haori_pl|Хаори мастеров гильдии
+itm_getaumbrella|Гэта и парасол
+itm_getaumbrella_pl|Гэта и парасолы
+itm_brown_geta_sandals|Сандалии гэта
+itm_brown_geta_sandals_pl|Сандалии гэта
+itm_afrosamurai_haori|Хаори афросамурая
+itm_afrosamurai_haori_pl|Хаори афросамураев
+itm_paisanooutfit|Наряд пеона
+itm_paisanooutfit_pl|Наряды пеонов
+itm_wickercaomao|Плетёный цаомао
+itm_wickercaomao_pl|Плетёные цаомао
+itm_straw_qigai|Шляпа сарук
+itm_straw_qigai_pl|Шляпы сарук
+itm_xiake|Вуалированный сякэ
+itm_xiake_pl|Вуалированные сякэ
+itm_wrappedgetabrella|Обмотанные гэта и парасол
+itm_wrappedgetabrella_pl|Обмотанные гэта и парасолы
+itm_footwraps_and_geta|Обмотки и гэта
+itm_footwraps_and_geta_pl|Обмотки и гэта
+itm_hidden_spear|Копьё повстанца
+itm_hidden_spear_pl|Копья повстанцев
+itm_traders_guild_banner|Знамя гильдии торговцев
+itm_traders_guild_banner_pl|Знамёна гильдии торговцев
+itm_heavy_steel_jingasa|Тяжёлая стальная дзингаса
+itm_heavy_steel_jingasa_pl|Тяжёлые стальные дзингаса
+itm_holyseal|Святая печать
+itm_holyseal_pl|Святые печати
+itm_leather_jerkin(F)|Кожаный джеркин(Ж)
+itm_leather_jerkin(F)_pl|Кожаные джеркины(Ж)
+itm_visored_spikehelm|Шлем с забралом
+itm_visored_spikehelm_pl|Шлемы с забралом
+itm_leather_tabard|Кожаный табард
+itm_leather_tabard_pl|Кожаные табарды
+itm_kendoka_lord|Богу военачальника
+itm_kendoka_lord_pl|Богу военачальников
+itm_tribal_shirt|Рубаха номада
+itm_tribal_shirt_pl|Рубахи номадов
+itm_kunomediumarmor|Доспех из кожи и кольчуги(Ж)
+itm_kunomediumarmor_pl|Доспехи из кожи и кольчуги(Ж)
+itm_outlaw_helmet|Шлем разбойника
+itm_outlaw_helmet_pl|Шлемы разбойников
+itm_hiverhead|Голова Улья
+itm_hiverhead_pl|Головы Улья
+itm_okranite_dusta|Огранитский пыльник
+itm_okranite_dusta_pl|Огранитские пыльники
+itm_manco_hand|Одна рука
+itm_manco_hand_pl|Одна рука
+itm_hunter_armor|Кожаный доспех охотника
+itm_hunter_armor_pl|Кожаные доспехи охотников
+itm_desert_villagedress|Платье номада
+itm_desert_villagedress_pl|Платья номадов
+itm_sack_hood|Мешковатый капюшон
+itm_sack_hood_pl|Мешковатые капюшоны
+itm_roadyoroi|Самодельный ёрой
+itm_roadyoroi_pl|Самодельные ёрой
+itm_armoredmouthpiece|Бронированная нагубная пластина
+itm_armoredmouthpiece_pl|Бронированные нагубные пластины
+itm_gladiator_bindings|Ржавый доспех с обмотками
+itm_gladiator_bindings_pl|Ржавые доспехи с обмотками
+itm_egungunrobe|Робы эгунгун
+itm_egungunrobe_pl|Робы эгунгун
+itm_scrap_yoroi|Ёрой из лома
+itm_scrap_yoroi_pl|Ёрой из лома
+itm_dunewalk_goggles|Очки от песчаной бури
+itm_dunewalk_goggles_pl|Очки от песчаной бури
+itm_slaver_helm|Шлем работорговца
+itm_slaver_helm_pl|Шлемы работорговцев
+itm_holyman_hat|Сугэгаса с офудой
+itm_holyman_hat_pl|Сугэгаса с офудами
+itm_slaver_caged_helmet|Клетчатый шлем работорговца
+itm_slaver_caged_helmet_pl|Клетчатые шлемы работорговцев
+itm_makeshift_suneate|Самодельные сунэатэ
+itm_makeshift_suneate_pl|Самодельные сунэатэ
+itm_shielded_katar|Усиленный катар
+itm_shielded_katar_pl|Усиленные катары
+itm_white_katana|Белая катана
+itm_white_katana_pl|Белые катаны
+itm_rogue_wakizashi|Вакидзаси силовика
+itm_rogue_wakizashi_pl|Вакидзаси силовиков
+itm_goudao|Гоудао
+itm_goudao_pl|Гоудао
+itm_akaviri_katana|Дай-катана
+itm_akaviri_katana_pl|Дай-катаны
+itm_toothpick_crossbow|Арбалет-зубочистка
+itm_toothpick_crossbow_pl|Арбалеты-зубочистки
+itm_mongrel_blade|Клинок дворняги
+itm_mongrel_blade_pl|Клинки дворняг
+itm_fanyanling_gasmask|Фаньяньлин и противогаз
+itm_fanyanling_gasmask_pl|Фаньяньлины и противогазы
+itm_wooden_mudao|Мудао
+itm_wooden_mudao_pl|Мудао
+itm_serrated_great_sword|Зазубренный большой меч
+itm_serrated_great_sword_pl|Зазубренные большие мечи
+itm_raider_cleaver|Тесак рейдера
+itm_raider_cleaver_pl|Тесаки рейдеров
+itm_nomad_sabre|Сабля номада
+itm_nomad_sabre_pl|Сабли номадов
+itm_bloodthirsty_arrow|Кровожадная стрела
+itm_bloodthirsty_arrow_pl|Кровожадные стрелы
+itm_postap_kote|Котэ из лома
+itm_postap_kote_pl|Котэ из лома
+itm_long_naginata|Длинная нагината
+itm_long_naginata_pl|Длинные нагинаты
+itm_long_sickle|Кама-копьё
+itm_long_sickle_pl|Кама-копья
+itm_farmer_kama|Фермерская кама
+itm_farmer_kama_pl|Фермерские камы
+itm_heavy_copper_pipe|Тяжёлая медная труба
+itm_heavy_copper_pipe_pl|Тяжёлые медные трубы
+itm_slaver_pith|Пробковый шлем с плюмажем
+itm_slaver_pith_pl|Пробковые шлемы с плюмажем
+itm_Ming_qiang|Няо Чун
+itm_Ming_qiang_pl|Няо Чун
+itm_waistcoatdress|Платье с кожаным жилетом
+itm_waistcoatdress_pl|Платья с кожаными жилетами
+itm_cruel_blade|Жестокий клинок
+itm_cruel_blade_pl|Жестокие клинки
+itm_felt_dress|Фетровое платье
+itm_felt_dress_pl|Фетровые платья
+itm_swamper_gas_mask|Противогаз болотника
+itm_swamper_gas_mask_pl|Противогазы болотников
+itm_swamper_gas_mask2|Противогаз болотника
+itm_swamper_gas_mask2_pl|Противогазы болотников
+itm_dusty_black_coat|Пыльное чёрное пальто
+itm_dusty_black_coat_pl|Пыльные чёрные пальто
+itm_slaverarmor|Железный доспех работорговца
+itm_slaverarmor_pl|Железные доспехи работорговцев
+itm_slaverplate|Пластина работорговца
+itm_slaverplate_pl|Пластины работорговцев
+itm_tribal_arrows|Племенные стрелы
+itm_tribal_arrows_pl|Племенные стрелы
+itm_katana_twinblade|Катана-двойной клинок
+itm_katana_twinblade_pl|Катаны-двойные клинки
+itm_axeman_sandal|Кожаная туфля
+itm_axeman_sandal_pl|Кожаные туфли
+itm_renzhual|Костяные когти
+itm_renzhual_pl|Костяные когти
+itm_danyan_huochong|Палилка
+itm_danyan_huochong_pl|Палилки
+itm_enforcer_blade|Клинок силовика
+itm_enforcer_blade_pl|Клинки силовиков
+itm_UC_gusoku_ashigaru|Гусоку новобранца
+itm_UC_gusoku_ashigaru_pl|Гусоку новобранцев
+itm_shadow_kasa|Теневая каса
+itm_shadow_kasa_pl|Теневые каса
+itm_ashlander_kasa|Каса пепельника
+itm_ashlander_kasa_pl|Каса пепельников
+itm_okranite_coat|Огранитское пальто
+itm_okranite_coat_pl|Огранитские пальто
+itm_black_kasa|Чёрная каса
+itm_black_kasa_pl|Чёрные каса
+itm_brown_duster|Коричневый пыльник
+itm_brown_duster_pl|Коричневые пыльники
+itm_welder_mask|Железная пластинчатая маска
+itm_welder_mask_pl|Железные пластинчатые маски
+itm_siamese_glaive|Потрошитель
+itm_siamese_glaive_pl|Потрошители
+itm_ultra_greatsword|Ультра-большой меч мэйто
+itm_ultra_greatsword_pl|Ультра-большие мечи мэйто
+itm_armored_hakama|Усиленное хаори
+itm_armored_hakama_pl|Усиленные хаори
+itm_shek_guardian|Сотня доспехов стража
+itm_shek_guardian_pl|Сотня доспехов стража
+itm_shek_guardian_boots|Сапоги сотни стражей
+itm_shek_guardian_boots_pl|Сапоги сотни стражей
+itm_shek_leather_armor|Шекская тяжёлая кожа
+itm_shek_leather_armor_pl|Шекские тяжёлые кожи
+itm_machinst_budenovka_gas|Будёновка с противогазом
+itm_machinst_budenovka_gas_pl|Будёновки с противогазами
+itm_machinist_robe|Роба машиниста
+itm_machinist_robe_pl|Робы машинистов
+itm_cultist_hieropriest|Облачение иероприста
+itm_cultist_hieropriest_pl|Облачения иеропристов
+itm_desert_bandana|Бандана разбойника
+itm_desert_bandana_pl|Банданы разбойников
+itm_cultist_hood|Лик верного
+itm_cultist_hood_pl|Лики верных
+itm_cultist_hood2|Лик кающегося
+itm_cultist_hood2_pl|Лики кающихся
+itm_demonistarmor|Доспех лунного стража
+itm_demonistarmor_pl|Доспехи лунных стражей
+itm_shinobicitizenfem|Кольчужная юката
+itm_shinobicitizenfem_pl|Кольчужные юкаты
+itm_bamboo_spearu|Самодельное бамбуковое копьё
+itm_bamboo_spearu_pl|Самодельные бамбуковые копья
+itm_heavy_plank|Тяжёлая доска
+itm_heavy_plank_pl|Тяжёлые доски
+itm_arashiniohelm|Шлем араси нио
+itm_arashiniohelm_pl|Шлемы араси нио
+itm_arashinio_soygent|Ёрой араси нио
+itm_arashinio_soygent_pl|Ёрой араси нио
+itm_arashi_nio_chain|Гусоку араси нио
+itm_arashi_nio_chain_pl|Гусоку араси нио
+itm_sturm_boots|Бледные кожаные сапоги
+itm_sturm_boots_pl|Бледные кожаные сапоги
+itm_lamellar_boots|Ламеллярные и кольчужные сапоги
+itm_lamellar_boots_pl|Ламеллярные и кольчужные сапоги
+itm_arashiniohelm2|Шлем араси нио
+itm_arashiniohelm2_pl|Шлемы араси нио
+itm_arashi_arrows|Стрелы араси
+itm_arashi_arrows_pl|Стрелы араси
+itm_arashi_trooper|Кабуто солдата араси
+itm_arashi_trooper_pl|Кабуто солдат араси
+itm_arashi_noble_armor|Элитный мунэатэ араси
+itm_arashi_noble_armor_pl|Элитные мунэатэ араси
+itm_arashi_kote|Котэ араси
+itm_arashi_kote_pl|Котэ араси
+itm_suneate3|Сунэатэ араси
+itm_suneate3_pl|Сунэатэ араси
+itm_corsair_bow|Юми араси
+itm_corsair_bow_pl|Юми араси
+itm_gibson_hovercraft|Пылевой хикоки
+itm_gibson_hovercraft_pl|Пылевые хикоки
+itm_empiremusket|Джезаил типа-E
+itm_empiremusket_pl|Джезаилы типа-E
+itm_arashi_trooperarmor|Кольчужный ёрой араси нио
+itm_arashi_trooperarmor_pl|Кольчужные ёрой араси нио
+itm_standard_saber|Сабля стандартного образца
+itm_standard_saber_pl|Сабли стандартного образца
+itm_iron_war_spear|Железное яри
+itm_iron_war_spear_pl|Железные яри
+itm_hafted_naginata|Нагината на древке
+itm_hafted_naginata_pl|Нагинаты на древке
+itm_veloblack|Вуаль дворянки
+itm_veloblack_pl|Вуали дворянок
+itm_heavy_breastplate|Тяжёлый нагрудник
+itm_heavy_breastplate_pl|Тяжёлые нагрудники
+itm_shogunate_do|Сёгунский пехотный до
+itm_shogunate_do_pl|Сёгунские пехотные до
+itm_shogunate_kosane|Сёгунский косане до
+itm_shogunate_kosane_pl|Сёгунские косане до
+itm_shogunate_kozanegus|Сёгунский кодзанэ гусоку
+itm_shogunate_kozanegus_pl|Сёгунские кодзанэ гусоку
+itm_kote_handwrap|Обмотки и котэ
+itm_kote_handwrap_pl|Обмотки и котэ
+itm_ronin_suneate|Сунэатэ ронина
+itm_ronin_suneate_pl|Сунэатэ ронинов
+itm_villager_outfito|Наряд селянина
+itm_villager_outfito_pl|Наряды селян
+itm_skele_katana|Модель # Mk II Катана
+itm_skele_katana_pl|Модели # Mk II Катана
+itm_veteran_katana|Модель # Катун No.3 Катана
+itm_veteran_katana_pl|Модели # Катун No.3 Катана
+itm_catun01_katana|Модель # Катун No.1 Катана
+itm_catun01_katana_pl|Модели # Катун No.1 Катана
+itm_black_katana|Модель # Mk III Катана
+itm_black_katana_pl|Модели # Mk III Катана
+itm_lizardskin_katana|Катана из шкуры ящерицы
+itm_lizardskin_katana_pl|Катаны из шкуры ящерицы
+itm_ansatsu_waki|Ансацудзин вакидзаси
+itm_ansatsu_waki_pl|Ансацудзин вакидзаси
+itm_golden_meitou_katana|Модель # AU Мэйто Катана
+itm_golden_meitou_katana_pl|Модели # AU Мэйто Катана
+itm_outlaw_sack_hood|Капюшон разбойника
+itm_outlaw_sack_hood_pl|Капюшоны разбойников
+itm_wrench_club|Гаечный ключ-дубина
+itm_wrench_club_pl|Гаечные ключи-дубины
+itm_mangutter|Потрошитель
+itm_mangutter_pl|Потрошители
+itm_ringed_spear|Кольчатое копьё
+itm_ringed_spear_pl|Кольчатые копья
+itm_savage_blade|Дикий клинок
+itm_savage_blade_pl|Дикие клинки
+itm_ashen_visor|Пепельный шлем с забралом
+itm_ashen_visor_pl|Пепельные шлемы с забралом
+itm_sandstrider_leathers|Сапоги песчаного ходока
+itm_sandstrider_leathers_pl|Сапоги песчаного ходока
+itm_flotsamhakama|Хакама флотсама
+itm_flotsamhakama_pl|Хакама флотсама
+itm_shinobikabuto|Кабуто синоби
+itm_shinobikabuto_pl|Кабуто синоби
+itm_kunoichihakama|Курои хакама
+itm_kunoichihakama_pl|Курои хакама
+itm_leper_glove|Обмотки рук прокажённого
+itm_leper_glove_pl|Обмотки рук прокажённых
+itm_clan_robes|Клановые робы
+itm_clan_robes_pl|Клановые робы
+itm_prophet_hood|Окосо дзукин
+itm_prophet_hood_pl|Окосо дзукин
+itm_holytats|Робы святого
+itm_holytats_pl|Робы святого
+itm_leper_binding_armor|Обмотки прокажённого
+itm_leper_binding_armor_pl|Обмотки прокажённых
+itm_makeshift_leather_boots|Самодельные кожаные сапоги
+itm_makeshift_leather_boots_pl|Самодельные кожаные сапоги
+itm_cannibal_mask|Маска каннибала
+itm_cannibal_mask_pl|Маски каннибалов
+itm_flotsam_mail_and_plate|Кусари и до
+itm_flotsam_mail_and_plate_pl|Кусари и до
+itm_woodenpipa|Деревянная трубка
+itm_woodenpipa_pl|Деревянные трубки
+itm_makeshift_blade|Самодельный клинок
+itm_makeshift_blade_pl|Самодельные клинки
+itm_drifter_hood|Капюшон песчаного ходока
+itm_drifter_hood_pl|Капюшоны песчаного ходока
+itm_enforcer_suneate|Сунэатэ силовика
+itm_enforcer_suneate_pl|Сунэатэ силовиков
+itm_noble_boots|Дворянские сапоги
+itm_noble_boots_pl|Дворянские сапоги
+itm_noble_shoes|Дворянские замшевые туфли
+itm_noble_shoes_pl|Дворянские замшевые туфли
+itm_onna_bugeisha|Тяжёлый имперский ёрой(Ж)
+itm_onna_bugeisha_pl|Тяжёлые имперские ёрой(Ж)
+itm_onnabu|Ёрой онна бугэйся
+itm_onnabu_pl|Ёрой онна бугэйся
+itm_crude_spear|Грубое копьё
+itm_crude_spear_pl|Грубые копья
+itm_shinobi_kote|Котэ синоби
+itm_shinobi_kote_pl|Котэ синоби
+itm_kralfang|Клык Крала
+itm_kralfang_pl|Клыки Крала
+itm_martial_bindin|Обмотки мастера боевых искусств
+itm_martial_bindin_pl|Обмотки мастеров боевых искусств
+itm_shinobi_bind|Обмотки синоби
+itm_shinobi_bind_pl|Обмотки синоби
+itm_iron_kanabou_spik|Железный шипастый канабо
+itm_iron_kanabou_spik_pl|Железные шипастые канабо
+itm_makeshift_slasher|Самодельный полосатик
+itm_makeshift_slasher_pl|Самодельные полосатики
+itm_helmetoshek|Шекский боевой шлем
+itm_helmetoshek_pl|Шекские боевые шлемы
+itm_pig_iron_gloves|Железные рукавицы
+itm_pig_iron_gloves_pl|Железные рукавицы
+itm_hornless_shek_helm|Шлем банды костей
+itm_hornless_shek_helm_pl|Шлемы банды костей
+itm_orange_bandana|Оранжевая бандана
+itm_orange_bandana_pl|Оранжевые банданы
+itm_female_leather_jacket|Кожаная куртка скитальца(Ж)
+itm_female_leather_jacket_pl|Кожаные куртки скитальцев(Ж)
+itm_cultist_sack|Мешковатый капюшон культиста
+itm_cultist_sack_pl|Мешковатые капюшоны культистов
+itm_faith_robes|Робы верного
+itm_faith_robes_pl|Робы верных
+itm_rebel_vesto|Крестьянский ламеллярный доспех
+itm_rebel_vesto_pl|Крестьянские ламеллярные доспехи
+itm_rebel_lamellar_gear|Провинциальный ламеллярный доспех
+itm_rebel_lamellar_gear_pl|Провинциальные ламеллярные доспехи
+itm_shogun_momo|Сёгунский момонари кабуто
+itm_shogun_momo_pl|Сёгунские момонари кабуто
+itm_gambeson_postap|Лоскутный гамбез
+itm_gambeson_postap_pl|Лоскутные гамбезы
+itm_turban_straw|Тюрбан с плетёной шляпой
+itm_turban_straw_pl|Тюрбаны с плетёными шляпами
+itm_skinbandit_head|Голова кожевника
+itm_skinbandit_head_pl|Головы кожевников
+itm_binbou_katana|Модель # Хан No.1 Катана
+itm_binbou_katana_pl|Модели # Хан No.1 Катана
+itm_oldassr_katana|Поношенная катана
+itm_oldassr_katana_pl|Поношенные катаны
+itm_empire_katana|Имперская катана
+itm_empire_katana_pl|Имперские катаны
+itm_kuroiryu_nodachi|Нодати чёрного дракона
+itm_kuroiryu_nodachi_pl|Нодати чёрного дракона
+itm_roninb_nodachi|Модель # Катун No.4 Нодати
+itm_roninb_nodachi_pl|Модели # Катун No.4 Нодати
+itm_empire_waki|Имперский вакидзаси
+itm_empire_waki_pl|Имперские вакидзаси
+itm_ronin_waki|Вакидзаси ронина
+itm_ronin_waki_pl|Вакидзаси ронинов
+itm_MkII_Nodachi|Модель # Mk II Нодати
+itm_MkII_Nodachi_pl|Модели # Mk II Нодати
+itm_akazonae_yoroi|Акадзонэ ёрой
+itm_akazonae_yoroi_pl|Акадзонэ ёрой
+itm_hiver_rags|Рваная юбка Улья
+itm_hiver_rags_pl|Рваные юбки Улья
+itm_hiver_legs|Ноги Улья
+itm_hiver_legs_pl|Ноги Улья
+itm_hiver_hands|Руки Улья
+itm_hiver_hands_pl|Руки Улья
+itm_suneate_akai|Акадзонэ сунэатэ
+itm_suneate_akai_pl|Акадзонэ сунэатэ
+itm_akazonae_tekko|Акадзонэ тэкко
+itm_akazonae_tekko_pl|Акадзонэ тэкко
+itm_outlaw_pig_iron_helm|Чугунный шлем разбойника
+itm_outlaw_pig_iron_helm_pl|Чугунные шлемы разбойников
+itm_pipe_helmet|Шлем из трубы
+itm_pipe_helmet_pl|Шлемы из трубы
+itm_skeleton_legs|Ноги скелета MKII
+itm_skeleton_legs_pl|Ноги скелета MKII
+itm_pirate_rifle|Пиратский фитильный мушкет
+itm_pirate_rifle_pl|Пиратские фитильные мушкеты
+itm_tusken_headwrap|Глубинный пустынный респиратор
+itm_tusken_headwrap_pl|Глубинные пустынные респираторы
+itm_impaler_gas_mask|Шлем пронзителя
+itm_impaler_gas_mask_pl|Шлемы пронзителей
+itm_drifter_leather_jacket|Кожаная куртка скитальца
+itm_drifter_leather_jacket_pl|Кожаные куртки скитальцев
+itm_trader_leather_jacket|Кожаная куртка торговца
+itm_trader_leather_jacket_pl|Кожаные куртки торговцев
+itm_skeleton_bodee2|Рама скелета МКII
+itm_skeleton_bodee2_pl|Рамы скелета МКII
+itm_longdao|Тяжёлый дао
+itm_longdao_pl|Тяжёлые дао
+itm_weedian_robes|Роба ганджауида
+itm_weedian_robes_pl|Робы ганджауидов
+itm_scoped_jezail|Джезаил с прицелом
+itm_scoped_jezail_pl|Джезаилы с прицелом
+itm_vodoo_needles|Метательные гвозди
+itm_vodoo_needles_pl|Метательные гвозди
+itm_mugenja_heavy_lamellar|Тяжёлый ламелляр сюгэндзя
+itm_mugenja_heavy_lamellar_pl|Тяжёлые ламелляры сюгэндзя
+itm_blind_hood|Капюшон слепца
+itm_blind_hood_pl|Капюшоны слепцов
+itm_crescent_moon_knife|Серповидный жнец
+itm_crescent_moon_knife_pl|Серповидные жнецы
+itm_city_girl_outfit|Тканевый наряд(Ж)
+itm_city_girl_outfit_pl|Тканевые наряды(Ж)
+itm_samurai_waki|Модель № Катун No.7 Вакидзаси
+itm_samurai_waki_pl|Модели № Катун No.7 Вакидзаси
+itm_drifta_katana|Модель № Катун No.2 Катана
+itm_drifta_katana_pl|Модели № Катун No.2 Катана
+itm_noble_mongol_coat|Дворянская меховая шуба
+itm_noble_mongol_coat_pl|Дворянские меховые шубы
+itm_monocle|Монокль
+itm_monocle_pl|Монокли
+itm_republic_gunto|Гунто республиканского образца
+itm_republic_gunto_pl|Гунто республиканского образца
+itm_advanced_gas_mask|Улучшенный противогаз
+itm_advanced_gas_mask_pl|Улучшенные противогазы
+itm_leather_umsim|Кожаный умсим
+itm_leather_umsim_pl|Кожаные умсимы
+itm_female_shek_head2|Шекская женская голова
+itm_female_shek_head2_pl|Шекские женские головы
+itm_shek_femhead_blk|Шекская женская голова
+itm_shek_femhead_blk_pl|Шекские женские головы
+itm_bandit_knife|Нож бандита
+itm_bandit_knife_pl|Ножи бандитов
+itm_shogunate_red_jingasa|Красная сёгунская дзингаса
+itm_shogunate_red_jingasa_pl|Красные сёгунские дзингаса
+itm_flaying_blade|Свежеватель
+itm_flaying_blade_pl|Свежеватели
+itm_norimitsu_nodachi|Потрёпанный одати
+itm_norimitsu_nodachi_pl|Потрёпанные одати
+itm_iron_stud_kanabou|Железный шипастый канабо
+itm_iron_stud_kanabou_pl|Железные шипастые канабо
+itm_ringed_blade|Кольчатый утяжелённый клинок
+itm_ringed_blade_pl|Кольчатые утяжелённые клинки
+itm_crowd_chopper|Толпорез
+itm_crowd_chopper_pl|Толпорезы
+itm_hafted_glaive|Длинная глефа на древке
+itm_hafted_glaive_pl|Длинные глефы на древке
+itm_black_nagamaki|Нагамаки скитальца
+itm_black_nagamaki_pl|Нагамаки скитальцев
+itm_ronin_naginata|Нагината ронина
+itm_ronin_naginata_pl|Нагинаты ронинов
+itm_weighted_naginata|Утяжелённая железная нагината
+itm_weighted_naginata_pl|Утяжелённые железные нагинаты
+itm_jumonji_yari|Дзюмондзи яри
+itm_jumonji_yari_pl|Дзюмондзи яри
+itm_pig_iron_pike|Чугунная пика
+itm_pig_iron_pike_pl|Чугунные пики
+itm_guts_plank|Доска-кишкодав
+itm_guts_plank_pl|Доски-кишкодавы
+itm_horse_chopperusty|Ржавый конский топор
+itm_horse_chopperusty_pl|Ржавые конские топоры
+itm_dragon_cannon|Драконья пушка
+itm_dragon_cannon_pl|Драконьи пушки
+itm_iron_jitte|Железный дзиттэ
+itm_iron_jitte_pl|Железные дзиттэ
+itm_dusty_old_trenchcoat|Пыльный старый тренчкот
+itm_dusty_old_trenchcoat_pl|Пыльные старые тренчкоты
+itm_kunoichi_chainrobe|Кольчужная роба куноити
+itm_kunoichi_chainrobe_pl|Кольчужные робы куноити
+itm_transparent_hand|Прозрачная рука
+itm_transparent_hand_pl|Прозрачные руки
+itm_shogun_katana|Курокири Мэйто
+itm_shogun_katana_pl|Курокири Мэйто
+itm_ground_cannabis|Молотая каннабис
+itm_ground_cannabis_pl|Молотая каннабис
+itm_ornate_hunfu|Хунфу ручной работы
+itm_ornate_hunfu_pl|Хунфу ручной работы
+itm_skeleton_jingasa|Дзингаса с накидкой скелета
+itm_skeleton_jingasa_pl|Дзингаса с накидками скелетов
+itm_skeleton_heavy_frame|Древняя рама P4
+itm_skeleton_heavy_frame_pl|Древние рамы P4
+itm_skin_bandit_artificer|Голова кожевника с забралом
+itm_skin_bandit_artificer_pl|Головы кожевников с забралом
+itm_ancient_glaive|Древняя глефа
+itm_ancient_glaive_pl|Древние глефы
+itm_ancient_naginata|Древняя нагината
+itm_ancient_naginata_pl|Древние нагинаты
+itm_reinforced_leathaer_black|Усиленные чёрные кожаные сапоги
+itm_reinforced_leathaer_black_pl|Усиленные чёрные кожаные сапоги
+itm_hungry_slasher|Кровавый полосатик
+itm_hungry_slasher_pl|Кровавые полосатики
+itm_white_lamellar_armor|Средний ламеллярный доспех
+itm_white_lamellar_armor_pl|Средние ламеллярные доспехи
+itm_xuejie|Крестьянское платье с длинным жилетом
+itm_xuejie_pl|Крестьянские платья с длинным жилетом
+itm_ronin_makeshift_gusoku|Самодельный гусоку
+itm_ronin_makeshift_gusoku_pl|Самодельные гусоку
+itm_ogjingasa|Потёртая каса
+itm_ogjingasa_pl|Потёртые каса
+itm_bandit_raggu|Старые лохмотья
+itm_bandit_raggu_pl|Старые лохмотья
+itm_drifter_ledervest|Кожаный жилет с рюкзаком
+itm_drifter_ledervest_pl|Кожаные жилеты с рюкзаками
+itm_ronin_lamellar|Ламеллярный доспех ронина
+itm_ronin_lamellar_pl|Ламеллярные доспехи ронинов
+itm_bandofbonesarmor|Кральская железная пластина
+itm_bandofbonesarmor_pl|Кральские железные пластины
+itm_peasant_humbregi|Простой шухэ
+itm_peasant_humbregi_pl|Простой шухэ
+itm_peasant_shuhe|Крестьянский шухэ
+itm_peasant_shuhe_pl|Крестьянские шухэ
+itm_bloody_turban|Окровавленный тюрбан
+itm_bloody_turban_pl|Окровавленные тюрбаны
+itm_iron_flat_top|Башенный шлем
+itm_iron_flat_top_pl|Башенные шлемы
+itm_iron_flat_toprag|Башенный шлем
+itm_iron_flat_toprag_pl|Башенные шлемы
+itm_ronin_trashplate|Бандитский ёрой
+itm_ronin_trashplate_pl|Бандитские ёрой
+itm_scrapyard_chainmail|Тяжёлый ломовый хауберк
+itm_scrapyard_chainmail_pl|Тяжёлые ломовые хауберки
+itm_homemade_bandana|Завязанная бандана
+itm_homemade_bandana_pl|Завязанные банданы
+itm_mercantile_robes|Робы пустынного торговца
+itm_mercantile_robes_pl|Робы пустынных торговцев
+itm_shogun_yoroi|Куро Араси
+itm_shogun_yoroi_pl|Куро Араси
+itm_martial_artist_robes|Робы мастера боевых искусств
+itm_martial_artist_robes_pl|Робы мастеров боевых искусств
+itm_ancient_suneate|Древние сунэатэ
+itm_ancient_suneate_pl|Древние сунэатэ
+itm_terracotta_skeleton|Терракотовая голова скелета
+itm_terracotta_skeleton_pl|Терракотовые головы скелетов
+itm_ancient_samurai_yoroi|Древний самурайский ёрой
+itm_ancient_samurai_yoroi_pl|Древние самурайские ёрой
+itm_ancient_boots|Древние сапоги
+itm_ancient_boots_pl|Древние сапоги
+itm_ancient_terracotta_yoroi|Терракотовый ёрой
+itm_ancient_terracotta_yoroi_pl|Терракотовые ёрой
+itm_mingfu_dress|Зелёное минфу
+itm_mingfu_dress_pl|Зелёные минфу
+itm_yellow_mingfu_dress|Жёлтое минфу
+itm_yellow_mingfu_dress_pl|Жёлтые минфу
+itm_patchwork_robes|Лоскутные робы
+itm_patchwork_robes_pl|Лоскутные робы
+itm_scorch_rags|Лохмотья ожжёнца
+itm_scorch_rags_pl|Лохмотья ожжёнцев
+itm_miner_helmet|Шахтёрская каска
+itm_miner_helmet_pl|Шахтёрские каски
+itm_hiver_kebiki|Кэбики Улья
+itm_hiver_kebiki_pl|Кэбики Улья
+itm_hide_outfit|Шкуры траппера
+itm_hide_outfit_pl|Шкуры траппера
+itm_bonedog1|Костяной пёс
+itm_bonedog1_pl|Костяные псы
+itm_traveller_robes|Робы путешественника
+itm_traveller_robes_pl|Робы путешественника
+itm_shek_cuirass|Шекский кираса
+itm_shek_cuirass_pl|Шекские кирасы
+itm_makeshift_plankshield|Самодельный щит
+itm_makeshift_plankshield_pl|Самодельные щиты
+itm_female_traveller_oufit|Пеньковые робы(Ж)
+itm_female_traveller_oufit_pl|Пеньковые робы(Ж)
+itm_female_pirate_shirt|Пеньковая рубаха(Ж)
+itm_female_pirate_shirt_pl|Пеньковые рубахи(Ж)
+itm_white_ronin_lamellar|Белый ламелляр ронина
+itm_white_ronin_lamellar_pl|Белые ламелляры ронинов
+itm_burka|Головной убор синоби
+itm_burka_pl|Головные уборы синоби
+itm_hiver_stainedkasa|Потёртая каса Улья
+itm_hiver_stainedkasa_pl|Потёртые каса Улья
+itm_pepper_sack|Перец
+itm_pepper_sack_pl|Перец
+itm_ronindirty_hakama|Грязная хакама ронина
+itm_ronindirty_hakama_pl|Грязные хакама ронинов
+itm_holy_sandogasa|Благословенная сандогаса
+itm_holy_sandogasa_pl|Благословенные сандогаса
+itm_scorchlander_rogue_outfit|Рубаха разбойника-ожжёнца
+itm_scorchlander_rogue_outfit_pl|Рубахи разбойников-ожжёнцев
+itm_shek_cowled_helm|Шекский шлем с капюшоном
+itm_shek_cowled_helm_pl|Шекские шлемы с капюшонами
+itm_mechanical_spider|Механический паук МКI
+itm_mechanical_spider_pl|Механические пауки МКI
+itm_llantashield|Древний круглый щит из лома
+itm_llantashield_pl|Древние круглые щиты из лома
+itm_noble_arrows|Дворянские стрелы
+itm_noble_arrows_pl|Дворянские стрелы
+itm_noble_bow|Дворянский эбеновый лук
+itm_noble_bow_pl|Дворянские эбеновые луки
+itm_warlord_saber|Сабля военачальника
+itm_warlord_saber_pl|Сабли военачальников
+itm_cruel_pike|Жестокая пика
+itm_cruel_pike_pl|Жестокие пики
+itm_clanguard_battlescythe|Клановая боевая коса
+itm_clanguard_battlescythe_pl|Клановые боевые косы
+itm_nomad_blade|Клинок номада
+itm_nomad_blade_pl|Клинки номадов
+itm_bloodstained_old_sword|Окровавленный старый меч
+itm_bloodstained_old_sword_pl|Окровавленные старые мечи
+itm_rhun_infantry_sword|Клановый пехотный меч
+itm_rhun_infantry_sword_pl|Клановые пехотные мечи
+itm_skinbandit_clawas|Рама кожевника
+itm_skinbandit_clawas_pl|Рамы кожевников
+itm_simple_robe|Домашняя роба
+itm_simple_robe_pl|Домашние робы
+itm_ancient_skeleton_legs|Древние ноги скелета
+itm_ancient_skeleton_legs_pl|Древние ноги скелета
+itm_ancient_skeleton_claw|Древняя клешня скелета
+itm_ancient_skeleton_claw_pl|Древние клешни скелетов
+itm_ancestral_skelebodee|Древняя рама скелета
+itm_ancestral_skelebodee_pl|Древние рамы скелетов
+itm_nonla_and_turban|Нон ла
+itm_nonla_and_turban_pl|Нон ла
+itm_rebel_pike|Деревянная пика
+itm_rebel_pike_pl|Деревянные пики
+itm_guom_truong|Выом Чыонг
+itm_guom_truong_pl|Выом Чыонг
+itm_alchemist_goggles|Рабочие очки
+itm_alchemist_goggles_pl|Рабочие очки
+itm_cannihunt_helmet|Шлем охотника на каннибалов
+itm_cannihunt_helmet_pl|Шлемы охотников на каннибалов
+itm_cannibal_hunter_leatherstu|Кожаный доспех с шипами
+itm_cannibal_hunter_leatherstu_pl|Кожаные доспехи с шипами
+itm_cannhunter_capt|Охотничья пластина с кожами
+itm_cannhunter_capt_pl|Охотничьи пластины с кожами
+itm_flesh_shield|Каплевидный щит, покрытый кожей
+itm_flesh_shield_pl|Каплевидные щиты, покрытые кожей
+itm_boxer_ushanka|Боксёрская ушанка
+itm_boxer_ushanka_pl|Боксёрские ушанки
+itm_boxer_ushanka2|Открытая боксёрская ушанка
+itm_boxer_ushanka2_pl|Открытые боксёрские ушанки
+itm_willow_leaf_sabre|Люедао
+itm_willow_leaf_sabre_pl|Люедао
+itm_dirty_gloves|Запачканные перчатки
+itm_dirty_gloves_pl|Запачканные перчатки
+itm_fur_hood|Меховой капюшон с маской
+itm_fur_hood_pl|Меховые капюшоны с маской
+itm_okranite_headwraps|Повязки верных
+itm_okranite_headwraps_pl|Повязки верных
+itm_scavenger_suneate|Сунэатэ мусорщика
+itm_scavenger_suneate_pl|Сунэатэ мусорщика
+itm_hiver_suneate|Сунэатэ Улья
+itm_hiver_suneate_pl|Сунэатэ Улья
+itm_hiver_yoroi|Ёрой Улья
+itm_hiver_yoroi_pl|Ёрой Улья
+itm_scavenger_yoroi|Ёрой мусорщика
+itm_scavenger_yoroi_pl|Ёрой мусорщиков
+itm_bounty_hunter_jingasa|Дзингаса охотника за головами
+itm_bounty_hunter_jingasa_pl|Дзингаса охотников за головами
+itm_noble_jingasa|Дворянская дзингаса
+itm_noble_jingasa_pl|Дворянские дзингаса
+itm_chain_gusoku|Карута татами гусоку
+itm_chain_gusoku_pl|Карута татами гусоку
+itm_arashi_veiled_jingasa|Сёгунская кусари дзингаса
+itm_arashi_veiled_jingasa_pl|Сёгунские кусари дзингаса
+itm_cannibal_skull_armor|Табард плетущего кожу
+itm_cannibal_skull_armor_pl|Табарды плетущих кожу
+itm_dragon_meitou|Последний клык мэйто
+itm_dragon_meitou_pl|Последний клык мэйто
+itm_tooth_meitou|Пёсий клык мэйто
+itm_tooth_meitou_pl|Пёсий клык мэйто
+itm_assassin_sakabato|Сакабато убийцы
+itm_assassin_sakabato_pl|Сакабато убийц
+itm_black_dragon_katana|Катана чёрного дракона
+itm_black_dragon_katana_pl|Катаны чёрного дракона
+itm_dragon_tachi_meitou|Вирмбрад мэйто
+itm_dragon_tachi_meitou_pl|Вирмбрад мэйто
+itm_akazonae_katana|Кавалерийская катана акадзонэ
+itm_akazonae_katana_pl|Кавалерийские катаны акадзонэ
+itm_akazonae_odachi|Акадзонэ одати
+itm_akazonae_odachi_pl|Акадзонэ одати
+itm_heavy_ji_halberd|Тяжёлое цзи
+itm_heavy_ji_halberd_pl|Тяжёлые цзи
+itm_meat_cleaver|Мясницкий тесак
+itm_meat_cleaver_pl|Мясницкие тесаки
+itm_ninja_fukumen|Фукумэн дзукин
+itm_ninja_fukumen_pl|Фукумэн дзукин
+itm_flotsam_jingasa|Железная дзингаса флотсама
+itm_flotsam_jingasa_pl|Железные дзингаса флотсама
+itm_leather_jacket_female|Варёная кожаная куртка(Ж)
+itm_leather_jacket_female_pl|Варёные кожаные куртки(Ж)
+itm_heavy_guandao|Тяжёлый гуаньдао
+itm_heavy_guandao_pl|Тяжёлые гуаньдао
+itm_chain_kote|Кольчужные котэ
+itm_chain_kote_pl|Кольчужные котэ
+itm_kenpei_commander_robe|Командирские робы кэнпэй
+itm_kenpei_commander_robe_pl|Командирские робы кэнпэй
+itm_arashi_chain_lam|Араси нио ламелляр
+itm_arashi_chain_lam_pl|Араси нио ламелляр
+itm_mugenja_hood|Капюшон сюгэндзя
+itm_mugenja_hood_pl|Капюшоны сюгэндзя
+itm_miaodao|Мяодао
+itm_miaodao_pl|Мяодао
+itm_okranite_lamellar|Огранитский ламеллярный доспех
+itm_okranite_lamellar_pl|Огранитские ламеллярные доспехи
+itm_executioner_nagamaki|Нагамаки палача
+itm_executioner_nagamaki_pl|Нагамаки палача
+itm_chinese_kettle_hat|Железный ли куй
+itm_chinese_kettle_hat_pl|Железные ли куй
+itm_rough_greaves|Грубые пластинчатые поножи
+itm_rough_greaves_pl|Грубые пластинчатые поножи
+itm_rougho_greaves|Грубые поножи
+itm_rougho_greaves_pl|Грубые поножи
+itm_steel_plate_greaves|Стальные пластинчатые поножи
+itm_steel_plate_greaves_pl|Стальные пластинчатые поножи
+itm_makeshift_iron_greaves|Чугунные поножи
+itm_makeshift_iron_greaves_pl|Чугунные поножи
+itm_shinobi_maskhood|Ниндзевский капюшон
+itm_shinobi_maskhood_pl|Ниндзевские капюшоны
+itm_wrapping_shoes|Обмотанные туфли
+itm_wrapping_shoes_pl|Обмотанные туфли
+itm_black_wrap_shoes|Чёрные обмотанные туфли
+itm_black_wrap_shoes_pl|Чёрные обмотанные туфли
+itm_mk1_horsechopper|Модель# MKI конский топор
+itm_mk1_horsechopper_pl|Модели# MKI конские топоры
+itm_martial_artisto_hat|Шляпа мастера боевых искусств
+itm_martial_artisto_hat_pl|Шляпы мастеров боевых искусств
+itm_executioner_zhandao|Чжаньдао палача
+itm_executioner_zhandao_pl|Чжаньдао палача
+itm_captain_suneate|Пластинчатые сунэатэ
+itm_captain_suneate_pl|Пластинчатые сунэатэ
+itm_shugenja_headwrapping|Головная повязка сюгэндзя
+itm_shugenja_headwrapping_pl|Головные повязки сюгэндзя
+itm_enforcer_hwando|Хвандо силовика
+itm_enforcer_hwando_pl|Хвандо силовиков
+itm_iron_choppa|Железный тесак
+itm_iron_choppa_pl|Железные тесаки
+itm_gut_pick_arrow|Стрелы-потрошители
+itm_gut_pick_arrow_pl|Стрелы-потрошители
+itm_serpent_jingasa|Дзингаса клана Змея
+itm_serpent_jingasa_pl|Дзингаса клана Змея
+itm_serpent_clan_hakama1|Бронированная хакама Змея
+itm_serpent_clan_hakama1_pl|Бронированные хакама Змея
+itm_serpent_clan_hakama2|Хакама мечника Змея
+itm_serpent_clan_hakama2_pl|Хакама мечника Змея
+itm_serpent_suneate|Сунэатэ клана Змея
+itm_serpent_suneate_pl|Сунэатэ клана Змея
+itm_serpent_suneate2|Сунэатэ ёдзимбо
+itm_serpent_suneate2_pl|Сунэатэ ёдзимбо
+itm_serpent_lamellar|Чёрный ламеллярный доспех
+itm_serpent_lamellar_pl|Чёрные ламеллярные доспехи
+itm_marksman_lamellar|Ламеллярный доспех стрелка
+itm_marksman_lamellar_pl|Ламеллярные доспехи стрелков
+itm_crested_jingasa|Дзингаса с гребнем
+itm_crested_jingasa_pl|Дзингаса с гребнями
+itm_marksman_helmet|Шлем стрелка
+itm_marksman_helmet_pl|Шлемы стрелков
+itm_tied_balaclava|Завязанная балаклава
+itm_tied_balaclava_pl|Завязанные балаклавы
+itm_black_lamellar_gunner|Ламеллярный доспех канонира
+itm_black_lamellar_gunner_pl|Ламеллярные доспехи канониров
+itm_border_guard_armor|Доспех пограничника
+itm_border_guard_armor_pl|Доспехи пограничников
+itm_outlaw_gusoku|Гусоку разбойника
+itm_outlaw_gusoku_pl|Гусоку разбойников
+itm_dragon_clan_lamellar|Бригантина клана Дракона
+itm_dragon_clan_lamellar_pl|Бригантины клана Дракона
+itm_dragon_clan_maskhelmet|Маскированный шлем Дракона
+itm_dragon_clan_maskhelmet_pl|Маскированные шлемы Дракона
+itm_dragon_warrior_heavy|Доспех воина-дракона
+itm_dragon_warrior_heavy_pl|Доспехи воинов-драконов
+itm_dragon_warrior_mask|Маска воина-дракона
+itm_dragon_warrior_mask_pl|Маски воинов-драконов
+itm_dragon_heavy_mask|Маска клана Дракона
+itm_dragon_heavy_mask_pl|Маски клана Дракона
+itm_dragon_visored_helm|Шлем с забралом Дракона
+itm_dragon_visored_helm_pl|Шлемы с забралом Дракона
+itm_jingasa_goggles|Усиленная дзингаса с очками
+itm_jingasa_goggles_pl|Усиленные дзингаса с очками
+itm_geom|Геом
+itm_geom_pl|Геомы
+itm_serpent_clan_hakamalong|Хакама ронина Змея
+itm_serpent_clan_hakamalong_pl|Хакама ронинов Змея
+itm_dragon_warrior_chesto|Путь дракона
+itm_dragon_warrior_chesto_pl|Путь дракона
+itm_hooded_hanyamen|Капюшонный ханьямэн
+itm_hooded_hanyamen_pl|Капюшонные ханьямэны
+itm_kodachi_shield|Левосторонний кодати
+itm_kodachi_shield_pl|Левосторонние кодати
+itm_monohoshi|Тяжёлый монохоси
+itm_monohoshi_pl|Тяжёлые монохоси
+itm_brutal_dadao|Дадао ронина
+itm_brutal_dadao_pl|Дадао ронинов
+itm_zhanmadao|Чжаньмадао
+itm_zhanmadao_pl|Чжаньмадао
+itm_peasant_magua|Магуа простолюдина
+itm_peasant_magua_pl|Магуа простолюдинов
+itm_halat_robe|Халат
+itm_halat_robe_pl|Халаты
+itm_hook_arrows|Стрелы с крючьями
+itm_hook_arrows_pl|Стрелы с крючьями
+itm_flaying_club|Свежевальная дубина
+itm_flaying_club_pl|Свежевальные дубины
+itm_items_end|Конец предметов
+itm_items_end_pl|Конец предметов
