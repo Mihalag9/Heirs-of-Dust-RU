@@ -1820,32 +1820,32 @@ itm_orogon_headaxe|Орогонский топор
 itm_orogon_headaxe_pl|Орогонские топоры
 itm_drylander_robe|Смиренное ги
 itm_drylander_robe_pl|Смиренные ги
-itm_drylander_robe_black|Роба сухопутника
-itm_drylander_robe_black_pl|Робы сухопутника
-itm_drylander_robe_orange|Роба сухопутника
-itm_drylander_robe_orange_pl|Робы сухопутника
-itm_drylander_robe_blue|Роба сухопутника
-itm_drylander_robe_blue_pl|Робы сухопутника
+itm_drylander_robe_black|Роба сухоземца
+itm_drylander_robe_black_pl|Робы сухоземца
+itm_drylander_robe_orange|Роба сухоземца
+itm_drylander_robe_orange_pl|Робы сухоземца
+itm_drylander_robe_blue|Роба сухоземца
+itm_drylander_robe_blue_pl|Робы сухоземца
 itm_drylander_hood_a|Вуаль номада
 itm_drylander_hood_a_pl|Вуали номада
-itm_drylander_hood_b|Капюшон сухопутника
-itm_drylander_hood_b_pl|Капюшоны сухопутника
-itm_drylander_hood_orange_a|Капюшон сухопутника
-itm_drylander_hood_orange_a_pl|Капюшоны сухопутника
-itm_drylander_hood_orange_b|Капюшон сухопутника
-itm_drylander_hood_orange_b_pl|Капюшоны сухопутника
-itm_drylander_hood_blue_a|Капюшон сухопутника
-itm_drylander_hood_blue_a_pl|Капюшоны сухопутника
+itm_drylander_hood_b|Капюшон сухоземца
+itm_drylander_hood_b_pl|Капюшоны сухоземца
+itm_drylander_hood_orange_a|Капюшон сухоземца
+itm_drylander_hood_orange_a_pl|Капюшоны сухоземца
+itm_drylander_hood_orange_b|Капюшон сухоземца
+itm_drylander_hood_orange_b_pl|Капюшоны сухоземца
+itm_drylander_hood_blue_a|Капюшон сухоземца
+itm_drylander_hood_blue_a_pl|Капюшоны сухоземца
 itm_drylander_hood_blue_b|Головная повязка скитальца
 itm_drylander_hood_blue_b_pl|Головные повязки скитальца
-itm_drylander_hood_black_a|Капюшон сухопутника
-itm_drylander_hood_black_a_pl|Капюшоны сухопутника
-itm_drylander_hood_black_b|Капюшон сухопутника
-itm_drylander_hood_black_b_pl|Капюшоны сухопутника
-itm_drylander_cloak|Плащ сухопутника
-itm_drylander_cloak_pl|Плащи сухопутника
-itm_drylander_cloak_black|Плащ сухопутника
-itm_drylander_cloak_black_pl|Плащи сухопутника
+itm_drylander_hood_black_a|Капюшон сухоземца
+itm_drylander_hood_black_a_pl|Капюшоны сухоземца
+itm_drylander_hood_black_b|Капюшон сухоземца
+itm_drylander_hood_black_b_pl|Капюшоны сухоземца
+itm_drylander_cloak|Плащ сухоземца
+itm_drylander_cloak_pl|Плащи сухоземца
+itm_drylander_cloak_black|Плащ сухоземца
+itm_drylander_cloak_black_pl|Плащи сухоземца
 itm_warmonk_robe|Роба монаха-гашишианца
 itm_warmonk_robe_pl|Робы монаха-гашишианца
 itm_zomi_mask_a|Противогаз гашишианца
@@ -2004,302 +2004,302 @@ itm_dendaeron_noble_helm_e|Шлем шекского рейдера
 itm_dendaeron_noble_helm_e_pl|Шлемы шекских рейдеров
 itm_dendaeron_noble_helm_f|Личина шекского верховного вождя
 itm_dendaeron_noble_helm_f_pl|Личины шекских верховных вождей
-itm_dendaeron_noble_helm_g|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_g_pl|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_h|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_h_pl|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_i|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_i_pl|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_j|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_j_pl|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_k|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_k_pl|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_l|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_l_pl|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_m|Dendaeron Noble's Helmet
-itm_dendaeron_noble_helm_m_pl|Dendaeron Noble's Helmet
-itm_eshkor_common_helm|Akazonae Menpo
-itm_eshkor_common_helm_pl|Akazonae Menpo
-itm_eshkor_noble_helm_za|Martial Order Hood
-itm_eshkor_noble_helm_za_pl|Martial Order Hoods
-itm_eshkor_noble_helm_zb|Shogun's Guard Hood
-itm_eshkor_noble_helm_zb_pl|Shogun's Guard Hoods
-itm_eshkor_noble_helm_zc|Akazonae Battle Helmet
-itm_eshkor_noble_helm_zc_pl|Akazonae Battle Helmet
-itm_eshkor_noble_helm_zd|Shogunate Akazonae Jingasa
-itm_eshkor_noble_helm_zd_pl|Shogunate Akazonae Jingasa
-itm_eshkor_noble_helm_zdb|Shogunate Officer Liangmao
-itm_eshkor_noble_helm_zdb_pl|Shogunate Officer Liangmao
-itm_eshkor_noble_helm_zdc|Akazonae Respirator Helmet
-itm_eshkor_noble_helm_zdc_pl|Akazonae Respirator Helmet
-itm_eshkor_noble_helm_ze|Shogunate Guard Visor
-itm_eshkor_noble_helm_ze_pl|Shogunate Guard Visors
-itm_sarkon_noble_armor_a|Akazonae Gusoku
-itm_sarkon_noble_armor_a_pl|Akazonae Gusoku
-itm_sarkon_noble_armor_b|Akazonae Yoroi
-itm_sarkon_noble_armor_b_pl|Akazonae Yoroi
-itm_sarkon_noble_armor_c|Akazonae Okegawa
-itm_sarkon_noble_armor_c_pl|Akazonae Okegawa
-itm_sarkon_noble_armor_fem|Akazonae Female Yoroi
-itm_sarkon_noble_armor_fem_pl|Akazonae Female Yoroi
-itm_sarkondar_common_helm|Reinforced Jingasa
-itm_sarkondar_common_helm_pl|Reinforced Jingasa
-itm_sarkondar_noble_helm_a|Serpent Maw Helm
-itm_sarkondar_noble_helm_a_pl|Serpent Maw Helm
-itm_sarkondar_noble_helm_b|Blackened Steel Kabuto
-itm_sarkondar_noble_helm_b_pl|Blackened Steel Kabuto
-itm_sarkondar_noble_helm_c|Ronin Warlord's Helmet
-itm_sarkondar_noble_helm_c_pl|Ronin Warlord's Helmets
-itm_sarkondar_noble_helm_d|Rogue Daimyo's Kabuto
-itm_sarkondar_noble_helm_d_pl|Rogue Daimyo's Kabutos
-itm_sarkondar_noble_helm_e|Eshkor Noble's Helmet
-itm_sarkondar_noble_helm_e_pl|Eshkor Noble's Helmet
-itm_sarkondar_noble_helm_f|Cruel Daimyo's Kabuto
-itm_sarkondar_noble_helm_f_pl|Cruel Daimyo's Kabuto
-itm_sarkondar_noble_helm_za|Ronin Lord's Helmet
-itm_sarkondar_noble_helm_za_pl|Ronin Lord's Helmets
-itm_sarkondar_noble_helm_zb|Clan Lord's Kabuto
-itm_sarkondar_noble_helm_zb_pl|Clan Lord's Kabutos
-itm_sarzennar_common_helm|Slaver Trap Helmet
-itm_sarzennar_common_helm_pl|Slaver Trap Helmets
-itm_sarzennar_noble_helm_a|Warlord's Helmet
-itm_sarzennar_noble_helm_a_pl|Warlord's Helmets
-itm_sarzennar_noble_helm_b|Wasteland Lord's Helmet
-itm_sarzennar_noble_helm_b_pl|Wasteland Lord's Helmets
-itm_sarzennar_noble_helm_c|Desert Warlord's Helmet
-itm_sarzennar_noble_helm_c_pl|Desert Warlord's Helmets
-itm_sarzennar_noble_helm_d|Sarzennar Noble's Helmet
-itm_sarzennar_noble_helm_d_pl|Sarzennar Noble's Helmet
-itm_sarzennar_noble_helm_e|Clan Lord's Helmet
-itm_sarzennar_noble_helm_e_pl|Clan Lord's Helmets
-itm_sarzennar_noble_helm_za|Cruel Lord's Helmet
-itm_sarzennar_noble_helm_za_pl|Cruel Lord's Helmets
-itm_sarzennar_noble_helm_zb|Warchief's Helmet
-itm_sarzennar_noble_helm_zb_pl|Warchief's Helmets
-itm_sarzennar_noble_helm_zbb|Conqueror's Helmet
-itm_sarzennar_noble_helm_zbb_pl|Conqueror's Helmets
-itm_sarzennar_noble_helm_zc|Overlord's Helmet
-itm_sarzennar_noble_helm_zc_pl|Overlord's Helmets
-itm_valkuur_common_helm_a|Hiver Face Cowl
-itm_valkuur_common_helm_a_pl|Hiver Face Cowls
-itm_valkuur_common_helm_b|Hiver Oni Jingasa
-itm_valkuur_common_helm_b_pl|Hiver Oni Jingasa
-itm_valkuur_common_helm_c|Hiver Hooded Sandogasa
-itm_valkuur_common_helm_c_pl|Hiver Hooded Sandogasa
-itm_valkuur_noble_armor_a|War Veteran's Armor
-itm_valkuur_noble_armor_a_pl|War Veteran's Armors
-itm_valkuur_noble_armor_b|War Veteran's Chestplate
-itm_valkuur_noble_armor_b_pl|War Veteran's Chestplates
-itm_valkuur_noble_armor_c|Valkuur Noble's Armor
-itm_valkuur_noble_armor_c_pl|Valkuur Noble's Armor
-itm_valkuur_noble_armor_d|Hiver Prince's Armor
-itm_valkuur_noble_armor_d_pl|Hiver Prince's Armors
-itm_valkuur_noble_armor_e|Valkuur Noble's Armor
-itm_valkuur_noble_armor_e_pl|Valkuur Noble's Armor
-itm_valkuur_noble_helm_a|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_a_pl|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_b|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_b_pl|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_c|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_c_pl|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_d|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_d_pl|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_e|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_e_pl|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_f|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_f_pl|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_g|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_g_pl|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_h|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_h_pl|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_i|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_i_pl|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_j|Valkuur Noble's Helmet
-itm_valkuur_noble_helm_j_pl|Valkuur Noble's Helmet
-itm_xavaris_common_helm|Samurai Steel Kabuto
-itm_xavaris_common_helm_pl|Samurai Steel Kabuto
-itm_xavaris_noble_armor_a|Empire Noble's Armor
-itm_xavaris_noble_armor_a_pl|Empire Noble's Armor
-itm_xavaris_noble_armor_b|Samurai Captain Gusoku
-itm_xavaris_noble_armor_b_pl|Samurai Captain Gusoku
-itm_xavaris_noble_armor_c|Squad Captain's Gusoku
-itm_xavaris_noble_armor_c_pl|Squad Captain's Gusoku
-itm_xavaris_noble_armor_d|Empire Noble's Lamellar
-itm_xavaris_noble_armor_d_pl|Empire Noble's Lamellar
-itm_xavaris_noble_armor_e|Tyrant Lamellar Armor
-itm_xavaris_noble_armor_e_pl|Tyrant Lamellar Armor
-itm_xavaris_noble_armor_f|Daimyo's Gusoku and Haori
-itm_xavaris_noble_armor_f_pl|Daimyo's Gusoku and Haori
-itm_xavaris_noble_helm_a|UC Daimyo Kabuto
-itm_xavaris_noble_helm_a_pl|UC Daimyo Kabuto
-itm_xavaris_noble_helm_b|Samurai Captain Kabuto
-itm_xavaris_noble_helm_b_pl|Samurai Captain Kabutos
-itm_xavaris_noble_helm_c|Daimyo Steel Jingasa
-itm_xavaris_noble_helm_c_pl|Daimyo Steel Jingasa
-itm_xavaris_noble_helm_d|Crested Daimyo Kabuto
-itm_xavaris_noble_helm_d_pl|Crested Daimyo Kabuto
-itm_xavaris_noble_helm_e|Noble Masked Helmet
-itm_xavaris_noble_helm_e_pl|Noble Masked Helmet
-itm_xavaris_noble_helm_f|Despot Lamellar Kabuto
-itm_xavaris_noble_helm_f_pl|Despot Lamellar Kabuto
-itm_xavaris_noble_helm_g|Squad Captain's Kabuto
-itm_xavaris_noble_helm_g_pl|Squad Captain's Kabutos
-itm_xavaris_noble_helm_z|Empire Lord's Kabuto
-itm_xavaris_noble_helm_z_pl|Empire Lord's Kabuto
-itm_arazthor_common_armor|Despot Plate Armor
-itm_arazthor_common_armor_pl|Despot Plate Armors
-itm_celadun_common_armor|Republic Heavy Domaru
-itm_celadun_common_armor_pl|Republic Heavy Domaru
-itm_dendaeron_common_armor|Shek Light Iron Armor
-itm_dendaeron_common_armor_pl|Shek Light Iron Armor
-itm_eshkor_common_armor|Eshkor Trooper Armor
-itm_eshkor_common_armor_pl|Eshkor Trooper Armor
-itm_sarkondar_common_armor|Serpent Musketeer Armor
-itm_sarkondar_common_armor_pl|Serpent Musketeer Armor
-itm_sarzennar_common_armor|Dragon Clan Gusoku
-itm_sarzennar_common_armor_pl|Dragon Clan Gusoku
-itm_valkuur_common_armor|Hiver Crude Plates
-itm_valkuur_common_armor_pl|Hiver Crude Plates
-itm_xavaris_common_armor|Rough Lamellar Armor
-itm_xavaris_common_armor_pl|Rough Lamellar Armors
-itm_arazthor_gambeson|Holy Chestplate
-itm_arazthor_gambeson_pl|Holy Chestplate
-itm_celadun_gambeson|Shek Warrior Furs
-itm_celadun_gambeson_pl|Shek Warrior Furs
-itm_dendaeron_gambeson|Swamp Ninja Armor
-itm_dendaeron_gambeson_pl|Swamp Ninja Armors
-itm_eshkor_gambeson|Eshkorian Gambeson
-itm_eshkor_gambeson_pl|Eshkorian Gambeson
-itm_sarzennar_gambeson|Sarzennarin Gambeson
-itm_sarzennar_gambeson_pl|Sarzennarin Gambeson
-itm_sarkondar_gambeson|Dragon Mail Armor
-itm_sarkondar_gambeson_pl|Dragon Mail Armor
-itm_valkuur_gambeson|Hiver Lamellar Armor
-itm_valkuur_gambeson_pl|Hiver Lamellar Armors
-itm_xavaris_gambeson|Samurai Leather Armor
-itm_xavaris_gambeson_pl|Samurai Leather Armor
-itm_ray_musket_a|Huoqiang
-itm_ray_musket_a_pl|Huoqiang
-itm_ray_musket_b|Makeshift Handgonne
-itm_ray_musket_b_pl|Makeshift Handgonne
-itm_ray_musket_c|Niaochong
-itm_ray_musket_c_pl|Niaochong
-itm_ray_musket_c_m|Niaochong Bayonet
-itm_ray_musket_c_m_pl|Niaochong Bayonet
-itm_ray_musket_d|Heavy Arquebus
-itm_ray_musket_d_pl|Heavy Arquebus
-itm_ray_musket_e|Arquebus
-itm_ray_musket_e_pl|Arquebus
-itm_ray_musket_f|Repeater Flintlock Rifle
-itm_ray_musket_f_pl|Repeater Flintlock Rifle
-itm_gozonn_mauler|Gozonn Mace
-itm_gozonn_mauler_pl|Gozonn Mace
-itm_duckbill|Dasher
-itm_duckbill_pl|Dasher
-itm_trike|Gasharn
-itm_trike_pl|Gasharn
-itm_gazelle|Grazer
-itm_gazelle_pl|Grazer
-itm_dino|Fin Lizard
-itm_dino_pl|Fin Lizard
-itm_padded_top_a|Leather Helmet
-itm_padded_top_a_pl|Leather Helmet
-itm_padded_top_b|Leather Helmet
-itm_padded_top_b_pl|Leather Helmet
-itm_jingasa_a|War Hat
-itm_jingasa_a_pl|War Hat
-itm_jingasa_b|War Hat
-itm_jingasa_b_pl|War Hat
-itm_orogon_face_studs|Piercings
-itm_orogon_face_studs_pl|Piercings
-itm_cydonian_uniform|Iron Sutra Coat
-itm_cydonian_uniform_pl|Iron Sutra Coats
-itm_cydonian_boots|Cydonian Pants
-itm_cydonian_boots_pl|Cydonian Pants
-itm_Cydonian_Chest|Rotten Yoroi and Cloak
-itm_Cydonian_Chest_pl|Rotten Yoroi and Cloaks
-itm_cydonian_kuhnight|Iron Sutra Boxer Uniform
-itm_cydonian_kuhnight_pl|Iron Sutra Boxer Uniforms
-itm_cydonian_legwrap|Cydonian Leg Wrappings
-itm_cydonian_legwrap_pl|Cydonian Leg Wrappings
-itm_cydonian_centur|Iron Sutra Uniform
-itm_cydonian_centur_pl|Iron Sutra Uniforms
-itm_cydonian_cuirass|Shek Light Armor
-itm_cydonian_cuirass_pl|Shek Light Armor
-itm_cydonian_centuriall|Cannibal Spike Plate
-itm_cydonian_centuriall_pl|Cannibal Spike Plate
-itm_cydonian_warmask|Hannyamen
-itm_cydonian_warmask_pl|Hannyamen
-itm_cydonian_Morion|Turban and Goggles
-itm_cydonian_Morion_pl|Turban and Goggles
-itm_cydonian_knight_helmet|Wicker Kabuto
-itm_cydonian_knight_helmet_pl|Wicker Kabuto
-itm_cydonian_knight_mask|Rotten Bone Kabuto
-itm_cydonian_knight_mask_pl|Rotten Bone Kabuto
-itm_cydonian_stahl|Mercenary Crested Helmet
-itm_cydonian_stahl_pl|Mercenary Crested Helmet
-itm_cydonian_masked_morion|Long Haired Kabuto
-itm_cydonian_masked_morion_pl|Long Haired Kabutos
-itm_invisi_boo|Transpareant Boot
-itm_invisi_boo_pl|Transpareant Boot
-itm_cydonian_star_knight_plate|Punished Prince Armor
-itm_cydonian_star_knight_plate_pl|Punished Prince Armors
-itm_cydonian_centurial_mask|Swamp Ninja Helmet
-itm_cydonian_centurial_mask_pl|Swamp Ninja Helmets
-itm_cydonian_knight_plate|Kabuki Warrior Panoply
-itm_cydonian_knight_plate_pl|Kabuki Warrior Panoply
-itm_orogon_zamurai_do|Scrap Cuirass
-itm_orogon_zamurai_do_pl|Scrap Cuirass
-itm_orogon_zamurai_do2|Leather Lamellar Armor
-itm_orogon_zamurai_do2_pl|Leather Lamellar Armors
-itm_orogon_kabut|Black Iron Kabuto
-itm_orogon_kabut_pl|Black Iron Kabuto
-itm_orogon_facem|Masked Black Iron Kabuto
-itm_orogon_facem_pl|Masked Black Iron Kabuto
-itm_Orogon_Torgudopl|Nomad Warlord Plate
-itm_Orogon_Torgudopl_pl|Nomad Warlord Plates
-itm_Zomi_Yant|Zomi Alat-Yant Tattoos
-itm_Zomi_Yant_pl|Zomi Alat-Yant Tattoos
-itm_Zomi_Yant2|Zomi Alat-Yant Vest
-itm_Zomi_Yant2_pl|Zomi Alat-Yant Vest
-itm_monk_wrap|Monk Wrapped Shoes
-itm_monk_wrap_pl|Monk Wrapped Shoes
-itm_orogon_boots|Bushi Suneate
-itm_orogon_boots_pl|Bushi Suneate
-itm_orogon_doumaru|Sleeveless Iron Kebiki
-itm_orogon_doumaru_pl|Sleeveless Iron Kebiki
-itm_cydonian_chestoplet|Hiver Heavy Furs
-itm_cydonian_chestoplet_pl|Hiver Heavy Furs
-itm_monk_yant_feet|Zomi Sandals
-itm_monk_yant_feet_pl|Zomi Sandals
-itm_Valkuur_Gambesonzz|Hiver Zincplate
-itm_Valkuur_Gambesonzz_pl|Hiver Zincplates
-itm_ajiat_form|Ajiat Form
-itm_ajiat_form_pl|Ajiat Form
-itm_Path_Uniform|Vagrant Ronin Hakama
-itm_Path_Uniform_pl|Vagrant Ronin Hakamas
-itm_Path_Uniform2|Scrap Iron Plates
-itm_Path_Uniform2_pl|Scrap Iron Plates
-itm_path_hat|Veiled Leather Hat
-itm_path_hat_pl|Veiled Leather Hats
-itm_path_dana|Rebel Straw Hood
-itm_path_dana_pl|Rebel Straw Hood
-itm_Path_Bubblech|Shek Immortal Armor
-itm_Path_Bubblech_pl|Shek Immortal Armors
-itm_bubblech_hat|Eboshi Hat
-itm_bubblech_hat_pl|Eboshi Hats
-itm_Path_Enlighten|Ao Oni Jingasa
-itm_Path_Enlighten_pl|Ao Oni Jingasa
-itm_path_englighten_toys|Path Seer Jingasa
-itm_path_englighten_toys_pl|Path Seer Jingasa
-itm_Path_Sutto|Wrath of Kral
-itm_Path_Sutto_pl|Wrath of Kral
-itm_wandered_straw_hat|Kasa Straw Hat
-itm_wandered_straw_hat_pl|Kasa Straw Hats
-itm_UC_sugegasa|Sugegasa Hat
-itm_UC_sugegasa_pl|Sugegasa Hats
-itm_farmer_sandals|Farmer Sandals
-itm_farmer_sandals_pl|Farmer Sandals
+itm_dendaeron_noble_helm_g|Шлем дендаэронского дворянина
+itm_dendaeron_noble_helm_g_pl|Шлемы дендаэронских дворян
+itm_dendaeron_noble_helm_h|Шлем дендаэронского дворянина
+itm_dendaeron_noble_helm_h_pl|Шлемы дендаэронских дворян
+itm_dendaeron_noble_helm_i|Шлем дендаэронского дворянина
+itm_dendaeron_noble_helm_i_pl|Шлемы дендаэронских дворян
+itm_dendaeron_noble_helm_j|Шлем дендаэронского дворянина
+itm_dendaeron_noble_helm_j_pl|Шлемы дендаэронских дворян
+itm_dendaeron_noble_helm_k|Шлем дендаэронского дворянина
+itm_dendaeron_noble_helm_k_pl|Шлемы дендаэронских дворян
+itm_dendaeron_noble_helm_l|Шлем дендаэронского дворянина
+itm_dendaeron_noble_helm_l_pl|Шлемы дендаэронских дворян
+itm_dendaeron_noble_helm_m|Шлем дендаэронского дворянина
+itm_dendaeron_noble_helm_m_pl|Шлемы дендаэронских дворян
+itm_eshkor_common_helm|Акадзунаэ-мэнпо
+itm_eshkor_common_helm_pl|Акадзунаэ-мэнпо
+itm_eshkor_noble_helm_za|Капюшон военного ордена
+itm_eshkor_noble_helm_za_pl|Капюшоны военных орденов
+itm_eshkor_noble_helm_zb|Капюшон стражи сёгуна
+itm_eshkor_noble_helm_zb_pl|Капюшоны стражи сёгуна
+itm_eshkor_noble_helm_zc|Акадзунаэ-боевой шлем
+itm_eshkor_noble_helm_zc_pl|Акадзунаэ-боевые шлемы
+itm_eshkor_noble_helm_zd|Сёгунатная акадзунаэ-дзингаса
+itm_eshkor_noble_helm_zd_pl|Сёгунатные акадзунаэ-дзингаса
+itm_eshkor_noble_helm_zdb|Сёгунатный офицерский лянмао
+itm_eshkor_noble_helm_zdb_pl|Сёгунатные офицерские лянмао
+itm_eshkor_noble_helm_zdc|Акадзунаэ-шлем с респиратором
+itm_eshkor_noble_helm_zdc_pl|Акадзунаэ-шлемы с респиратором
+itm_eshkor_noble_helm_ze|Забрало стражи сёгуна
+itm_eshkor_noble_helm_ze_pl|Забрала стражи сёгуна
+itm_sarkon_noble_armor_a|Акадзунаэ-гусоку
+itm_sarkon_noble_armor_a_pl|Акадзунаэ-гусоку
+itm_sarkon_noble_armor_b|Акадзунаэ-ёрой
+itm_sarkon_noble_armor_b_pl|Акадзунаэ-ёрой
+itm_sarkon_noble_armor_c|Акадзунаэ-окэгава
+itm_sarkon_noble_armor_c_pl|Акадзунаэ-окэгава
+itm_sarkon_noble_armor_fem|Акадзунаэ-женский ёрой
+itm_sarkon_noble_armor_fem_pl|Акадзунаэ-женские ёрой
+itm_sarkondar_common_helm|Усиленная дзингаса
+itm_sarkondar_common_helm_pl|Усиленные дзингаса
+itm_sarkondar_noble_helm_a|Шлем-пасть змея
+itm_sarkondar_noble_helm_a_pl|Шлемы-пасть змея
+itm_sarkondar_noble_helm_b|Воронёный стальной кабуто
+itm_sarkondar_noble_helm_b_pl|Воронёные стальные кабуто
+itm_sarkondar_noble_helm_c|Шлем ронинов-военачальника
+itm_sarkondar_noble_helm_c_pl|Шлемы ронинов-военачальников
+itm_sarkondar_noble_helm_d|Кабуто даймё-изгоя
+itm_sarkondar_noble_helm_d_pl|Кабуто даймё-изгоев
+itm_sarkondar_noble_helm_e|Шлем эшкорского дворянина
+itm_sarkondar_noble_helm_e_pl|Шлемы эшкорских дворян
+itm_sarkondar_noble_helm_f|Кабуто жестокого даймё
+itm_sarkondar_noble_helm_f_pl|Кабуто жестоких даймё
+itm_sarkondar_noble_helm_za|Шлем лорда-ронина
+itm_sarkondar_noble_helm_za_pl|Шлемы лордов-ронинов
+itm_sarkondar_noble_helm_zb|Кабуто кланового лорда
+itm_sarkondar_noble_helm_zb_pl|Кабуто клановых лордов
+itm_sarzennar_common_helm|Шлем-ловушка работорговца
+itm_sarzennar_common_helm_pl|Шлемы-ловушки работорговцев
+itm_sarzennar_noble_helm_a|Шлем военачальника
+itm_sarzennar_noble_helm_a_pl|Шлемы военачальников
+itm_sarzennar_noble_helm_b|Шлем пустошного лорда
+itm_sarzennar_noble_helm_b_pl|Шлемы пустошных лордов
+itm_sarzennar_noble_helm_c|Шлем пустынного военачальника
+itm_sarzennar_noble_helm_c_pl|Шлемы пустынных военачальников
+itm_sarzennar_noble_helm_d|Шлем сарзеннарского дворянина
+itm_sarzennar_noble_helm_d_pl|Шлемы сарзеннарских дворян
+itm_sarzennar_noble_helm_e|Шлем кланового лорда
+itm_sarzennar_noble_helm_e_pl|Шлемы клановых лордов
+itm_sarzennar_noble_helm_za|Шлем жестокого лорда
+itm_sarzennar_noble_helm_za_pl|Шлемы жестоких лордов
+itm_sarzennar_noble_helm_zb|Шлем верховного вождя
+itm_sarzennar_noble_helm_zb_pl|Шлемы верховных вождей
+itm_sarzennar_noble_helm_zbb|Шлем завоевателя
+itm_sarzennar_noble_helm_zbb_pl|Шлемы завоевателей
+itm_sarzennar_noble_helm_zc|Шлем повелителя
+itm_sarzennar_noble_helm_zc_pl|Шлемы повелителей
+itm_valkuur_common_helm_a|Лицевой капюшон Улья
+itm_valkuur_common_helm_a_pl|Лицевые капюшоны Улья
+itm_valkuur_common_helm_b|Они-дзингаса Улья
+itm_valkuur_common_helm_b_pl|Они-дзингаса Улья
+itm_valkuur_common_helm_c|Сандагаса с капюшоном Улья
+itm_valkuur_common_helm_c_pl|Сандагаса с капюшоном Улья
+itm_valkuur_noble_armor_a|Доспех ветерана войны
+itm_valkuur_noble_armor_a_pl|Доспехи ветеранов войны
+itm_valkuur_noble_armor_b|Нагрудник ветерана войны
+itm_valkuur_noble_armor_b_pl|Нагрудники ветеранов войны
+itm_valkuur_noble_armor_c|Доспех валькюрского дворянина
+itm_valkuur_noble_armor_c_pl|Доспехи валькюрских дворян
+itm_valkuur_noble_armor_d|Доспех принца Улья
+itm_valkuur_noble_armor_d_pl|Доспехи принцев Улья
+itm_valkuur_noble_armor_e|Доспех валькюрского дворянина
+itm_valkuur_noble_armor_e_pl|Доспехи валькюрских дворян
+itm_valkuur_noble_helm_a|Шлем валькюрского дворянина
+itm_valkuur_noble_helm_a_pl|Шлемы валькюрских дворян
+itm_valkuur_noble_helm_b|Шлем валькюрского дворянина
+itm_valkuur_noble_helm_b_pl|Шлемы валькюрских дворян
+itm_valkuur_noble_helm_c|Шлем валькюрского дворянина
+itm_valkuur_noble_helm_c_pl|Шлемы валькюрских дворян
+itm_valkuur_noble_helm_d|Шлем валькюрского дворянина
+itm_valkuur_noble_helm_d_pl|Шлемы валькюрских дворян
+itm_valkuur_noble_helm_e|Шлем валькюрского дворянина
+itm_valkuur_noble_helm_e_pl|Шлемы валькюрских дворян
+itm_valkuur_noble_helm_f|Шлем валькюрского дворянина
+itm_valkuur_noble_helm_f_pl|Шлемы валькюрских дворян
+itm_valkuur_noble_helm_g|Шлем валькюрского дворянина
+itm_valkuur_noble_helm_g_pl|Шлемы валькюрских дворян
+itm_valkuur_noble_helm_h|Шлем валькюрского дворянина
+itm_valkuur_noble_helm_h_pl|Шлемы валькюрских дворян
+itm_valkuur_noble_helm_i|Шлем валькюрского дворянина
+itm_valkuur_noble_helm_i_pl|Шлемы валькюрских дворян
+itm_valkuur_noble_helm_j|Шлем валькюрского дворянина
+itm_valkuur_noble_helm_j_pl|Шлемы валькюрских дворян
+itm_xavaris_common_helm|Самурайский стальной кабуто
+itm_xavaris_common_helm_pl|Самурайские стальные кабуто
+itm_xavaris_noble_armor_a|Доспех имперского дворянина
+itm_xavaris_noble_armor_a_pl|Доспехи имперских дворян
+itm_xavaris_noble_armor_b|Гусоку самурайского капитана
+itm_xavaris_noble_armor_b_pl|Гусоку самурайских капитанов
+itm_xavaris_noble_armor_c|Гусоку капитана отряда
+itm_xavaris_noble_armor_c_pl|Гусоку капитанов отрядов
+itm_xavaris_noble_armor_d|Имперский дворянский ламелляр
+itm_xavaris_noble_armor_d_pl|Имперские дворянские ламелляры
+itm_xavaris_noble_armor_e|Тиранический ламеллярный доспех
+itm_xavaris_noble_armor_e_pl|Тиранические ламеллярные доспехи
+itm_xavaris_noble_armor_f|Гусоку и хаори даймё
+itm_xavaris_noble_armor_f_pl|Гусоку и хаори даймё
+itm_xavaris_noble_helm_a|Кабуто даймё СГ
+itm_xavaris_noble_helm_a_pl|Кабуто даймё СГ
+itm_xavaris_noble_helm_b|Кабуто самурайского капитана
+itm_xavaris_noble_helm_b_pl|Кабуто самурайских капитанов
+itm_xavaris_noble_helm_c|Даймё-стальная дзингаса
+itm_xavaris_noble_helm_c_pl|Даймё-стальные дзингаса
+itm_xavaris_noble_helm_d|Гребенчатый кабуто даймё
+itm_xavaris_noble_helm_d_pl|Гребенчатые кабуто даймё
+itm_xavaris_noble_helm_e|Дворянский маскированный шлем
+itm_xavaris_noble_helm_e_pl|Дворянские маскированные шлемы
+itm_xavaris_noble_helm_f|Ламеллярный кабуто деспота
+itm_xavaris_noble_helm_f_pl|Ламеллярные кабуто деспота
+itm_xavaris_noble_helm_g|Кабуто капитана отряда
+itm_xavaris_noble_helm_g_pl|Кабуто капитанов отрядов
+itm_xavaris_noble_helm_z|Кабуто имперского лорда
+itm_xavaris_noble_helm_z_pl|Кабуто имперских лордов
+itm_arazthor_common_armor|Деспотический пластинчатый доспех
+itm_arazthor_common_armor_pl|Деспотические пластинчатые доспехи
+itm_celadun_common_armor|Республиканская тяжёлая домару
+itm_celadun_common_armor_pl|Республиканские тяжёлые домару
+itm_dendaeron_common_armor|Шекский лёгкий железный доспех
+itm_dendaeron_common_armor_pl|Шекские лёгкие железные доспехи
+itm_eshkor_common_armor|Доспех эшкорского солдата
+itm_eshkor_common_armor_pl|Доспехи эшкорских солдат
+itm_sarkondar_common_armor|Доспех змеиного мушкетёра
+itm_sarkondar_common_armor_pl|Доспехи змеиного мушкетёра
+itm_sarzennar_common_armor|Гусоку клана дракона
+itm_sarzennar_common_armor_pl|Гусоку клана дракона
+itm_valkuur_common_armor|Грубые пластины Улья
+itm_valkuur_common_armor_pl|Грубые пластины Улья
+itm_xavaris_common_armor|Грубый ламеллярный доспех
+itm_xavaris_common_armor_pl|Грубые ламеллярные доспехи
+itm_arazthor_gambeson|Святой нагрудник
+itm_arazthor_gambeson_pl|Святые нагрудники
+itm_celadun_gambeson|Шекские воинские меха
+itm_celadun_gambeson_pl|Шекские воинские меха
+itm_dendaeron_gambeson|Болотный ниндзевский доспех
+itm_dendaeron_gambeson_pl|Болотные ниндзевские доспехи
+itm_eshkor_gambeson|Эшкорский гамбезон
+itm_eshkor_gambeson_pl|Эшкорские гамбезоны
+itm_sarzennar_gambeson|Сарзеннарский гамбезоны
+itm_sarzennar_gambeson_pl|Сарзеннарские гамбезоны
+itm_sarkondar_gambeson|Драконий кольчужный доспех
+itm_sarkondar_gambeson_pl|Драконьи кольчужные доспехи
+itm_valkuur_gambeson|Ламеллярный доспех Улья
+itm_valkuur_gambeson_pl|Ламеллярные доспехи Улья
+itm_xavaris_gambeson|Самурайский кожаный доспех
+itm_xavaris_gambeson_pl|Самурайские кожаные доспехи
+itm_ray_musket_a|Хоцян
+itm_ray_musket_a_pl|Хоцян
+itm_ray_musket_b|Самодельная ручница
+itm_ray_musket_b_pl|Самодельные ручницы
+itm_ray_musket_c|Няочун
+itm_ray_musket_c_pl|Няочун
+itm_ray_musket_c_m|Няочун со штыком
+itm_ray_musket_c_m_pl|Няочун со штыком
+itm_ray_musket_d|Тяжёлая аркебуза
+itm_ray_musket_d_pl|Тяжёлые аркебузы
+itm_ray_musket_e|Аркебуза
+itm_ray_musket_e_pl|Аркебузы
+itm_ray_musket_f|Камора кремнёвой винтовки
+itm_ray_musket_f_pl|Каморы кремнёвых винтовок
+itm_gozonn_mauler|Гозоннская булава
+itm_gozonn_mauler_pl|Гозоннские булавы
+itm_duckbill|Утконос
+itm_duckbill_pl|Утконосы
+itm_trike|Гашарн
+itm_trike_pl|Гашарны
+itm_gazelle|Гразер
+itm_gazelle_pl|Гразеры
+itm_dino|Плавниковый ящер
+itm_dino_pl|Плавниковые ящеры
+itm_padded_top_a|Кожаный шлем
+itm_padded_top_a_pl|Кожаные шлемы
+itm_padded_top_b|Кожаный шлем
+itm_padded_top_b_pl|Кожаные шлемы
+itm_jingasa_a|Военная шляпа
+itm_jingasa_a_pl|Военные шляпы
+itm_jingasa_b|Военная шляпа
+itm_jingasa_b_pl|Военные шляпы
+itm_orogon_face_studs|Пирсинг
+itm_orogon_face_studs_pl|Пирсинг
+itm_cydonian_uniform|Железное сутровое пальто
+itm_cydonian_uniform_pl|Железные сутровые пальто
+itm_cydonian_boots|Цидонианские штаны
+itm_cydonian_boots_pl|Цидонианские штаны
+itm_Cydonian_Chest|Гнилой ёрой с плащом
+itm_Cydonian_Chest_pl|Гнилые ёрой с плащами
+itm_cydonian_kuhnight|Железная сутровая форма боксёра
+itm_cydonian_kuhnight_pl|Железные сутровые формы боксёра
+itm_cydonian_legwrap|Цидонианские обмотки
+itm_cydonian_legwrap_pl|Цидонианские обмотки
+itm_cydonian_centur|Железная сутровая униформа
+itm_cydonian_centur_pl|Железные сутровые униформы
+itm_cydonian_cuirass|Шекский лёгкий доспех
+itm_cydonian_cuirass_pl|Шекские лёгкие доспехи
+itm_cydonian_centuriall|Каннибальская шипастая броня
+itm_cydonian_centuriall_pl|Каннибальские шипастые брони
+itm_cydonian_warmask|Ханнямэн
+itm_cydonian_warmask_pl|Ханнямэн
+itm_cydonian_Morion|Тюрбан с очками
+itm_cydonian_Morion_pl|Тюрбаны с очками
+itm_cydonian_knight_helmet|Плетёный кабуто
+itm_cydonian_knight_helmet_pl|Плетёные кабуто
+itm_cydonian_knight_mask|Гнилой костяной кабуто
+itm_cydonian_knight_mask_pl|Гнилые костяные кабуто
+itm_cydonian_stahl|Наёмничий гребенчатый шлем
+itm_cydonian_stahl_pl|Наёмничьи гребенчатые шлемы
+itm_cydonian_masked_morion|Длинноволосый кабуто
+itm_cydonian_masked_morion_pl|Длинноволосые кабуто
+itm_invisi_boo|Прозрачный ботинок
+itm_invisi_boo_pl|Прозрачные ботинки
+itm_cydonian_star_knight_plate|Доспех наказанного принца
+itm_cydonian_star_knight_plate_pl|Доспехи наказанных принцев
+itm_cydonian_centurial_mask|Болотный ниндзевский шлем
+itm_cydonian_centurial_mask_pl|Болотные ниндзевские шлемы
+itm_cydonian_knight_plate|Паноплия кабуки-воина
+itm_cydonian_knight_plate_pl|Паноплии кабуки-воина
+itm_orogon_zamurai_do|Ломовый кираса
+itm_orogon_zamurai_do_pl|Ломовые кирасы
+itm_orogon_zamurai_do2|Кожаный ламеллярный доспех
+itm_orogon_zamurai_do2_pl|Кожаные ламеллярные доспехи
+itm_orogon_kabut|Чёрный железный кабуто
+itm_orogon_kabut_pl|Чёрные железные кабуто
+itm_orogon_facem|Маскированный чёрный железный кабуто
+itm_orogon_facem_pl|Маскированные чёрные железные кабуто
+itm_Orogon_Torgudopl|Пластины номадского военачальника
+itm_Orogon_Torgudopl_pl|Пластины номадских военачальников
+itm_Zomi_Yant|Зомийские татуировки алат-янт
+itm_Zomi_Yant_pl|Зомийские татуировки алат-янт
+itm_Zomi_Yant2|Зомийский жилет алат-янт
+itm_Zomi_Yant2_pl|Зомийские жилеты алат-янт
+itm_monk_wrap|Монашеская обувь
+itm_monk_wrap_pl|Монашеская обувь
+itm_orogon_boots|Буси-сунэатэ
+itm_orogon_boots_pl|Буси-сунэатэ
+itm_orogon_doumaru|Безрукавное железное кэбики
+itm_orogon_doumaru_pl|Безрукавные железные кэбики
+itm_cydonian_chestoplet|Тяжёлые меха Улья
+itm_cydonian_chestoplet_pl|Тяжёлые меха Улья
+itm_monk_yant_feet|Зомийские сандалии
+itm_monk_yant_feet_pl|Зомийские сандалии
+itm_Valkuur_Gambesonzz|Цинкоплата Улья
+itm_Valkuur_Gambesonzz_pl|Цинкоплаты Улья
+itm_ajiat_form|Форма аджиат
+itm_ajiat_form_pl|Формы аджиат
+itm_Path_Uniform|Хакама ронина-бродяги
+itm_Path_Uniform_pl|Хакама ронинов-бродяг
+itm_Path_Uniform2|Ломовые железные пластины
+itm_Path_Uniform2_pl|Ломовые железные пластины
+itm_path_hat|Кожаная шляпа с вуалью
+itm_path_hat_pl|Кожаные шляпы с вуалью
+itm_path_dana|Повстанческая соломенная капюшон
+itm_path_dana_pl|Повстанческие соломенные капюшоны
+itm_Path_Bubblech|Шекский бессмертный доспех
+itm_Path_Bubblech_pl|Шекские бессмертные доспехи
+itm_bubblech_hat|Шляпа эбоси
+itm_bubblech_hat_pl|Шляпы эбоси
+itm_Path_Enlighten|Ао-они-дзингаса
+itm_Path_Enlighten_pl|Ао-они-дзингаса
+itm_path_englighten_toys|Дзингаса провидца Пути
+itm_path_englighten_toys_pl|Дзингаса провидцев Пути
+itm_Path_Sutto|Гнев Крала
+itm_Path_Sutto_pl|Гнев Крала
+itm_wandered_straw_hat|Соломенная шляпа каса
+itm_wandered_straw_hat_pl|Соломенные шляпы каса
+itm_UC_sugegasa|Шляпа сугэгаса
+itm_UC_sugegasa_pl|Шляпы сугэгаса
+itm_farmer_sandals|Фермерские сандалии
+itm_farmer_sandals_pl|Фермерские сандалии
 itm_arudakebiki_kenshi|UC Half Armor
 itm_arudakebiki_kenshi_pl|UC Half Armors
 itm_UC_samurai_Kabuto|UC Samurai Kabuto
