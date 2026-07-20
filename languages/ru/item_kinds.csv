@@ -1804,206 +1804,206 @@ itm_orogon_shield_f|Пех-стражи
 itm_orogon_shield_f_pl|Пех-стражи
 itm_marakuur_shield_a|Плетёный щит
 itm_marakuur_shield_a_pl|Плетёные щиты
-itm_marakuur_shield_b|Wicker Shield
-itm_marakuur_shield_b_pl|Wicker Shields
-itm_marakuur_shield_c|Leather Square Shield
-itm_marakuur_shield_c_pl|Leather Square Shields
-itm_mandurgar_shield_a|Iron Board Shield
-itm_mandurgar_shield_a_pl|Iron Board Shields
-itm_mandurgar_shield_b|Heavy Iron Shield
-itm_mandurgar_shield_b_pl|Heavy Iron Shields
-itm_mandurgar_shield_c|Gruesome Visage Shield
-itm_mandurgar_shield_c_pl|Gruesome Visage Shield
-itm_orogon_poleaxe|Orogon Poleaxe
-itm_orogon_poleaxe_pl|Orogon Poleaxe
-itm_orogon_headaxe|Orogon Axe
-itm_orogon_headaxe_pl|Orogon Axe
-itm_drylander_robe|Humble Gi
-itm_drylander_robe_pl|Humble Gi
-itm_drylander_robe_black|Drylander Robe
-itm_drylander_robe_black_pl|Drylander Robe
-itm_drylander_robe_orange|Drylander Robe
-itm_drylander_robe_orange_pl|Drylander Robe
-itm_drylander_robe_blue|Drylander Robe
-itm_drylander_robe_blue_pl|Drylander Robe
-itm_drylander_hood_a|Nomad Veil
-itm_drylander_hood_a_pl|Nomad Veils
-itm_drylander_hood_b|Drylander Hood
-itm_drylander_hood_b_pl|Drylander Hood
-itm_drylander_hood_orange_a|Drylander Hood
-itm_drylander_hood_orange_a_pl|Drylander Hood
-itm_drylander_hood_orange_b|Drylander Hood
-itm_drylander_hood_orange_b_pl|Drylander Hood
-itm_drylander_hood_blue_a|Drylander Hood
-itm_drylander_hood_blue_a_pl|Drylander Hood
-itm_drylander_hood_blue_b|Drifter Headwrap
-itm_drylander_hood_blue_b_pl|Drifter Headwraps
-itm_drylander_hood_black_a|Drylander Hood
-itm_drylander_hood_black_a_pl|Drylander Hood
-itm_drylander_hood_black_b|Drylander Hood
-itm_drylander_hood_black_b_pl|Drylander Hood
-itm_drylander_cloak|Drylander Cloak
-itm_drylander_cloak_pl|Drylander Cloak
-itm_drylander_cloak_black|Drylander Cloak
-itm_drylander_cloak_black_pl|Drylander Cloak
-itm_warmonk_robe|Hasheeshian Monk's Robe
-itm_warmonk_robe_pl|Hasheeshian Monk's Robe
-itm_zomi_mask_a|Hasheeshian Gas Mask
-itm_zomi_mask_a_pl|Hasheeshian Gas Masks
-itm_zomi_mask_b|Drifter Rough Goggles
-itm_zomi_mask_b_pl|Drifter Rough Goggles
-itm_zomi_mask_c|Drifter Eyeglass
-itm_zomi_mask_c_pl|Drifter Eyeglass
-itm_dustek_headwrap|Dustek's Head Wrap
-itm_dustek_headwrap_pl|Dustek's Head Wrap
-itm_dustek_robe|Dustek Robe
-itm_dustek_robe_pl|Dustek Robe
-itm_nomad_dagger_a|Nomad Dagger
-itm_nomad_dagger_a_pl|Nomad Dagger
-itm_nomad_dagger_b_rev|Nomad Dagger
-itm_nomad_dagger_b_rev_pl|Nomad Dagger
-itm_nomad_dagger_b|Nomad Dagger
-itm_nomad_dagger_b_pl|Nomad Dagger
-itm_nomad_dagger_a_left|Left-Hand Nomad Dagger
-itm_nomad_dagger_a_left_pl|Left-Hand Nomad Dagger
-itm_longknife_a|Nomad Longknife
-itm_longknife_a_pl|Nomad Longknife
-itm_longknife_b|Nomad Longknife
-itm_longknife_b_pl|Nomad Longknife
-itm_longknife_c|Nomad Longknife
-itm_longknife_c_pl|Nomad Longknife
-itm_longknife_cb|Nomad Longknife
-itm_longknife_cb_pl|Nomad Longknife
-itm_longknife_b_left|Left-Hand Longknife
-itm_longknife_b_left_pl|Left-Hand Longknife
-itm_longknife_cb_left|Left-Hand Longknife
-itm_longknife_cb_left_pl|Left-Hand Longknife
-itm_drylander_gun_a|Fulgurator Rifle
-itm_drylander_gun_a_pl|Fulgurator Rifle
-itm_drylander_gun_b|Fulgurator Rifle
-itm_drylander_gun_b_pl|Fulgurator Rifle
-itm_kilt_blue|Kilt
-itm_kilt_blue_pl|Kilt
-itm_kilt_green|Kilt
-itm_kilt_green_pl|Kilt
-itm_kilt_orange|Kilt
-itm_kilt_orange_pl|Kilt
-itm_kilt_red|Kilt
-itm_kilt_red_pl|Kilt
-itm_valgaer_headband_a|Headband
-itm_valgaer_headband_a_pl|Headband
-itm_irazen_sickle|Irazen Billhook
-itm_irazen_sickle_pl|Irazen Billhook
-itm_longknife_d|Irazen Longknife
-itm_longknife_d_pl|Irazen Longknife
-itm_gladiator_helm_b|Gladiator Helmet
-itm_gladiator_helm_b_pl|Gladiator Helmet
-itm_fem_harness|Female Arena Harness
-itm_fem_harness_pl|Female Arena Harness
-itm_gladiator_helm|Gladiator Helmet
-itm_gladiator_helm_pl|Gladiator Helmet
-itm_arena_harness|Arena Harness
-itm_arena_harness_pl|Arena Harness
-itm_heavy_harness|Arena Harness
-itm_heavy_harness_pl|Arena Harness
-itm_pectoral_harness_a|Harness
-itm_pectoral_harness_a_pl|Harness
-itm_pectoral_harness_b|Harness
-itm_pectoral_harness_b_pl|Harness
-itm_pectoral_harness_c|Harness
-itm_pectoral_harness_c_pl|Harness
-itm_dancer_costume_a|Harness
-itm_dancer_costume_a_pl|Harness
-itm_dancer_costume_b|Harness
-itm_dancer_costume_b_pl|Harness
-itm_arazthor_common_helm|Sellsword Helmet
-itm_arazthor_common_helm_pl|Sellsword Helmets
-itm_arazthor_greaves|Heavy Plated Waraji
-itm_arazthor_greaves_pl|Heavy Plated Waraji
-itm_arazthor_noble_armor_a|Okranite Blessed Armor
-itm_arazthor_noble_armor_a_pl|Okranite Blessed Armors
-itm_arazthor_noble_armor_b|Paladin's Chainmail
-itm_arazthor_noble_armor_b_pl|Paladin's Chainmail
-itm_arazthor_noble_armor_c|Okranite Chainmail and Tabard
-itm_arazthor_noble_armor_c_pl|Okranite Chainmail and Tabards
-itm_arazthor_noble_armor_d|Armor of Stigmata
-itm_arazthor_noble_armor_d_pl|Armor of Stigmata
-itm_arazthor_noble_armor_e|Armor of Mercy
-itm_arazthor_noble_armor_e_pl|Armor of Mercy
-itm_arazthor_noble_armor_f|Chestplate of Radiance
-itm_arazthor_noble_armor_f_pl|Chestplate of Radiance
-itm_arazthor_noble_helm_za|Thorn of Okran
-itm_arazthor_noble_helm_za_pl|Thorns of Okran
-itm_arazthor_noble_helm_zb|Bucket Zukin
-itm_arazthor_noble_helm_zb_pl|Bucket Zukin
-itm_arazthor_noble_helm_zbb|Penitent Silence
-itm_arazthor_noble_helm_zbb_pl|Penitent Silence
-itm_arazthor_noble_helm_zbc|Devotion of Okran
-itm_arazthor_noble_helm_zbc_pl|Devotion of Okran
-itm_arazthor_noble_helm_zbd|Okranite Crested Zukin
-itm_arazthor_noble_helm_zbd_pl|Okranite Crested Zukin
-itm_arazthor_noble_helm_zc|Inquisitor's Holy Helmet
-itm_arazthor_noble_helm_zc_pl|Inquisitor's Holy Helmets
-itm_arazthor_noble_helm_zd|Inquisitor Holy Sandogasa
-itm_arazthor_noble_helm_zd_pl|Inquisitor Holy Sandogasa
-itm_arazthor_noble_helm_ze|Blessed Pain
-itm_arazthor_noble_helm_ze_pl|Blessed Pain
-itm_arazthor_noble_helm_zf|Okranite Inquisitor's Zukin
-itm_arazthor_noble_helm_zf_pl|Okranite Inquisitor's Zukin
-itm_arazthor_noble_helm_zg|Nails of Okran
-itm_arazthor_noble_helm_zg_pl|Nails of Okran
-itm_arazthor_noble_helm_zh|Crown of Okran
-itm_arazthor_noble_helm_zh_pl|Crown of Okran
-itm_celadun_common_helm_a|Guangxi and Gas Mask
-itm_celadun_common_helm_a_pl|Guangxi and Gas Mask
-itm_celadun_common_helm_b|Republic Gas Mask
-itm_celadun_common_helm_b_pl|Republic Gas Mask
-itm_celadun_noble_armor_a|Kenpei Inspector's Uniform
-itm_celadun_noble_armor_a_pl|Kenpei Inspector Uniforms
-itm_celadun_noble_armor_b|Munzo Captain's Haori
-itm_celadun_noble_armor_b_pl|Munzo Captain's Haori
-itm_celadun_noble_armor_c|High Command Trench Coat
-itm_celadun_noble_armor_c_pl|High Command Trench Coat
-itm_celadun_noble_armor_d|Deputy Officer Uniform
-itm_celadun_noble_armor_d_pl|Deputy Officer Uniforms
-itm_celadun_noble_armor_e|Munzo Squad Cpt Uniform
-itm_celadun_noble_armor_e_pl|Munzo Squad Cpt Uniforms
-itm_celadun_noble_helm_a|Munzo Officer Hat
-itm_celadun_noble_helm_a_pl|Munzo Officer Hats
-itm_celadun_noble_helm_b|Republican Officer's Jingasa
-itm_celadun_noble_helm_b_pl|Republican Officer's Jingasa
-itm_celadun_noble_helm_c|Munzo Officer's Helmet
-itm_celadun_noble_helm_c_pl|Munzo Officer's Helmet
-itm_celadun_noble_helm_d|Republican Captain's Hat
-itm_celadun_noble_helm_d_pl|Republican Captain's Hats
-itm_celadun_noble_helm_e|Republican Officer's Salakot
-itm_celadun_noble_helm_e_pl|Republican Officer's Salakot
-itm_celadun_noble_helm_f|Republican Infantry Helmet
-itm_celadun_noble_helm_f_pl|Republican Infantry Helmets
-itm_celadun_noble_helm_g|Commisioned Officer Hat
-itm_celadun_noble_helm_g_pl|Commisioned Officer Hat
-itm_celadun_noble_helm_h|Republican Tech Cowl
-itm_celadun_noble_helm_h_pl|Republican Tech Cowls
-itm_dendaeron_common_helm|Lamellar Helmet
-itm_dendaeron_common_helm_pl|Lamellar Helmets
-itm_dendaeron_noble_armor_a|Shek Warlord Plate
-itm_dendaeron_noble_armor_a_pl|Shek Warlord Plates
-itm_dendaeron_noble_armor_b|Shek Heavy Chain and Plates
-itm_dendaeron_noble_armor_b_pl|Shek Heavy Chain and Plates
-itm_dendaeron_noble_armor_c|Spikes of Kral
-itm_dendaeron_noble_armor_c_pl|Spikes of Kral
-itm_dendaeron_noble_helm_a|Shek Warhelm
-itm_dendaeron_noble_helm_a_pl|Shek Warhelms
-itm_dendaeron_noble_helm_b|Shek Chieftain's Helmet
-itm_dendaeron_noble_helm_b_pl|Shek Chieftain's Helmet
-itm_dendaeron_noble_helm_c|Shek Warchief's Helmet
-itm_dendaeron_noble_helm_c_pl|Shek Warchief's Helmets
-itm_dendaeron_noble_helm_d|Shek Barbaric Helm
-itm_dendaeron_noble_helm_d_pl|Shek Barbaric Helm
-itm_dendaeron_noble_helm_e|Shek Raider's Helmet
-itm_dendaeron_noble_helm_e_pl|Shek Raider's Helmet
-itm_dendaeron_noble_helm_f|Shek Warchief Visage
-itm_dendaeron_noble_helm_f_pl|Shek Warchief Visage
+itm_marakuur_shield_b|Плетёный щит
+itm_marakuur_shield_b_pl|Плетёные щиты
+itm_marakuur_shield_c|Кожаный квадратный щит
+itm_marakuur_shield_c_pl|Кожаные квадратные щиты
+itm_mandurgar_shield_a|Железный дощатый щит
+itm_mandurgar_shield_a_pl|Железные дощатые щиты
+itm_mandurgar_shield_b|Тяжёлый железный щит
+itm_mandurgar_shield_b_pl|Тяжёлые железные щиты
+itm_mandurgar_shield_c|Устрашающий щит
+itm_mandurgar_shield_c_pl|Устрашающие щиты
+itm_orogon_poleaxe|Орогонская алебарда
+itm_orogon_poleaxe_pl|Орогонские алебарды
+itm_orogon_headaxe|Орогонский топор
+itm_orogon_headaxe_pl|Орогонские топоры
+itm_drylander_robe|Смиренное ги
+itm_drylander_robe_pl|Смиренные ги
+itm_drylander_robe_black|Роба сухопутника
+itm_drylander_robe_black_pl|Робы сухопутника
+itm_drylander_robe_orange|Роба сухопутника
+itm_drylander_robe_orange_pl|Робы сухопутника
+itm_drylander_robe_blue|Роба сухопутника
+itm_drylander_robe_blue_pl|Робы сухопутника
+itm_drylander_hood_a|Вуаль номада
+itm_drylander_hood_a_pl|Вуали номада
+itm_drylander_hood_b|Капюшон сухопутника
+itm_drylander_hood_b_pl|Капюшоны сухопутника
+itm_drylander_hood_orange_a|Капюшон сухопутника
+itm_drylander_hood_orange_a_pl|Капюшоны сухопутника
+itm_drylander_hood_orange_b|Капюшон сухопутника
+itm_drylander_hood_orange_b_pl|Капюшоны сухопутника
+itm_drylander_hood_blue_a|Капюшон сухопутника
+itm_drylander_hood_blue_a_pl|Капюшоны сухопутника
+itm_drylander_hood_blue_b|Головная повязка скитальца
+itm_drylander_hood_blue_b_pl|Головные повязки скитальца
+itm_drylander_hood_black_a|Капюшон сухопутника
+itm_drylander_hood_black_a_pl|Капюшоны сухопутника
+itm_drylander_hood_black_b|Капюшон сухопутника
+itm_drylander_hood_black_b_pl|Капюшоны сухопутника
+itm_drylander_cloak|Плащ сухопутника
+itm_drylander_cloak_pl|Плащи сухопутника
+itm_drylander_cloak_black|Плащ сухопутника
+itm_drylander_cloak_black_pl|Плащи сухопутника
+itm_warmonk_robe|Роба монаха-гашишианца
+itm_warmonk_robe_pl|Робы монаха-гашишианца
+itm_zomi_mask_a|Противогаз гашишианца
+itm_zomi_mask_a_pl|Противогазы гашишианца
+itm_zomi_mask_b|Грубые очки скитальца
+itm_zomi_mask_b_pl|Грубые очки скитальца
+itm_zomi_mask_c|Монокль скитальца
+itm_zomi_mask_c_pl|Монокли скитальца
+itm_dustek_headwrap|Головная повязка Dustek
+itm_dustek_headwrap_pl|Головные повязки Dustek
+itm_dustek_robe|Роба Dustek
+itm_dustek_robe_pl|Робы Dustek
+itm_nomad_dagger_a|Кинжал номада
+itm_nomad_dagger_a_pl|Кинжалы номада
+itm_nomad_dagger_b_rev|Кинжал номада
+itm_nomad_dagger_b_rev_pl|Кинжалы номада
+itm_nomad_dagger_b|Кинжал номада
+itm_nomad_dagger_b_pl|Кинжалы номада
+itm_nomad_dagger_a_left|Кинжал номада левой руки
+itm_nomad_dagger_a_left_pl|Кинжалы номада левой руки
+itm_longknife_a|Длинный нож номада
+itm_longknife_a_pl|Длинные ножи номада
+itm_longknife_b|Длинный нож номада
+itm_longknife_b_pl|Длинные ножи номада
+itm_longknife_c|Длинный нож номада
+itm_longknife_c_pl|Длинные ножи номада
+itm_longknife_cb|Длинный нож номада
+itm_longknife_cb_pl|Длинные ножи номада
+itm_longknife_b_left|Длинный нож левой руки
+itm_longknife_b_left_pl|Длинные ножи левой руки
+itm_longknife_cb_left|Длинный нож левой руки
+itm_longknife_cb_left_pl|Длинные ножи левой руки
+itm_drylander_gun_a|Фульгураторная винтовка
+itm_drylander_gun_a_pl|Фульгураторные винтовки
+itm_drylander_gun_b|Фульгураторная винтовка
+itm_drylander_gun_b_pl|Фульгураторные винтовки
+itm_kilt_blue|Килт
+itm_kilt_blue_pl|Килты
+itm_kilt_green|Килт
+itm_kilt_green_pl|Килты
+itm_kilt_orange|Килт
+itm_kilt_orange_pl|Килты
+itm_kilt_red|Килт
+itm_kilt_red_pl|Килты
+itm_valgaer_headband_a|Повязка на голову
+itm_valgaer_headband_a_pl|Повязки на голову
+itm_irazen_sickle|Билльхук иразен
+itm_irazen_sickle_pl|Билльхуки иразен
+itm_longknife_d|Длинный нож иразен
+itm_longknife_d_pl|Длинные ножи иразен
+itm_gladiator_helm_b|Шлем гладиатора
+itm_gladiator_helm_b_pl|Шлемы гладиатора
+itm_fem_harness|Женская аренная сбруя
+itm_fem_harness_pl|Женские аренные сбруи
+itm_gladiator_helm|Шлем гладиатора
+itm_gladiator_helm_pl|Шлемы гладиатора
+itm_arena_harness|Аренная сбруя
+itm_arena_harness_pl|Аренная сбруя
+itm_heavy_harness|Аренная сбруя
+itm_heavy_harness_pl|Аренная сбруя
+itm_pectoral_harness_a|Сбруя
+itm_pectoral_harness_a_pl|Сбруи
+itm_pectoral_harness_b|Сбруя
+itm_pectoral_harness_b_pl|Сбруи
+itm_pectoral_harness_c|Сбруя
+itm_pectoral_harness_c_pl|Сбруи
+itm_dancer_costume_a|Сбруя
+itm_dancer_costume_a_pl|Сбруи
+itm_dancer_costume_b|Сбруя
+itm_dancer_costume_b_pl|Сбруи
+itm_arazthor_common_helm|Шлем наёмного мечника
+itm_arazthor_common_helm_pl|Шлемы наёмных мечников
+itm_arazthor_greaves|Тяжёлые пластинчатые варадзи
+itm_arazthor_greaves_pl|Тяжёлые пластинчатые варадзи
+itm_arazthor_noble_armor_a|Огранитский благословенный доспех
+itm_arazthor_noble_armor_a_pl|Огранитские благословенные доспехи
+itm_arazthor_noble_armor_b|Кольчуга паладина
+itm_arazthor_noble_armor_b_pl|Кольчуги паладина
+itm_arazthor_noble_armor_c|Огранитская кольчуга с табардом
+itm_arazthor_noble_armor_c_pl|Огранитские кольчуги с табардами
+itm_arazthor_noble_armor_d|Доспех стигматов
+itm_arazthor_noble_armor_d_pl|Доспехи стигматов
+itm_arazthor_noble_armor_e|Доспех милосердия
+itm_arazthor_noble_armor_e_pl|Доспехи милосердия
+itm_arazthor_noble_armor_f|Нагрудник сияния
+itm_arazthor_noble_armor_f_pl|Нагрудники сияния
+itm_arazthor_noble_helm_za|Терний Окрана
+itm_arazthor_noble_helm_za_pl|Тернии Окрана
+itm_arazthor_noble_helm_zb|Дзукин-ведро
+itm_arazthor_noble_helm_zb_pl|Дзукин-ведро
+itm_arazthor_noble_helm_zbb|Молчание кающегося
+itm_arazthor_noble_helm_zbb_pl|Молчание кающегося
+itm_arazthor_noble_helm_zbc|Преданность Окрану
+itm_arazthor_noble_helm_zbc_pl|Преданность Окрану
+itm_arazthor_noble_helm_zbd|Огранитский гребенчатый дзукин
+itm_arazthor_noble_helm_zbd_pl|Огранитские гребенчатые дзукин
+itm_arazthor_noble_helm_zc|Святой шлем инквизитора
+itm_arazthor_noble_helm_zc_pl|Святые шлемы инквизитора
+itm_arazthor_noble_helm_zd|Святая сандагаса инквизитора
+itm_arazthor_noble_helm_zd_pl|Святые сандагаса инквизитора
+itm_arazthor_noble_helm_ze|Благословенная боль
+itm_arazthor_noble_helm_ze_pl|Благословенная боль
+itm_arazthor_noble_helm_zf|Огранитский дзукин инквизитора
+itm_arazthor_noble_helm_zf_pl|Огранитские дзукин инквизитора
+itm_arazthor_noble_helm_zg|Гвозди Окрана
+itm_arazthor_noble_helm_zg_pl|Гвозди Окрана
+itm_arazthor_noble_helm_zh|Венец Окрана
+itm_arazthor_noble_helm_zh_pl|Венцы Окрана
+itm_celadun_common_helm_a|Гуанси и противогаз
+itm_celadun_common_helm_a_pl|Гуанси и противогазы
+itm_celadun_common_helm_b|Республиканский противогаз
+itm_celadun_common_helm_b_pl|Республиканские противогазы
+itm_celadun_noble_armor_a|Униформа кэнпэй-инспектора
+itm_celadun_noble_armor_a_pl|Униформы кэнпэй-инспектора
+itm_celadun_noble_armor_b|Хаори капитана мундзо
+itm_celadun_noble_armor_b_pl|Хаори капитанов мундзо
+itm_celadun_noble_armor_c|Плащ высшего командования
+itm_celadun_noble_armor_c_pl|Плащи высшего командования
+itm_celadun_noble_armor_d|Униформа заместителя
+itm_celadun_noble_armor_d_pl|Униформы заместителя
+itm_celadun_noble_armor_e|Униформа капитана отряда мундзо
+itm_celadun_noble_armor_e_pl|Униформы капитанов отрядов мундзо
+itm_celadun_noble_helm_a|Фуражка офицера мундзо
+itm_celadun_noble_helm_a_pl|Фуражки офицеров мундзо
+itm_celadun_noble_helm_b|Дзингаса республиканского офицера
+itm_celadun_noble_helm_b_pl|Дзингаса республиканских офицеров
+itm_celadun_noble_helm_c|Шлем офицера мундзо
+itm_celadun_noble_helm_c_pl|Шлемы офицеров мундзо
+itm_celadun_noble_helm_d|Шляпа республиканского капитана
+itm_celadun_noble_helm_d_pl|Шляпы республиканских капитанов
+itm_celadun_noble_helm_e|Салакот республиканского офицера
+itm_celadun_noble_helm_e_pl|Салакот республиканских офицеров
+itm_celadun_noble_helm_f|Республиканский пехотный шлем
+itm_celadun_noble_helm_f_pl|Республиканские пехотные шлемы
+itm_celadun_noble_helm_g|Фуражка комиссионного офицера
+itm_celadun_noble_helm_g_pl|Фуражки комиссионных офицеров
+itm_celadun_noble_helm_h|Технический капюшон республиканца
+itm_celadun_noble_helm_h_pl|Технические капюшоны республиканца
+itm_dendaeron_common_helm|Ламеллярный шлем
+itm_dendaeron_common_helm_pl|Ламеллярные шлемы
+itm_dendaeron_noble_armor_a|Шекский пластины военачальника
+itm_dendaeron_noble_armor_a_pl|Шекские пластины военачальника
+itm_dendaeron_noble_armor_b|Шекская тяжёлая кольчуга с пластинами
+itm_dendaeron_noble_armor_b_pl|Шекские тяжёлые кольчуги с пластинами
+itm_dendaeron_noble_armor_c|Шипы Крала
+itm_dendaeron_noble_armor_c_pl|Шипы Крала
+itm_dendaeron_noble_helm_a|Шекский боевой шлем
+itm_dendaeron_noble_helm_a_pl|Шекские боевые шлемы
+itm_dendaeron_noble_helm_b|Шлем шекского вождя
+itm_dendaeron_noble_helm_b_pl|Шлемы шекских вождей
+itm_dendaeron_noble_helm_c|Шлем шекского верховного вождя
+itm_dendaeron_noble_helm_c_pl|Шлемы шекских верховных вождей
+itm_dendaeron_noble_helm_d|Варварский шекский шлем
+itm_dendaeron_noble_helm_d_pl|Варварские шекские шлемы
+itm_dendaeron_noble_helm_e|Шлем шекского рейдера
+itm_dendaeron_noble_helm_e_pl|Шлемы шекских рейдеров
+itm_dendaeron_noble_helm_f|Личина шекского верховного вождя
+itm_dendaeron_noble_helm_f_pl|Личины шекских верховных вождей
 itm_dendaeron_noble_helm_g|Dendaeron Noble's Helmet
 itm_dendaeron_noble_helm_g_pl|Dendaeron Noble's Helmet
 itm_dendaeron_noble_helm_h|Dendaeron Noble's Helmet
